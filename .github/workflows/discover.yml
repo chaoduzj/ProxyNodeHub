@@ -33,6 +33,19 @@ jobs:
           REPO_COUNT: '10'
           INACTIVE_DAYS: '7'
           ANALYSIS_CONCURRENCY: '4'
+      - name: Download mihomo
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -e
+          ASSET_URL=$(curl -s -H "Authorization: Bearer $GH_TOKEN" https://api.github.com/repos/MetaCubeX/mihomo/releases/latest | grep -o '"browser_download_url": *"[^"]*linux-amd64-compatible[^"]*\.gz"' | head -1 | cut -d'"' -f4)
+          if [ -z "$ASSET_URL" ]; then echo "找不到 mihomo 下载地址"; exit 1; fi
+          curl -sL -o mihomo.gz "$ASSET_URL"
+          gunzip -f mihomo.gz
+          chmod +x mihomo
+          ./mihomo -v
+      - name: Check nodes (mihomo delay test)
+        run: python3 .github/scripts/check.py --config out/clash.yaml --names out/node-names.json --out-dir out --mihomo ./mihomo --timeout 5000
       - name: Commit results
         run: |
           git config user.name "github-actions[bot]"
