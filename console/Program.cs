@@ -1,11 +1,27 @@
 // ProxyNodeHub.Console: 一次性发现入口，供 GitHub Actions 定时运行。
 // 复用 core/ 的公开 API，流程照抄 web/DiscoveryWorker.cs 的 DiscoverAsync /
 // AnalyzeRepositoriesAsync；不启动 Web 服务，不需要管理员密码，不需要 subs-check。
-// 产出写到 OUT_DIR（subscriptions.txt / nodes.txt / nodes.b64），
+// 产出写到 OUT_DIR（subscriptions.txt / nodes.txt / nodes.b64 / clash.yaml），
 // 精简状态写到 DATA_DIR/state-slim.json，特征库写到 DATA_DIR/features.json。
 // 退出码：0 = 本轮产出有效订阅；1 = 无有效订阅（不覆盖上一轮输出）；2 = 启动检查失败。
 using System.Text.Json;
 using ProxyNodeHub;
+
+// 本地转换模式：dotnet ProxyNodeHub.Console.dll convert <节点文件> <输出 clash.yaml>
+// 不跑发现流程，只把节点 URI 行转成 Clash Meta (mihomo) 可用的 clash.yaml。
+if (args.Length == 3 && args[0] == "convert")
+{
+    var inputLines = await File.ReadAllLinesAsync(args[1]);
+    var (yaml, converted, skipped) = ClashYaml.ConvertLines(inputLines);
+    if (converted == 0)
+    {
+        Console.Error.WriteLine("没有可转换的节点。");
+        return 1;
+    }
+    await File.WriteAllTextAsync(args[2], yaml);
+    Console.WriteLine($"已转换 {converted} 个节点，跳过 {skipped} 个，写入 {args[2]}。");
+    return 0;
+}
 
 var dataDir = Env("DATA_DIR", "data");
 var outDir = Env("OUT_DIR", "out");
@@ -152,6 +168,19 @@ try
     await File.WriteAllTextAsync(Path.Combine(outDir, "nodes.txt"), plain + "\n", ct);
     await File.WriteAllTextAsync(Path.Combine(outDir, "nodes.b64"), b64 + "\n", ct);
 
+    // Clash 订阅：把合并后的节点转成 Clash Meta (mihomo) 可用的 clash.yaml。
+    // 只有转换出有效节点才写，失败不覆盖上一轮。
+    var (clashYaml, clashCount, clashSkipped) = ClashYaml.ConvertLines(NodeParser.SplitNodeLines(plain));
+    if (clashCount > 0)
+    {
+        await File.WriteAllTextAsync(Path.Combine(outDir, "clash.yaml"), clashYaml, ct);
+        Log($"Clash: {clashCount} 个节点已写入 clash.yaml（跳过 {clashSkipped} 个不支持的节点）。");
+    }
+    else
+    {
+        Log("Clash: 没有可转换的节点，未写 clash.yaml。");
+    }
+
     var state = new
     {
         generated_at = DateTimeOffset.UtcNow,
@@ -168,13 +197,16 @@ try
         failed_downloads = github.FailedDownloads + downloadFailed,
         yaml_skipped = yamlSkipped,
         total_nodes = total,
-        unique_nodes = unique
+        unique_nodes = unique,
+        clash_nodes = clashCount,
+        clash_skipped = clashSkipped
     };
     await File.WriteAllTextAsync(Path.Combine(dataDir, "state-slim.json"),
         JsonSerializer.Serialize(state, new JsonSerializerOptions { WriteIndented = true }), ct);
 
     Log($"完成：{repos.Length} 个仓库，{urls.Length} 条订阅，{unique} 个去重节点（共 {total}）。" +
-        $"搜索失败 {failedSearches}，仓库失败 {failedRepos}，下载失败 {downloadFailed}，跳过 Clash YAML {yamlSkipped}。");
+        $"搜索失败 {failedSearches}，仓库失败 {failedRepos}，下载失败 {downloadFailed}，跳过 Clash YAML {yamlSkipped}，" +
+        $"Clash 转换 {clashCount} 个节点（跳过 {clashSkipped} 个）。");
     return 0;
 }
 catch (OperationCanceledException)
