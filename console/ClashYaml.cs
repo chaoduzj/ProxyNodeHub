@@ -8,7 +8,6 @@
 // YAML 解析器会把它们读成 null / 布尔 / 数字，导致 mihomo 加载整个配置失败。
 // 手写发射器把所有字符串都用双引号包起来，数字和布尔保持原样。
 using System.Globalization;
-using System.Net;
 using System.Text;
 using System.Text.Json;
 using System.Text.RegularExpressions;
@@ -17,10 +16,12 @@ namespace ProxyNodeHub;
 
 public static class ClashYaml
 {
-    /// <summary>转换节点 URI 行；返回 (yaml 文本, 成功数, 跳过数)。成功数为 0 时 yaml 为空串。</summary>
-    public static (string yaml, int converted, int skipped) ConvertLines(IEnumerable<string> lines)
+    /// <summary>转换节点 URI 行；返回 (yaml 文本, 成功数, 跳过数, 代理名→原始 URI 映射)。
+    /// 成功数为 0 时 yaml 为空串。映射供测速脚本按名字找回原始节点链接。</summary>
+    public static (string yaml, int converted, int skipped, List<(string name, string uri)> mapping) ConvertLines(IEnumerable<string> lines)
     {
         var proxies = new List<Dictionary<string, object>>();
+        var mapping = new List<(string name, string uri)>();
         var usedNames = new HashSet<string>(StringComparer.Ordinal);
         var skipped = 0;
         var index = 0;
@@ -35,10 +36,12 @@ public static class ClashYaml
             catch { proxy = null; name = ""; }
             if (proxy is null) { skipped++; continue; }
             if (name.Length == 0) name = $"node-{index}";
-            proxy["name"] = UniqueName(name, usedNames);
+            var unique = UniqueName(name, usedNames);
+            proxy["name"] = unique;
+            mapping.Add((unique, line));
             proxies.Add(proxy);
         }
-        if (proxies.Count == 0) return ("", 0, skipped);
+        if (proxies.Count == 0) return ("", 0, skipped, mapping);
 
         var names = proxies.Select(p => p["name"]!.ToString()!).ToList();
         var doc = new Dictionary<string, object>
@@ -69,7 +72,7 @@ public static class ClashYaml
             ["rules"] = new List<string> { "MATCH,PROXY" },
         };
         var yaml = EmitYaml(doc);
-        return (yaml, proxies.Count, skipped);
+        return (yaml, proxies.Count, skipped, mapping);
     }
 
     // ---------- 手写 YAML 发射器（所有字符串双引号，数字/布尔原样） ----------
@@ -259,7 +262,7 @@ public static class ClashYaml
     {
         var hash = rest.IndexOf('#');
         if (hash < 0) return (rest, "");
-        return (rest[..hash], Uri.UnescapeDataString(rest[(hash + 1)..]));
+        return (rest[..hash], Unescape(rest[(hash + 1)..]));
     }
 
     static (string main, string query) SplitQuery(string main)
@@ -276,10 +279,18 @@ public static class ClashYaml
         foreach (var pair in query.Split('&', StringSplitOptions.RemoveEmptyEntries))
         {
             var eq = pair.IndexOf('=');
-            if (eq < 0) d[WebUtility.UrlDecode(pair)] = "";
-            else d[WebUtility.UrlDecode(pair[..eq])] = WebUtility.UrlDecode(pair[(eq + 1)..]);
+            if (eq < 0) d[Unescape(pair)] = "";
+            else d[Unescape(pair[..eq])] = Unescape(pair[(eq + 1)..]);
         }
         return d;
+    }
+
+    /// <summary>URI 解码（%XX 还原，+ 保持原样）。节点链接里的 + 是字面加号（常出现在 Base64 密码里），
+    /// 不能用 WebUtility.UrlDecode（它会把 + 变成空格，那是表单编码的规则）。</summary>
+    static string Unescape(string s)
+    {
+        try { return Uri.UnescapeDataString(s); }
+        catch { return s; }
     }
 
     /// <summary>Base64 / Base64URL 解码（自动补 padding）；失败返回 null。</summary>
@@ -492,7 +503,7 @@ public static class ClashYaml
         var q = ParseQuery(query);
         var at = beforeQ.LastIndexOf('@');
         if (at < 0) return (null, name);
-        var uuid = NormalizeUuid(WebUtility.UrlDecode(beforeQ[..at]));
+        var uuid = NormalizeUuid(Unescape(beforeQ[..at]));
         var (host, port) = ParseHostPort(beforeQ[(at + 1)..]);
         if (host is null || !ValidPort(port) || uuid is null) return (null, name);
         var d = new Dictionary<string, object>
@@ -520,7 +531,7 @@ public static class ClashYaml
         var q = ParseQuery(query);
         var at = beforeQ.LastIndexOf('@');
         if (at < 0) return (null, name);
-        var password = WebUtility.UrlDecode(beforeQ[..at]);
+        var password = Unescape(beforeQ[..at]);
         var (host, port) = ParseHostPort(beforeQ[(at + 1)..]);
         if (host is null || !ValidPort(port) || password.Length == 0) return (null, name);
         var d = new Dictionary<string, object>
@@ -574,8 +585,8 @@ public static class ClashYaml
             (host, port) = ParseHostPort(decoded[(at + 1)..]);
         }
         if (method is null || password is null || host is null || !ValidPort(port)) return (null, name);
-        method = WebUtility.UrlDecode(method);
-        password = WebUtility.UrlDecode(password);
+        method = Unescape(method);
+        password = Unescape(password);
         if (method.Length == 0 || password.Length == 0 || !SsCiphers.Contains(method) || !ValidCipherPassword(method, password)) return (null, name);
         var d = new Dictionary<string, object>
         {
@@ -683,7 +694,7 @@ public static class ClashYaml
         var q = ParseQuery(query);
         var at = beforeQ.LastIndexOf('@');
         if (at < 0) return (null, name);
-        var userinfo = WebUtility.UrlDecode(beforeQ[..at]);
+        var userinfo = Unescape(beforeQ[..at]);
         var colon = userinfo.IndexOf(':');
         var password = colon < 0 ? userinfo : userinfo[(colon + 1)..];
         var (host, port) = ParseHostPort(beforeQ[(at + 1)..]);
@@ -740,7 +751,7 @@ public static class ClashYaml
         var q = ParseQuery(query);
         var at = beforeQ.LastIndexOf('@');
         if (at < 0) return (null, name);
-        var userinfo = WebUtility.UrlDecode(beforeQ[..at]);
+        var userinfo = Unescape(beforeQ[..at]);
         var colon = userinfo.IndexOf(':');
         if (colon < 0) return (null, name); // tuic v5 需要 uuid:password
         var uuid = NormalizeUuid(userinfo[..colon]);
@@ -772,7 +783,7 @@ public static class ClashYaml
         var at = beforeQ.LastIndexOf('@');
         if (at >= 0)
         {
-            var userinfo = WebUtility.UrlDecode(beforeQ[..at]);
+            var userinfo = Unescape(beforeQ[..at]);
             var colon = userinfo.IndexOf(':');
             if (colon >= 0) { user = userinfo[..colon]; pass = userinfo[(colon + 1)..]; }
             else user = userinfo;
