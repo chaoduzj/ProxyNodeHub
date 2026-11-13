@@ -99,7 +99,7 @@ jobs:
       - name: Publish tested image to Docker Hub
         # Fork 上没有配 Docker Hub 凭据时跳过发布，避免每次推送都红。
         # 上游有凭据时行为不变。
-        if: github.event_name != 'pull_request' && (github.ref == 'refs/heads/main' || github.ref == 'refs/heads/master' || startsWith(github.ref, 'refs/tags/v')) && vars.DOCKERHUB_USERNAME != '' && secrets.DOCKERHUB_TOKEN != ''
+        if: github.event_name != 'pull_request' && (github.ref == 'refs/heads/main' || github.ref == 'refs/heads/master' || startsWith(github.ref, 'refs/tags/v')) && vars.DOCKERHUB_USERNAME != ''
         shell: bash
         env:
           DOCKERHUB_USERNAME: ${{ vars.DOCKERHUB_USERNAME }}
