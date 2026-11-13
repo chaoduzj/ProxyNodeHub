@@ -1,0 +1,1283 @@
+mixed-port: 7890
+allow-lan: false
+mode: "rule"
+log-level: "info"
+external-controller: "127.0.0.1:9090"
+proxies:
+  - type: "vless"
+    server: "57.129.41.216"
+    port: 80
+    uuid: "18535741-e8b3-4b43-9348-785b55936751"
+    network: "ws"
+    ws-opts:
+      path: "/vless/"
+      headers:
+        Host: "ov-germany1.09vpn.com"
+    name: "@FXxNET⚡️"
+  - type: "vless"
+    server: "45.144.234.157"
+    port: 14430
+    uuid: "59b0d30e-9b29-4fda-a35c-b2901ec32db7"
+    network: "ws"
+    ws-opts:
+      path: "/vless"
+      headers:
+        Host: "45.144.234.157"
+    name: "🇫🇮[www.v2nodes.com] vless-FI-1..."
+  - type: "vless"
+    server: "104.16.10.135"
+    port: 443
+    uuid: "4e4f1f70-5e56-4a76-bb9d-db087f4690c4"
+    tls: true
+    servername: "jp3.yohototo.top"
+    network: "ws"
+    ws-opts:
+      path: "/tyxyws"
+      headers:
+        Host: "jp3.yohototo.top"
+    name: "node-3"
+  - type: "vless"
+    server: "13.140.56.100"
+    port: 14430
+    uuid: "68512eac-cd53-4de3-8d1e-08f6e04af1a9"
+    network: "ws"
+    ws-opts:
+      path: "/vless"
+      headers:
+        Host: "13.140.56.100"
+    name: "🇮🇳[openproxylist.com]"
+  - type: "vless"
+    server: "152.228.162.19"
+    port: 80
+    uuid: "25f86cb1-2140-4085-abcb-c3a0ea7a4be0"
+    network: "ws"
+    ws-opts:
+      path: "/vless/"
+    name: "[2248]"
+  - type: "vless"
+    server: "45.138.100.248"
+    port: 14430
+    uuid: "ae908ff5-f749-402c-af25-e6e9aef4d6bb"
+    network: "ws"
+    ws-opts:
+      path: "/vless"
+    name: "🇺🇸213191"
+  - type: "vless"
+    server: "ov-france1.09vpn.com"
+    port: 80
+    uuid: "f5c47e9c-914a-4a91-a81e-a5a77bc10fc1"
+    network: "ws"
+    ws-opts:
+      path: "/vless/"
+      headers:
+        Host: "ov-france1.09vpn.com"
+    name: "🇫🇷211255"
+  - type: "vless"
+    server: "45.138.100.248"
+    port: 10443
+    uuid: "ae908ff5-f749-402c-af25-e6e9aef4d6bb"
+    name: "node-8"
+  - type: "vless"
+    server: "104.19.12.94"
+    port: 443
+    uuid: "4e4f1f70-5e56-4a76-bb9d-db087f4690c4"
+    tls: true
+    servername: "jp3.yohototo.top"
+    network: "ws"
+    ws-opts:
+      path: "/tyxyws#telegram--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI"
+      headers:
+        Host: "jp3.yohototo.top"
+    name: "⚡"
+  - type: "vless"
+    server: "95.128.71.79"
+    port: 14430
+    uuid: "8cef7621-c6f0-486e-b51d-59c30c5b0b25"
+    network: "ws"
+    ws-opts:
+      path: "/vless"
+      headers:
+        Host: "95.128.71.79"
+    name: "🇧🇾203611"
+  - type: "vless"
+    server: "138.124.70.41"
+    port: 14430
+    uuid: "6cc745e3-4eb9-46c8-a4a1-85dee7b87edc"
+    network: "ws"
+    ws-opts:
+      path: "/vless"
+      headers:
+        Host: "138.124.70.41"
+    name: "🏳[www.v2nodes.com] vless- #15"
+  - type: "vless"
+    server: "3h-kazakhstan1.09vpn.com"
+    port: 8443
+    uuid: "2424febb-43cb-488d-bdd1-401e923c8e48"
+    tls: true
+    network: "ws"
+    ws-opts:
+      path: "/vless/"
+    name: "🇰🇿KZ-🚀@VPNine1"
+  - type: "vless"
+    server: "base.hosamobenl.co.uk"
+    port: 443
+    uuid: "667016ca-f02e-4b5f-bfc3-3d8ed81e9bec"
+    tls: true
+    servername: "base.hosamobenl.co.uk"
+    alpn:
+      - "http/1.1"
+    name: "@VPNConnectd"
+  - type: "vless"
+    server: "base.hosamobenl.co.uk"
+    port: 443
+    uuid: "667016ca-f02e-4b5f-bfc3-3d8ed81e9bec"
+    tls: true
+    servername: "base.hosamobenl.co.uk"
+    alpn:
+      - "http/1.1"
+    name: "🇮🇷IR-🚀@VPNine1"
+  - type: "vless"
+    server: "178.172.227.228"
+    port: 14430
+    uuid: "b6e5dc56-836f-48c1-9163-b0b0b43b647d"
+    network: "ws"
+    ws-opts:
+      path: "/vless"
+      headers:
+        Host: "178.172.227.228"
+    name: "@FXxNET⚡️-2"
+  - type: "vless"
+    server: "152.69.195.67"
+    port: 47878
+    uuid: "eb8613e3-8393-4cff-a3ad-6501fd4adc63"
+    name: "🇯🇵[www.v2nodes.com] vless-JP-1... #5"
+  - type: "vless"
+    server: "152.228.162.19"
+    port: 80
+    uuid: "25f86cb1-2140-4085-abcb-c3a0ea7a4be0"
+    network: "ws"
+    ws-opts:
+      path: "/vless/"
+    name: "🇫🇷FR-🚀@VPNine1"
+  - type: "vless"
+    server: "5.178.109.174"
+    port: 14430
+    uuid: "80de563a-cac8-40ea-8cb0-4cb082dd92f9"
+    network: "ws"
+    ws-opts:
+      path: "/vless"
+      headers:
+        Host: "5.178.109.174"
+    name: "🇸🇪[openproxylist.com]"
+  - type: "vless"
+    server: "5.178.109.174"
+    port: 14430
+    uuid: "80de563a-cac8-40ea-8cb0-4cb082dd92f9"
+    network: "ws"
+    ws-opts:
+      path: "/vless"
+      headers:
+        Host: "5.178.109.174"
+    name: "🔵@chillguy_vpn"
+  - type: "vless"
+    server: "178.172.227.124"
+    port: 10443
+    uuid: "1af36694-b548-4b18-89a0-bc076eab4ed7"
+    name: "🏳[www.v2nodes.com] vless-"
+  - type: "vless"
+    server: "163.172.213.174"
+    port: 80
+    uuid: "e73df646-1f62-41bf-8c50-653497d603d0"
+    network: "ws"
+    ws-opts:
+      path: "/vless/"
+      headers:
+        Host: "sc-thenetherlands2.09vpn.com"
+    name: "@V2rayNGVPN"
+  - type: "vless"
+    server: "188.225.73.41"
+    port: 443
+    uuid: "4cabcd59-a405-4c00-96f5-03507e1e28fa"
+    tls: true
+    servername: "cadrin.wtf"
+    network: "grpc"
+    grpc-opts:
+      grpc-service-name: "cache.sync.v1"
+    name: "🇩🇪 德国 | DEU 9"
+  - type: "vless"
+    server: "45.86.60.174"
+    port: 16443
+    uuid: "13e541f3-d09d-4633-89df-8513db0ced20"
+    name: "🇪🇪[openproxylist.com]"
+  - type: "vless"
+    server: "95.128.71.79"
+    port: 14430
+    uuid: "8cef7621-c6f0-486e-b51d-59c30c5b0b25"
+    network: "ws"
+    ws-opts:
+      path: "/vless"
+      headers:
+        Host: "95.128.71.79"
+    name: "🇧🇾BY-🚀@VPNine1"
+  - type: "vless"
+    server: "178.172.227.124"
+    port: 14430
+    uuid: "1af36694-b548-4b18-89a0-bc076eab4ed7"
+    network: "ws"
+    ws-opts:
+      path: "/vless"
+      headers:
+        Host: "178.172.227.124"
+    name: "🇧🇾[openproxylist.com]"
+  - type: "vless"
+    server: "sc-thenetherlands1.09vpn.com"
+    port: 80
+    uuid: "40cc9b52-25b8-4cd5-8b45-715ae26e6baf"
+    network: "ws"
+    ws-opts:
+      path: "/vless/"
+    name: "🇳🇱56531"
+  - type: "vless"
+    server: "3.169.9.125"
+    port: 443
+    uuid: "67cd3349-f789-4cbb-8b91-4b6b1654ce7c"
+    tls: true
+    servername: "d2ex4nxd2e01ub.cloudfront.net"
+    network: "ws"
+    ws-opts:
+      path: "/"
+      headers:
+        Host: "d2ex4nxd2e01ub.cloudfront.net"
+    name: "🇵🇱PL_1|1.4MB/s"
+  - type: "vless"
+    server: "152.228.162.19"
+    port: 80
+    uuid: "f5c47e9c-914a-4a91-a81e-a5a77bc10fc1"
+    network: "ws"
+    ws-opts:
+      path: "/vless/"
+    name: "12031@proxy_online_net"
+  - type: "vless"
+    server: "178.172.227.124"
+    port: 10443
+    uuid: "1af36694-b548-4b18-89a0-bc076eab4ed7"
+    name: "🇧🇾BY-🚀@VPNine1-2"
+  - type: "vless"
+    server: "45.138.100.248"
+    port: 14430
+    uuid: "ae908ff5-f749-402c-af25-e6e9aef4d6bb"
+    network: "ws"
+    ws-opts:
+      path: "/vless"
+    name: "@VPsave"
+  - type: "vless"
+    server: "45.144.234.157"
+    port: 14430
+    uuid: "59b0d30e-9b29-4fda-a35c-b2901ec32db7"
+    network: "ws"
+    ws-opts:
+      path: "/vless"
+      headers:
+        Host: "45.144.234.157"
+    name: "@tootffarangi🍓"
+  - type: "vless"
+    server: "57.129.41.216"
+    port: 80
+    uuid: "18535741-e8b3-4b43-9348-785b55936751"
+    network: "ws"
+    ws-opts:
+      path: "/vless/"
+      headers:
+        Host: "OV-Germany1.09vpn.com"
+    name: "🧿1@oneclickvpnkeys"
+  - type: "vless"
+    server: "178.172.227.228"
+    port: 14430
+    uuid: "b6e5dc56-836f-48c1-9163-b0b0b43b647d"
+    network: "ws"
+    ws-opts:
+      path: "/vless"
+      headers:
+        Host: "178.172.227.228"
+    name: "🇧🇾[openproxylist.com]-2"
+  - type: "vless"
+    server: "193.188.21.253"
+    port: 14430
+    uuid: "57f7772d-f5d6-4d8f-992d-5fa5e0d6da55"
+    network: "ws"
+    ws-opts:
+      path: "/vless"
+      headers:
+        Host: "193.188.21.253"
+    name: "🇸🇪[www.v2nodes.com] vless-SE-1... #5"
+  - type: "vless"
+    server: "104.16.10.234"
+    port: 443
+    uuid: "4e4f1f70-5e56-4a76-bb9d-db087f4690c4"
+    tls: true
+    servername: "jp3.yohototo.top"
+    network: "ws"
+    ws-opts:
+      path: "/tyxyws"
+      headers:
+        Host: "jp3.yohototo.top"
+    name: "node-35"
+  - type: "vless"
+    server: "178.172.227.124"
+    port: 14430
+    uuid: "1af36694-b548-4b18-89a0-bc076eab4ed7"
+    network: "ws"
+    ws-opts:
+      path: "/vless"
+      headers:
+        Host: "178.172.227.124"
+    name: "@VPsave-2"
+  - type: "vless"
+    server: "138.124.70.41"
+    port: 14430
+    uuid: "6cc745e3-4eb9-46c8-a4a1-85dee7b87edc"
+    network: "ws"
+    ws-opts:
+      path: "/vless"
+    name: "🍄‍🟫32@oneclickvpnkeys"
+  - type: "vless"
+    server: "178.172.227.124"
+    port: 10443
+    uuid: "1af36694-b548-4b18-89a0-bc076eab4ed7"
+    name: "@tootffarangi🍓-2"
+  - type: "vless"
+    server: "5.178.109.174"
+    port: 14430
+    uuid: "80de563a-cac8-40ea-8cb0-4cb082dd92f9"
+    network: "ws"
+    ws-opts:
+      path: "/vless"
+      headers:
+        Host: "5.178.109.174"
+    name: "@v2ray313"
+  - type: "vless"
+    server: "45.66.129.225"
+    port: 443
+    uuid: "4e4f1f70-5e56-4a76-bb9d-db087f4690c4"
+    tls: true
+    servername: "jp3.yohototo.top"
+    network: "ws"
+    ws-opts:
+      path: "/tyxyws"
+      headers:
+        Host: "jp3.yohototo.top"
+    name: "🇯🇵212640"
+  - type: "vless"
+    server: "3h-kazakhstan1.09vpn.com"
+    port: 8443
+    uuid: "2424febb-43cb-488d-bdd1-401e923c8e48"
+    tls: true
+    servername: "3h-kazakhstan1.09vpn.com"
+    network: "ws"
+    ws-opts:
+      path: "/vless/"
+    name: "🏳[www.v2nodes.com] vless- #26"
+  - type: "vless"
+    server: "ams2.shtil.io"
+    port: 444
+    uuid: "254f28cb-d0c1-41e9-a06b-f2155213ff04"
+    flow: "xtls-rprx-vision"
+    tls: true
+    servername: "ams2.shtil.io"
+    name: "🇳🇱NL-🚀@VPNine1"
+  - type: "vmess"
+    server: "84.17.41.2"
+    port: 18000
+    uuid: "f8c8dc3d-0d37-46b0-8b34-a7232882fcfe"
+    alterId: 0
+    cipher: "auto"
+    name: "node-43"
+  - type: "vmess"
+    server: "23.162.200.198"
+    port: 18000
+    uuid: "f8c8dc3d-0d37-46b0-8b34-a7232882fcfe"
+    alterId: 0
+    cipher: "auto"
+    name: "node-44"
+  - type: "vmess"
+    server: "149.88.23.207"
+    port: 18000
+    uuid: "f8c8dc3d-0d37-46b0-8b34-a7232882fcfe"
+    alterId: 0
+    cipher: "auto"
+    name: "node-45"
+  - type: "vmess"
+    server: "149.88.23.202"
+    port: 18000
+    uuid: "f8c8dc3d-0d37-46b0-8b34-a7232882fcfe"
+    alterId: 0
+    cipher: "auto"
+    name: "node-46"
+  - type: "vmess"
+    server: "129.146.77.248"
+    port: 39495
+    uuid: "f836c736-87fc-4fde-aabc-00857ecdff3e"
+    alterId: 0
+    cipher: "auto"
+    network: "ws"
+    ws-opts:
+      path: "/cctv13.m3u8"
+      headers:
+        Host: "129.146.77.248"
+    name: "node-47"
+  - type: "vmess"
+    server: "134.195.196.211"
+    port: 18000
+    uuid: "f8c8dc3d-0d37-46b0-8b34-a7232882fcfe"
+    alterId: 0
+    cipher: "auto"
+    name: "node-48"
+  - type: "vmess"
+    server: "67.220.85.46"
+    port: 18000
+    uuid: "f8c8dc3d-0d37-46b0-8b34-a7232882fcfe"
+    alterId: 0
+    cipher: "auto"
+    name: "node-49"
+  - type: "vmess"
+    server: "3h-kazakhstan1.09vpn.com"
+    port: 80
+    uuid: "567f4be5-12ab-42e1-b8d9-db6fd1fdd31c"
+    alterId: 0
+    cipher: "auto"
+    network: "ws"
+    ws-opts:
+      path: "/vmess/"
+      headers:
+        Host: "wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc"
+    name: "node-50"
+  - type: "vmess"
+    server: "38.91.107.49"
+    port: 18000
+    uuid: "f8c8dc3d-0d37-46b0-8b34-a7232882fcfe"
+    alterId: 0
+    cipher: "auto"
+    name: "node-51"
+  - type: "vmess"
+    server: "38.110.1.246"
+    port: 18000
+    uuid: "f8c8dc3d-0d37-46b0-8b34-a7232882fcfe"
+    alterId: 0
+    cipher: "auto"
+    name: "node-52"
+  - type: "vmess"
+    server: "146.56.112.110"
+    port: 8888
+    uuid: "e7c302f3-90d6-42dd-9d7d-94a3683a3707"
+    alterId: 0
+    cipher: "auto"
+    name: "node-53"
+  - type: "vmess"
+    server: "152.67.8.205"
+    port: 80
+    uuid: "9db4c708-aef8-4359-821b-38e47990be0d"
+    alterId: 0
+    cipher: "auto"
+    network: "ws"
+    ws-opts:
+      path: "/"
+    name: "node-54"
+  - type: "vmess"
+    server: "169.197.142.22"
+    port: 18000
+    uuid: "f8c8dc3d-0d37-46b0-8b34-a7232882fcfe"
+    alterId: 0
+    cipher: "auto"
+    name: "node-55"
+  - type: "vmess"
+    server: "38.110.1.246"
+    port: 18000
+    uuid: "f8c8dc3d-0d37-46b0-8b34-a7232882fcfe"
+    alterId: 0
+    cipher: "auto"
+    name: "@VPsave-3"
+  - type: "vmess"
+    server: "84.17.41.2"
+    port: 18000
+    uuid: "f8c8dc3d-0d37-46b0-8b34-a7232882fcfe"
+    alterId: 0
+    cipher: "auto"
+    name: "🇺🇸"
+  - type: "vmess"
+    server: "79.137.99.183"
+    port: 1270
+    uuid: "5c040f1d-45db-43bd-8d46-e4950e433735"
+    alterId: 0
+    cipher: "auto"
+    tls: true
+    servername: "xmfhlpy.com"
+    name: "node-58"
+  - type: "vmess"
+    server: "156.245.232.239"
+    port: 35043
+    uuid: "b15e481d-17e4-41a8-84c2-23d4f0514d9a"
+    alterId: 0
+    cipher: "auto"
+    network: "ws"
+    ws-opts:
+      path: "/"
+    name: "node-59"
+  - type: "vmess"
+    server: "46.105.222.157"
+    port: 1270
+    uuid: "5c040f1d-45db-43bd-8d46-e4950e433735"
+    alterId: 0
+    cipher: "auto"
+    tls: true
+    servername: "xmfhlpy.com"
+    name: "node-60"
+  - type: "vmess"
+    server: "162.19.82.57"
+    port: 1270
+    uuid: "5c040f1d-45db-43bd-8d46-e4950e433735"
+    alterId: 0
+    cipher: "auto"
+    tls: true
+    servername: "xmfhlpy.com"
+    name: "node-61"
+  - type: "vmess"
+    server: "134.195.196.211"
+    port: 18000
+    uuid: "f8c8dc3d-0d37-46b0-8b34-a7232882fcfe"
+    alterId: 0
+    cipher: "auto"
+    name: "🇨🇦"
+  - type: "vmess"
+    server: "65.108.240.210"
+    port: 39018
+    uuid: "fa15684a-81e6-4ba7-bc4b-f601c0d998e9"
+    alterId: 0
+    cipher: "auto"
+    name: "node-63"
+  - type: "vmess"
+    server: "67.220.85.46"
+    port: 18000
+    uuid: "f8c8dc3d-0d37-46b0-8b34-a7232882fcfe"
+    alterId: 0
+    cipher: "auto"
+    name: "🇺🇸-2"
+  - type: "vmess"
+    server: "46.105.222.155"
+    port: 1270
+    uuid: "5c040f1d-45db-43bd-8d46-e4950e433735"
+    alterId: 0
+    cipher: "auto"
+    tls: true
+    servername: "xmfhlpy.com"
+    name: "node-65"
+  - type: "vmess"
+    server: "162.19.192.89"
+    port: 16641
+    uuid: "9d5c15a3-166c-4d65-8a0b-d7a7a7c8863a"
+    alterId: 0
+    cipher: "auto"
+    network: "ws"
+    ws-opts:
+      path: "/"
+      headers:
+        Host: "7d56482dc5251e2efaca623dcbc64e3d.mobgslb.tbcache.com"
+    name: "node-66"
+  - type: "vmess"
+    server: "169.197.142.22"
+    port: 18000
+    uuid: "f8c8dc3d-0d37-46b0-8b34-a7232882fcfe"
+    alterId: 0
+    cipher: "auto"
+    name: "@V2rayNPVTConfig"
+  - type: "vmess"
+    server: "38.91.107.49"
+    port: 18000
+    uuid: "f8c8dc3d-0d37-46b0-8b34-a7232882fcfe"
+    alterId: 0
+    cipher: "auto"
+    name: "@VPsave-4"
+  - type: "vmess"
+    server: "119.46.51.45"
+    port: 37515
+    uuid: "9b76bc31-17a5-4454-934a-8d5fb602cd70"
+    alterId: 0
+    cipher: "auto"
+    name: "node-69"
+  - type: "vmess"
+    server: "65.108.240.210"
+    port: 39018
+    uuid: "77fb7a80-4724-4e33-9558-4f20c1634c5a"
+    alterId: 0
+    cipher: "auto"
+    name: "@VPsave-5"
+  - type: "vmess"
+    server: "129.154.61.196"
+    port: 800
+    uuid: "a915b1d6-cf28-4dc8-e4b4-e09c48c37ec0"
+    alterId: 0
+    cipher: "auto"
+    name: "node-71"
+  - type: "vmess"
+    server: "79.137.99.183"
+    port: 1270
+    uuid: "5c040f1d-45db-43bd-8d46-e4950e433735"
+    alterId: 0
+    cipher: "auto"
+    tls: true
+    servername: "xmfhlpy.com"
+    name: "@VPsave-6"
+  - type: "trojan"
+    server: "95.143.196.97"
+    port: 443
+    password: "FkQH0Q5EFneySv20Qj3yoArD2GSb2XZF"
+    sni: "connect-se.mimowhat.online"
+    name: "@FXxNET⚡️-3"
+  - type: "trojan"
+    server: "95.143.196.97"
+    port: 443
+    password: "FkQH0Q5EFneySv20Qj3yoArD2GSb2XZF"
+    sni: "connect-se.mimowhat.online"
+    alpn:
+      - "h2"
+      - "http/1.1"
+    name: "@tootffarangi🍓-3"
+  - type: "trojan"
+    server: "sclass-01.catcat321.com"
+    port: 20103
+    password: "d7563108-615c-4338-a7bd-77f359869a4a"
+    sni: "hk.catxstar.com"
+    skip-cert-verify: true
+    name: "🇳🇬"
+  - type: "trojan"
+    server: "95.143.196.97"
+    port: 443
+    password: "FkQH0Q5EFneySv20Qj3yoArD2GSb2XZF"
+    sni: "connect-se.mimowhat.online"
+    alpn:
+      - "h2"
+      - "http/1.1"
+    name: "@ConfigV2RayNG"
+  - type: "trojan"
+    server: "95.143.196.97"
+    port: 443
+    password: "FkQH0Q5EFneySv20Qj3yoArD2GSb2XZF"
+    sni: "connect-se.mimowhat.online"
+    alpn:
+      - "h2"
+      - "http/1.1"
+    name: "@meliproxyy"
+  - type: "trojan"
+    server: "95.143.196.97"
+    port: 443
+    password: "FkQH0Q5EFneySv20Qj3yoArD2GSb2XZF"
+    sni: "connect-se.mimowhat.online"
+    name: "برای"
+  - type: "ss"
+    server: "15.235.182.183"
+    port: 19999
+    cipher: "aes-256-gcm"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    name: "🇸🇬SG-15.235.182.183-0201"
+  - type: "ss"
+    server: "198.244.202.215"
+    port: 19999
+    cipher: "aes-256-gcm"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    name: "🏳[www.v2nodes.com] ss- #6"
+  - type: "hysteria2"
+    server: "31.76.62.148"
+    port: 4444
+    password: "a35c508f-4d5d-4531-842e-6e9d43c762c0"
+    sni: "lv2.nexfile.net"
+    name: "@meliproxyy #2"
+  - type: "ss"
+    server: "213.176.92.148"
+    port: 40647
+    cipher: "aes-256-gcm"
+    password: "DgMywXKqojHXeuXY8hOJaYGPFcjweCIJeD5cdg/cUUY="
+    name: "@tootffarangi🍓-4"
+  - type: "hysteria2"
+    server: "152.32.254.68"
+    port: 5010
+    password: "eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ"
+    sni: "nas.aizhzo.com"
+    obfs: "salamander"
+    obfs-password: "7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9"
+    name: "Channel id: @ConfigV2RayNG 🇭🇰"
+  - type: "ss"
+    server: "79.137.99.183"
+    port: 19999
+    cipher: "aes-256-gcm"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    name: "𝐂𝐡𝐚𝐧𝐧𝐞𝐥:"
+  - type: "ss"
+    server: "213.176.92.148"
+    port: 40647
+    cipher: "aes-256-gcm"
+    password: "DgMywXKqojHXeuXY8hOJaYGPFcjweCIJeD5cdg/cUUY="
+    name: "filembad-37"
+  - type: "ss"
+    server: "168.138.205.100"
+    port: 53758
+    cipher: "aes-128-gcm"
+    password: "Bwlqh7GcFB"
+    name: "@ConfigV2RayNG-2"
+  - type: "ss"
+    server: "198.98.53.130"
+    port: 443
+    cipher: "chacha20-ietf-poly1305"
+    password: "eDfN7SODQceIOmIAbtJJtK"
+    name: "Tel-@ProxyMtAlpha🧊"
+  - type: "ss"
+    server: "57.131.4.13"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "mx81glqbtlwuhcjo"
+    name: "🇮🇹"
+  - type: "ss"
+    server: "79.137.99.183"
+    port: 19999
+    cipher: "aes-256-gcm"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    name: "@ConfigV2RayNG-3"
+  - type: "ss"
+    server: "54.37.240.40"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "8nrpt2il04ptci2j"
+    name: "🇬🇧[openproxylist.com]"
+  - type: "ss"
+    server: "79.137.99.183"
+    port: 19999
+    cipher: "aes-256-gcm"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    name: "🇫🇷FR-🚀@VPNine1-2"
+  - type: "ss"
+    server: "79.137.99.183"
+    port: 19999
+    cipher: "aes-256-gcm"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    name: "@V2ray_confiig"
+  - type: "ss"
+    server: "57.129.83.85"
+    port: 19999
+    cipher: "aes-256-gcm"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    name: "🇩🇪DE-57.129.83.85-0195"
+  - type: "ss"
+    server: "152.53.1.57"
+    port: 8388
+    cipher: "chacha20-ietf-poly1305"
+    password: "AdawffFMHymlasRb0VOP3HFf7sTG5sJx"
+    name: "🇦🇹211289"
+  - type: "ss"
+    server: "51.83.61.102"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "29irqk0paakcx19v"
+    name: "🇫🇷20"
+  - type: "ss"
+    server: "198.98.53.130"
+    port: 443
+    cipher: "chacha20-ietf-poly1305"
+    password: "eDfN7SODQceIOmIAbtJJtK"
+    name: "@V2ray_Alpha🛑"
+  - type: "ss"
+    server: "8.220.81.25"
+    port: 443
+    cipher: "2022-blake3-chacha20-poly1305"
+    password: "8yO3ANWefuuGs1lRKXECQA1FEhxlWFV2ppQMcBaZo5Y="
+    name: "node-97"
+  - type: "ss"
+    server: "57.129.76.233"
+    port: 19999
+    cipher: "aes-256-gcm"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    name: "🏳[openproxylist.com]"
+  - type: "ss"
+    server: "79.137.99.183"
+    port: 19999
+    cipher: "aes-256-gcm"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    name: "@tootffarangi🍓-5"
+  - type: "ss"
+    server: "57.131.21.102"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "n4uygjtq54pz1oiv"
+    name: "🇮🇹213436"
+  - type: "ss"
+    server: "79.137.99.183"
+    port: 19999
+    cipher: "aes-256-gcm"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    name: "@vasl_bashim"
+  - type: "ss"
+    server: "103.11.76.248"
+    port: 28679
+    cipher: "2022-blake3-aes-128-gcm"
+    password: "NzJlOTQ5NWYtM2ZkYi00Cg=="
+    name: "🇺🇸210084"
+  - type: "ss"
+    server: "198.244.202.215"
+    port: 19999
+    cipher: "aes-256-gcm"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    name: "@v2ray_phoenix"
+  - type: "ss"
+    server: "57.129.113.16"
+    port: 8388
+    cipher: "chacha20-ietf-poly1305"
+    password: "NcAXc0UZI6yQJE1p8QmOv8"
+    name: "🇩🇪[www.v2nodes.com] ss-DE-1592..."
+  - type: "ss"
+    server: "15.235.164.133"
+    port: 19999
+    cipher: "aes-256-gcm"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    name: "🇸🇬[openproxylist.com]"
+  - type: "ss"
+    server: "138.197.89.234"
+    port: 28960
+    cipher: "chacha20-ietf-poly1305"
+    password: "DZRy4Q3QH0jUGfKFl2jDCZ"
+    name: "🇺🇸US-138.197.89.234-0270"
+  - type: "ss"
+    server: "54.39.96.233"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "2cvhpvdg4x7mvbps"
+    name: "@tootffarangi🍓-6"
+  - type: "ss"
+    server: "198.98.53.130"
+    port: 443
+    cipher: "chacha20-ietf-poly1305"
+    password: "eDfN7SODQceIOmIAbtJJtK"
+    name: "ProxyMtpVPN-13"
+  - type: "ss"
+    server: "57.129.83.85"
+    port: 19999
+    cipher: "aes-256-gcm"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    name: "@ConfigV2RayNG-4"
+  - type: "ss"
+    server: "185.22.153.117"
+    port: 18443
+    cipher: "aes-256-gcm"
+    password: "NTiHBg64fsY8u8DbGrtypD9gPGSL386p"
+    name: "@VPsave-7"
+  - type: "ss"
+    server: "103.11.76.248"
+    port: 28679
+    cipher: "2022-blake3-aes-128-gcm"
+    password: "NzJlOTQ5NWYtM2ZkYi00Cg=="
+    name: "@vpnbaz"
+  - type: "ss"
+    server: "15.235.57.6"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "kxhnt5jtykd328cg"
+    name: "🇨🇦 加拿大 | CAN"
+  - type: "ss"
+    server: "152.53.1.57"
+    port: 8388
+    cipher: "chacha20-ietf-poly1305"
+    password: "AdawffFMHymlasRb0VOP3HFf7sTG5sJx"
+    name: "@Filtershekan_channel"
+  - type: "ss"
+    server: "51.38.127.93"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "03y5gbnyl4o1hc2n"
+    name: "🇩🇪213434"
+  - type: "hysteria2"
+    server: "103.88.243.142"
+    port: 11592
+    password: "41edb44c8e"
+    sni: "srv-17e124.21freedom.net"
+    name: "🐙97@oneclickvpnkeys"
+  - type: "ss"
+    server: "57.129.83.85"
+    port: 19999
+    cipher: "aes-256-gcm"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    name: "@hex_proxy"
+  - type: "ss"
+    server: "15.235.182.183"
+    port: 19999
+    cipher: "aes-256-gcm"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    name: "@VPsave-8"
+  - type: "ss"
+    server: "152.53.1.57"
+    port: 8388
+    cipher: "chacha20-ietf-poly1305"
+    password: "AdawffFMHymlasRb0VOP3HFf7sTG5sJx"
+    name: "Tel-@ProxyMtAlpha🍄‍🟫"
+  - type: "ss"
+    server: "79.137.99.183"
+    port: 19999
+    cipher: "aes-256-gcm"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    name: "@FXxNET⚡️-4"
+  - type: "ss"
+    server: "152.53.1.57"
+    port: 8388
+    cipher: "chacha20-ietf-poly1305"
+    password: "AdawffFMHymlasRb0VOP3HFf7sTG5sJx"
+    name: "Tel-@ProxyMtAlpha🐈‍⬛"
+  - type: "ss"
+    server: "57.129.83.85"
+    port: 19999
+    cipher: "aes-256-gcm"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    name: "@VConfing"
+  - type: "ss"
+    server: "54.37.240.40"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "8nrpt2il04ptci2j"
+    name: "@VPNConnectd-2"
+  - type: "ss"
+    server: "185.22.153.117"
+    port: 18443
+    cipher: "aes-256-gcm"
+    password: "NTiHBg64fsY8u8DbGrtypD9gPGSL386p"
+    name: "@Shh_Proxy-New⁸"
+  - type: "ss"
+    server: "15.235.57.6"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "kxhnt5jtykd328cg"
+    name: "@Nexus_Panell"
+  - type: "ss"
+    server: "198.244.202.215"
+    port: 19999
+    cipher: "aes-256-gcm"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    name: "@V2ray_confiig-2"
+  - type: "ss"
+    server: "57.129.113.16"
+    port: 8388
+    cipher: "chacha20-ietf-poly1305"
+    password: "NcAXc0UZI6yQJE1p8QmOv8"
+    name: "Tel-@ProxyMtAlpha🤯"
+  - type: "ss"
+    server: "51.79.228.131"
+    port: 19999
+    cipher: "aes-256-gcm"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    name: "🇸🇬SG-51.79.228.131-0221"
+  - type: "ss"
+    server: "57.129.138.142"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "fwxkzn0tmurzsvrw"
+    name: "🇬🇧GB-🚀@VPNine1"
+  - type: "ss"
+    server: "103.11.76.248"
+    port: 28679
+    cipher: "2022-blake3-aes-128-gcm"
+    password: "NzJlOTQ5NWYtM2ZkYi00Cg=="
+    name: "@V2rayNGVPN-2"
+  - type: "ss"
+    server: "57.129.113.16"
+    port: 8388
+    cipher: "chacha20-ietf-poly1305"
+    password: "NcAXc0UZI6yQJE1p8QmOv8"
+    name: "@v2raybaaz"
+  - type: "ss"
+    server: "202.50.253.99"
+    port: 19999
+    cipher: "aes-256-gcm"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    name: "新西兰+V2CROSS.COM"
+  - type: "ss"
+    server: "154.36.158.197"
+    port: 8388
+    cipher: "aes-256-gcm"
+    password: "BeaUf9c0AEWH40Pu"
+    name: "美国+V2CROSS.COM"
+  - type: "ss"
+    server: "202.50.253.36"
+    port: 19999
+    cipher: "aes-256-gcm"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    name: "新西兰+V2CROSS.COM-2"
+proxy-groups:
+  - name: "PROXY"
+    type: "select"
+    proxies:
+      - "@FXxNET⚡️"
+      - "🇫🇮[www.v2nodes.com] vless-FI-1..."
+      - "node-3"
+      - "🇮🇳[openproxylist.com]"
+      - "[2248]"
+      - "🇺🇸213191"
+      - "🇫🇷211255"
+      - "node-8"
+      - "⚡"
+      - "🇧🇾203611"
+      - "🏳[www.v2nodes.com] vless- #15"
+      - "🇰🇿KZ-🚀@VPNine1"
+      - "@VPNConnectd"
+      - "🇮🇷IR-🚀@VPNine1"
+      - "@FXxNET⚡️-2"
+      - "🇯🇵[www.v2nodes.com] vless-JP-1... #5"
+      - "🇫🇷FR-🚀@VPNine1"
+      - "🇸🇪[openproxylist.com]"
+      - "🔵@chillguy_vpn"
+      - "🏳[www.v2nodes.com] vless-"
+      - "@V2rayNGVPN"
+      - "🇩🇪 德国 | DEU 9"
+      - "🇪🇪[openproxylist.com]"
+      - "🇧🇾BY-🚀@VPNine1"
+      - "🇧🇾[openproxylist.com]"
+      - "🇳🇱56531"
+      - "🇵🇱PL_1|1.4MB/s"
+      - "12031@proxy_online_net"
+      - "🇧🇾BY-🚀@VPNine1-2"
+      - "@VPsave"
+      - "@tootffarangi🍓"
+      - "🧿1@oneclickvpnkeys"
+      - "🇧🇾[openproxylist.com]-2"
+      - "🇸🇪[www.v2nodes.com] vless-SE-1... #5"
+      - "node-35"
+      - "@VPsave-2"
+      - "🍄‍🟫32@oneclickvpnkeys"
+      - "@tootffarangi🍓-2"
+      - "@v2ray313"
+      - "🇯🇵212640"
+      - "🏳[www.v2nodes.com] vless- #26"
+      - "🇳🇱NL-🚀@VPNine1"
+      - "node-43"
+      - "node-44"
+      - "node-45"
+      - "node-46"
+      - "node-47"
+      - "node-48"
+      - "node-49"
+      - "node-50"
+      - "node-51"
+      - "node-52"
+      - "node-53"
+      - "node-54"
+      - "node-55"
+      - "@VPsave-3"
+      - "🇺🇸"
+      - "node-58"
+      - "node-59"
+      - "node-60"
+      - "node-61"
+      - "🇨🇦"
+      - "node-63"
+      - "🇺🇸-2"
+      - "node-65"
+      - "node-66"
+      - "@V2rayNPVTConfig"
+      - "@VPsave-4"
+      - "node-69"
+      - "@VPsave-5"
+      - "node-71"
+      - "@VPsave-6"
+      - "@FXxNET⚡️-3"
+      - "@tootffarangi🍓-3"
+      - "🇳🇬"
+      - "@ConfigV2RayNG"
+      - "@meliproxyy"
+      - "برای"
+      - "🇸🇬SG-15.235.182.183-0201"
+      - "🏳[www.v2nodes.com] ss- #6"
+      - "@meliproxyy #2"
+      - "@tootffarangi🍓-4"
+      - "Channel id: @ConfigV2RayNG 🇭🇰"
+      - "𝐂𝐡𝐚𝐧𝐧𝐞𝐥:"
+      - "filembad-37"
+      - "@ConfigV2RayNG-2"
+      - "Tel-@ProxyMtAlpha🧊"
+      - "🇮🇹"
+      - "@ConfigV2RayNG-3"
+      - "🇬🇧[openproxylist.com]"
+      - "🇫🇷FR-🚀@VPNine1-2"
+      - "@V2ray_confiig"
+      - "🇩🇪DE-57.129.83.85-0195"
+      - "🇦🇹211289"
+      - "🇫🇷20"
+      - "@V2ray_Alpha🛑"
+      - "node-97"
+      - "🏳[openproxylist.com]"
+      - "@tootffarangi🍓-5"
+      - "🇮🇹213436"
+      - "@vasl_bashim"
+      - "🇺🇸210084"
+      - "@v2ray_phoenix"
+      - "🇩🇪[www.v2nodes.com] ss-DE-1592..."
+      - "🇸🇬[openproxylist.com]"
+      - "🇺🇸US-138.197.89.234-0270"
+      - "@tootffarangi🍓-6"
+      - "ProxyMtpVPN-13"
+      - "@ConfigV2RayNG-4"
+      - "@VPsave-7"
+      - "@vpnbaz"
+      - "🇨🇦 加拿大 | CAN"
+      - "@Filtershekan_channel"
+      - "🇩🇪213434"
+      - "🐙97@oneclickvpnkeys"
+      - "@hex_proxy"
+      - "@VPsave-8"
+      - "Tel-@ProxyMtAlpha🍄‍🟫"
+      - "@FXxNET⚡️-4"
+      - "Tel-@ProxyMtAlpha🐈‍⬛"
+      - "@VConfing"
+      - "@VPNConnectd-2"
+      - "@Shh_Proxy-New⁸"
+      - "@Nexus_Panell"
+      - "@V2ray_confiig-2"
+      - "Tel-@ProxyMtAlpha🤯"
+      - "🇸🇬SG-51.79.228.131-0221"
+      - "🇬🇧GB-🚀@VPNine1"
+      - "@V2rayNGVPN-2"
+      - "@v2raybaaz"
+      - "新西兰+V2CROSS.COM"
+      - "美国+V2CROSS.COM"
+      - "新西兰+V2CROSS.COM-2"
+  - name: "Auto"
+    type: "url-test"
+    url: "http://www.gstatic.com/generate_204"
+    interval: 300
+    proxies:
+      - "@FXxNET⚡️"
+      - "🇫🇮[www.v2nodes.com] vless-FI-1..."
+      - "node-3"
+      - "🇮🇳[openproxylist.com]"
+      - "[2248]"
+      - "🇺🇸213191"
+      - "🇫🇷211255"
+      - "node-8"
+      - "⚡"
+      - "🇧🇾203611"
+      - "🏳[www.v2nodes.com] vless- #15"
+      - "🇰🇿KZ-🚀@VPNine1"
+      - "@VPNConnectd"
+      - "🇮🇷IR-🚀@VPNine1"
+      - "@FXxNET⚡️-2"
+      - "🇯🇵[www.v2nodes.com] vless-JP-1... #5"
+      - "🇫🇷FR-🚀@VPNine1"
+      - "🇸🇪[openproxylist.com]"
+      - "🔵@chillguy_vpn"
+      - "🏳[www.v2nodes.com] vless-"
+      - "@V2rayNGVPN"
+      - "🇩🇪 德国 | DEU 9"
+      - "🇪🇪[openproxylist.com]"
+      - "🇧🇾BY-🚀@VPNine1"
+      - "🇧🇾[openproxylist.com]"
+      - "🇳🇱56531"
+      - "🇵🇱PL_1|1.4MB/s"
+      - "12031@proxy_online_net"
+      - "🇧🇾BY-🚀@VPNine1-2"
+      - "@VPsave"
+      - "@tootffarangi🍓"
+      - "🧿1@oneclickvpnkeys"
+      - "🇧🇾[openproxylist.com]-2"
+      - "🇸🇪[www.v2nodes.com] vless-SE-1... #5"
+      - "node-35"
+      - "@VPsave-2"
+      - "🍄‍🟫32@oneclickvpnkeys"
+      - "@tootffarangi🍓-2"
+      - "@v2ray313"
+      - "🇯🇵212640"
+      - "🏳[www.v2nodes.com] vless- #26"
+      - "🇳🇱NL-🚀@VPNine1"
+      - "node-43"
+      - "node-44"
+      - "node-45"
+      - "node-46"
+      - "node-47"
+      - "node-48"
+      - "node-49"
+      - "node-50"
+      - "node-51"
+      - "node-52"
+      - "node-53"
+      - "node-54"
+      - "node-55"
+      - "@VPsave-3"
+      - "🇺🇸"
+      - "node-58"
+      - "node-59"
+      - "node-60"
+      - "node-61"
+      - "🇨🇦"
+      - "node-63"
+      - "🇺🇸-2"
+      - "node-65"
+      - "node-66"
+      - "@V2rayNPVTConfig"
+      - "@VPsave-4"
+      - "node-69"
+      - "@VPsave-5"
+      - "node-71"
+      - "@VPsave-6"
+      - "@FXxNET⚡️-3"
+      - "@tootffarangi🍓-3"
+      - "🇳🇬"
+      - "@ConfigV2RayNG"
+      - "@meliproxyy"
+      - "برای"
+      - "🇸🇬SG-15.235.182.183-0201"
+      - "🏳[www.v2nodes.com] ss- #6"
+      - "@meliproxyy #2"
+      - "@tootffarangi🍓-4"
+      - "Channel id: @ConfigV2RayNG 🇭🇰"
+      - "𝐂𝐡𝐚𝐧𝐧𝐞𝐥:"
+      - "filembad-37"
+      - "@ConfigV2RayNG-2"
+      - "Tel-@ProxyMtAlpha🧊"
+      - "🇮🇹"
+      - "@ConfigV2RayNG-3"
+      - "🇬🇧[openproxylist.com]"
+      - "🇫🇷FR-🚀@VPNine1-2"
+      - "@V2ray_confiig"
+      - "🇩🇪DE-57.129.83.85-0195"
+      - "🇦🇹211289"
+      - "🇫🇷20"
+      - "@V2ray_Alpha🛑"
+      - "node-97"
+      - "🏳[openproxylist.com]"
+      - "@tootffarangi🍓-5"
+      - "🇮🇹213436"
+      - "@vasl_bashim"
+      - "🇺🇸210084"
+      - "@v2ray_phoenix"
+      - "🇩🇪[www.v2nodes.com] ss-DE-1592..."
+      - "🇸🇬[openproxylist.com]"
+      - "🇺🇸US-138.197.89.234-0270"
+      - "@tootffarangi🍓-6"
+      - "ProxyMtpVPN-13"
+      - "@ConfigV2RayNG-4"
+      - "@VPsave-7"
+      - "@vpnbaz"
+      - "🇨🇦 加拿大 | CAN"
+      - "@Filtershekan_channel"
+      - "🇩🇪213434"
+      - "🐙97@oneclickvpnkeys"
+      - "@hex_proxy"
+      - "@VPsave-8"
+      - "Tel-@ProxyMtAlpha🍄‍🟫"
+      - "@FXxNET⚡️-4"
+      - "Tel-@ProxyMtAlpha🐈‍⬛"
+      - "@VConfing"
+      - "@VPNConnectd-2"
+      - "@Shh_Proxy-New⁸"
+      - "@Nexus_Panell"
+      - "@V2ray_confiig-2"
+      - "Tel-@ProxyMtAlpha🤯"
+      - "🇸🇬SG-51.79.228.131-0221"
+      - "🇬🇧GB-🚀@VPNine1"
+      - "@V2rayNGVPN-2"
+      - "@v2raybaaz"
+      - "新西兰+V2CROSS.COM"
+      - "美国+V2CROSS.COM"
+      - "新西兰+V2CROSS.COM-2"
+rules:
+  - "MATCH,PROXY"

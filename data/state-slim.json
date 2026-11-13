@@ -1,147 +1,40 @@
 {
-  "generated_at": "2026-11-13T12:43:20.8097549+00:00",
+  "generated_at": "2026-11-13T13:27:21.5182504+00:00",
   "repositories": [
-    {
-      "full_name": "jingjiangze/node-radar",
-      "score": 90,
-      "total_nodes": 4462,
-      "links": [
-        {
-          "name": "dist/clash.yaml",
-          "url": "https://raw.githubusercontent.com/jingjiangze/node-radar/main/dist/clash.yaml",
-          "type": "Clash",
-          "node_count": 4462
-        },
-        {
-          "name": "dist/clash-lite.yaml",
-          "url": "https://raw.githubusercontent.com/jingjiangze/node-radar/main/dist/clash-lite.yaml",
-          "type": "Clash",
-          "node_count": 461
-        }
-      ]
-    },
-    {
-      "full_name": "ssnn20012001-bot/v2ray-sub",
-      "score": 90,
-      "total_nodes": 3323,
-      "links": [
-        {
-          "name": "nodes.txt",
-          "url": "https://raw.githubusercontent.com/ssnn20012001-bot/v2ray-sub/main/nodes.txt",
-          "type": "Base64",
-          "node_count": 3323
-        },
-        {
-          "name": "nodes_base64.txt",
-          "url": "https://raw.githubusercontent.com/ssnn20012001-bot/v2ray-sub/main/nodes_base64.txt",
-          "type": "Base64",
-          "node_count": 3323
-        }
-      ]
-    },
-    {
-      "full_name": "gslege/CloudflareIP",
-      "score": 88,
-      "total_nodes": 20,
-      "links": [
-        {
-          "name": "Vless.txt",
-          "url": "https://raw.githubusercontent.com/gslege/CloudflareIP/main/Vless.txt",
-          "type": "Base64",
-          "node_count": 20
-        }
-      ]
-    },
-    {
-      "full_name": "v2raydog-node/free-nodes",
-      "score": 83,
-      "total_nodes": 15,
-      "links": [
-        {
-          "name": "nodes.txt",
-          "url": "https://raw.githubusercontent.com/v2raydog-node/free-nodes/main/nodes.txt",
-          "type": "Base64",
-          "node_count": 15
-        },
-        {
-          "name": "v2ray.txt",
-          "url": "https://raw.githubusercontent.com/v2raydog-node/free-nodes/main/v2ray.txt",
-          "type": "Base64",
-          "node_count": 15
-        },
-        {
-          "name": "clash.yaml",
-          "url": "https://raw.githubusercontent.com/v2raydog-node/free-nodes/main/clash.yaml",
-          "type": "Clash",
-          "node_count": 15
-        },
-        {
-          "name": "shadowrocket.txt",
-          "url": "https://raw.githubusercontent.com/v2raydog-node/free-nodes/main/shadowrocket.txt",
-          "type": "Base64",
-          "node_count": 15
-        }
-      ]
-    },
-    {
-      "full_name": "Barabama/FreeNodes",
-      "score": 82,
-      "total_nodes": 4760,
-      "links": [
-        {
-          "name": "nodes/cfmem.txt",
-          "url": "https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/cfmem.txt",
-          "type": "Base64",
-          "node_count": 14
-        },
-        {
-          "name": "nodes/fxrj.yaml",
-          "url": "https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/fxrj.yaml",
-          "type": "Base64",
-          "node_count": 1589
-        },
-        {
-          "name": "nodes/yudou.txt",
-          "url": "https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/yudou.txt",
-          "type": "Base64",
-          "node_count": 86
-        },
-        {
-          "name": "nodes/cfmem.yaml",
-          "url": "https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/cfmem.yaml",
-          "type": "Base64",
-          "node_count": 14
-        },
-        {
-          "name": "nodes/merged.txt",
-          "url": "https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/merged.txt",
-          "type": "Base64",
-          "node_count": 4760
-        }
-      ]
-    },
     {
       "full_name": "MustafaBaqer/VestraNet-Nodes",
       "score": 78,
-      "total_nodes": 9354,
+      "total_nodes": 9474,
       "links": [
+        {
+          "name": "protocols/vless.txt",
+          "url": "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/protocols/vless.txt",
+          "type": "Base64",
+          "node_count": 1856
+        },
         {
           "name": "protocols/vmess.txt",
           "url": "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/protocols/vmess.txt",
           "type": "Base64",
-          "node_count": 5550
+          "node_count": 5508
         },
         {
           "name": "protocols/trojan.txt",
           "url": "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/protocols/trojan.txt",
           "type": "Base64",
-          "node_count": 327
+          "node_count": 281
         },
         {
           "name": "subscriptions/mix-base64.txt",
           "url": "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/subscriptions/mix-base64.txt",
           "type": "Base64",
-          "node_count": 9354
+          "node_count": 9474
+        },
+        {
+          "name": "subscriptions/mix-normal.txt",
+          "url": "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/subscriptions/mix-normal.txt",
+          "type": "Base64",
+          "node_count": 9474
         }
       ]
     },
@@ -160,45 +53,33 @@
     },
     {
       "full_name": "Pawdroid/Free-servers",
-      "score": 31,
-      "total_nodes": 10,
+      "score": 28,
+      "total_nodes": 7,
       "links": [
         {
           "name": "sub",
           "url": "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub",
           "type": "Base64",
-          "node_count": 10
+          "node_count": 7
         }
       ]
     }
   ],
   "subscriptions": [
-    "https://raw.githubusercontent.com/jingjiangze/node-radar/main/dist/clash.yaml",
-    "https://raw.githubusercontent.com/jingjiangze/node-radar/main/dist/clash-lite.yaml",
-    "https://raw.githubusercontent.com/ssnn20012001-bot/v2ray-sub/main/nodes.txt",
-    "https://raw.githubusercontent.com/ssnn20012001-bot/v2ray-sub/main/nodes_base64.txt",
-    "https://raw.githubusercontent.com/gslege/CloudflareIP/main/Vless.txt",
-    "https://raw.githubusercontent.com/v2raydog-node/free-nodes/main/nodes.txt",
-    "https://raw.githubusercontent.com/v2raydog-node/free-nodes/main/v2ray.txt",
-    "https://raw.githubusercontent.com/v2raydog-node/free-nodes/main/clash.yaml",
-    "https://raw.githubusercontent.com/v2raydog-node/free-nodes/main/shadowrocket.txt",
-    "https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/cfmem.txt",
-    "https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/fxrj.yaml",
-    "https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/yudou.txt",
-    "https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/cfmem.yaml",
-    "https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/merged.txt",
+    "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/protocols/vless.txt",
     "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/protocols/vmess.txt",
     "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/protocols/trojan.txt",
     "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/subscriptions/mix-base64.txt",
+    "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/subscriptions/mix-normal.txt",
     "https://raw.githubusercontent.com/Andrejewild/bypass-whitelist-vpn/main/sub.txt",
     "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub"
   ],
   "failed_searches": 0,
   "failed_repositories": 0,
   "failed_downloads": 0,
-  "yaml_skipped": 5,
-  "total_nodes": 26832,
-  "unique_nodes": 7279,
-  "clash_nodes": 7045,
-  "clash_skipped": 234
+  "yaml_skipped": 0,
+  "total_nodes": 26620,
+  "unique_nodes": 3279,
+  "clash_nodes": 3205,
+  "clash_skipped": 74
 }

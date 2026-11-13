@@ -1,0 +1,68 @@
+{
+  "generated_at": "2026-11-13T13:27:29Z",
+  "test_url": "http://www.gstatic.com/generate_204",
+  "test_url_ok": true,
+  "timeout_ms": 5000,
+  "total": 3205,
+  "working": 133,
+  "failed": 3072,
+  "by_type": {
+    "vless": 42,
+    "vmess": 30,
+    "trojan": 6,
+    "ss": 52,
+    "hy2": 3
+  },
+  "fastest": [
+    {
+      "name": "node-1602",
+      "delay_ms": 144,
+      "type": "vmess"
+    },
+    {
+      "name": "@V2rayNPVTConfig-8",
+      "delay_ms": 198,
+      "type": "vmess"
+    },
+    {
+      "name": "🇺🇸-28",
+      "delay_ms": 205,
+      "type": "vmess"
+    },
+    {
+      "name": "🇨🇦 加拿大 | CAN",
+      "delay_ms": 207,
+      "type": "ss"
+    },
+    {
+      "name": "🇺🇸US-138.197.89.234-0270",
+      "delay_ms": 220,
+      "type": "ss"
+    },
+    {
+      "name": "node-1596",
+      "delay_ms": 222,
+      "type": "vmess"
+    },
+    {
+      "name": "node-1546",
+      "delay_ms": 223,
+      "type": "vmess"
+    },
+    {
+      "name": "@VPsave-18",
+      "delay_ms": 230,
+      "type": "vmess"
+    },
+    {
+      "name": "@tootffarangi🍓-36",
+      "delay_ms": 236,
+      "type": "ss"
+    },
+    {
+      "name": "node-1599",
+      "delay_ms": 241,
+      "type": "vmess"
+    }
+  ]
+}

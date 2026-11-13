@@ -24,9 +24,9 @@
       "subscriptions/mix-base64.txt",
       "subscriptions/mix-normal.txt"
     ],
-    "TotalNodes": 9354,
-    "LastAnalyzed": "2026-11-13T12:43:18.0985305+00:00",
-    "AnalysisCount": 2,
+    "TotalNodes": 9474,
+    "LastAnalyzed": "2026-11-13T13:27:16.863191+00:00",
+    "AnalysisCount": 3,
     "IsReliable": true
   },
   "chengaopan/AutoMergePublicNodes": {
@@ -62,9 +62,9 @@
     "KnownSubPaths": [
       "sub"
     ],
-    "TotalNodes": 10,
-    "LastAnalyzed": "2026-11-13T12:43:17.8852084+00:00",
-    "AnalysisCount": 2,
+    "TotalNodes": 7,
+    "LastAnalyzed": "2026-11-13T13:27:16.8631875+00:00",
+    "AnalysisCount": 3,
     "IsReliable": true
   },
   "4q4r/assay": {
@@ -72,8 +72,8 @@
     "Category": 0,
     "KnownSubPaths": [],
     "TotalNodes": 0,
-    "LastAnalyzed": "2026-11-13T11:54:50.9946489+00:00",
-    "AnalysisCount": 1,
+    "LastAnalyzed": "2026-11-13T13:27:17.2866518+00:00",
+    "AnalysisCount": 2,
     "IsReliable": false
   },
   "zhuhaiuk/free-nodes": {
@@ -94,8 +94,8 @@
       "sub.txt"
     ],
     "TotalNodes": 20,
-    "LastAnalyzed": "2026-11-13T12:43:17.9975513+00:00",
-    "AnalysisCount": 2,
+    "LastAnalyzed": "2026-11-13T13:27:17.3077234+00:00",
+    "AnalysisCount": 3,
     "IsReliable": true
   },
   "VoroninaYanina/free-nodes": {
@@ -159,5 +159,61 @@
     "LastAnalyzed": "2026-11-13T12:43:19.1216537+00:00",
     "AnalysisCount": 1,
     "IsReliable": true
+  },
+  "gslege/CloudflareIP": {
+    "FullName": "gslege/CloudflareIP",
+    "Category": 0,
+    "KnownSubPaths": [
+      "Vless.txt"
+    ],
+    "TotalNodes": 20,
+    "LastAnalyzed": "2026-11-13T12:43:19.2573087+00:00",
+    "AnalysisCount": 1,
+    "IsReliable": true
+  },
+  "nodesradar/nodesradar-es": {
+    "FullName": "nodesradar/nodesradar-es",
+    "Category": 0,
+    "KnownSubPaths": [],
+    "TotalNodes": 0,
+    "LastAnalyzed": "2026-11-13T13:27:17.2959844+00:00",
+    "AnalysisCount": 1,
+    "IsReliable": false
+  },
+  "nodesradar/nodesradar-my": {
+    "FullName": "nodesradar/nodesradar-my",
+    "Category": 0,
+    "KnownSubPaths": [],
+    "TotalNodes": 0,
+    "LastAnalyzed": "2026-11-13T13:27:17.7594336+00:00",
+    "AnalysisCount": 1,
+    "IsReliable": false
+  },
+  "nodesradar/nodesradar-id": {
+    "FullName": "nodesradar/nodesradar-id",
+    "Category": 0,
+    "KnownSubPaths": [],
+    "TotalNodes": 0,
+    "LastAnalyzed": "2026-11-13T13:27:17.9403284+00:00",
+    "AnalysisCount": 1,
+    "IsReliable": false
+  },
+  "nodesradar/nodesradar-vi": {
+    "FullName": "nodesradar/nodesradar-vi",
+    "Category": 0,
+    "KnownSubPaths": [],
+    "TotalNodes": 0,
+    "LastAnalyzed": "2026-11-13T13:27:18.2986469+00:00",
+    "AnalysisCount": 1,
+    "IsReliable": false
+  },
+  "nodesradar/nodesradar-ar": {
+    "FullName": "nodesradar/nodesradar-ar",
+    "Category": 0,
+    "KnownSubPaths": [],
+    "TotalNodes": 0,
+    "LastAnalyzed": "2026-11-13T13:27:18.5882019+00:00",
+    "AnalysisCount": 1,
+    "IsReliable": false
   }
 }
