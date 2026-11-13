@@ -1,7 +1,15 @@
+https://raw.githubusercontent.com/LeilaoMi/AutoMergePublicNodes-Optimized/main/output/verified.yaml
+https://raw.githubusercontent.com/LeilaoMi/AutoMergePublicNodes-Optimized/main/output/global.yaml
+https://raw.githubusercontent.com/gslege/CloudflareIP/main/Vless.txt
+https://raw.githubusercontent.com/xyfqzy/free-nodes/main/docs/subscriptions/base64.txt
+https://raw.githubusercontent.com/xyfqzy/free-nodes/main/docs/subscriptions/clash.yaml
+https://raw.githubusercontent.com/jingjiangze/node-radar/main/dist/clash.yaml
+https://raw.githubusercontent.com/jingjiangze/node-radar/main/dist/clash-lite.yaml
+https://raw.githubusercontent.com/zhangdunlong/free-v2ray-nodes/main/nodes_base64.txt
+https://raw.githubusercontent.com/zhuhaiuk/free-nodes/main/nodes.txt
 https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/protocols/vless.txt
 https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/protocols/vmess.txt
 https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/protocols/trojan.txt
 https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/subscriptions/mix-base64.txt
-https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/subscriptions/mix-normal.txt
 https://raw.githubusercontent.com/Andrejewild/bypass-whitelist-vpn/main/sub.txt
 https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub

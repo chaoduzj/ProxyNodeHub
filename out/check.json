@@ -1,68 +1,68 @@
 {
-  "generated_at": "2026-11-13T13:27:29Z",
+  "generated_at": "2026-11-13T18:54:56Z",
   "test_url": "http://www.gstatic.com/generate_204",
   "test_url_ok": true,
   "timeout_ms": 5000,
-  "total": 3205,
-  "working": 133,
-  "failed": 3072,
+  "total": 2976,
+  "working": 139,
+  "failed": 2837,
   "by_type": {
-    "vless": 42,
-    "vmess": 30,
-    "trojan": 6,
-    "ss": 52,
-    "hy2": 3
+    "vless": 47,
+    "vmess": 29,
+    "trojan": 4,
+    "ss": 53,
+    "hy2": 6
   },
   "fastest": [
     {
-      "name": "node-1602",
-      "delay_ms": 144,
+      "name": "🇺🇸213442",
+      "delay_ms": 88,
+      "type": "vless"
+    },
+    {
+      "name": "node-1430",
+      "delay_ms": 107,
       "type": "vmess"
     },
     {
-      "name": "@V2rayNPVTConfig-8",
-      "delay_ms": 198,
+      "name": "🇺🇸 美国 | USA #18",
+      "delay_ms": 110,
+      "type": "vless"
+    },
+    {
+      "name": "🇨🇦",
+      "delay_ms": 113,
       "type": "vmess"
     },
     {
-      "name": "🇺🇸-28",
-      "delay_ms": 205,
-      "type": "vmess"
-    },
-    {
-      "name": "🇨🇦 加拿大 | CAN",
-      "delay_ms": 207,
+      "name": "@FXxNET⚡️-32",
+      "delay_ms": 121,
       "type": "ss"
     },
     {
-      "name": "🇺🇸US-138.197.89.234-0270",
-      "delay_ms": 220,
-      "type": "ss"
+      "name": "node-1427",
+      "delay_ms": 146,
+      "type": "vmess"
     },
     {
-      "name": "node-1596",
+      "name": "🇨🇦[www.v2nodes.com] vless-CA-1... #2",
+      "delay_ms": 177,
+      "type": "vless"
+    },
+    {
+      "name": "07 🇳🇱 нидерланды | mega vpn @vpnsmegabot",
       "delay_ms": 222,
-      "type": "vmess"
+      "type": "ss"
     },
     {
-      "name": "node-1546",
-      "delay_ms": 223,
-      "type": "vmess"
-    },
-    {
-      "name": "@VPsave-18",
-      "delay_ms": 230,
-      "type": "vmess"
-    },
-    {
-      "name": "@tootffarangi🍓-36",
+      "name": "🇬🇧-5",
       "delay_ms": 236,
       "type": "ss"
     },
     {
-      "name": "node-1599",
-      "delay_ms": 241,
-      "type": "vmess"
+      "name": "11 🇳🇱 нидерланды | mega vpn @vpnsmegabot",
+      "delay_ms": 247,
+      "type": "ss"
     }
   ]
 }
