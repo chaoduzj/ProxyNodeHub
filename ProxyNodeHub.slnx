@@ -3,6 +3,7 @@
     <Project Path="core/ProxyNodeHub.Core.csproj" />
     <Project Path="src/ProxyNodeHub.csproj" />
     <Project Path="web/ProxyNodeHub.Web.csproj" />
+    <Project Path="console/ProxyNodeHub.Console.csproj" />
   </Folder>
   <Folder Name="/tests/">
     <Project Path="tests/ProxyNodeHub.Tests/ProxyNodeHub.Tests.csproj" />
