@@ -1,0 +1,202 @@
+{
+  "generated_at": "2026-11-13T11:54:53.1488077+00:00",
+  "repositories": [
+    {
+      "full_name": "jingjiangze/node-radar",
+      "score": 90,
+      "total_nodes": 4465,
+      "links": [
+        {
+          "name": "dist/clash.yaml",
+          "url": "https://raw.githubusercontent.com/jingjiangze/node-radar/main/dist/clash.yaml",
+          "type": "Clash",
+          "node_count": 4465
+        },
+        {
+          "name": "dist/clash-lite.yaml",
+          "url": "https://raw.githubusercontent.com/jingjiangze/node-radar/main/dist/clash-lite.yaml",
+          "type": "Clash",
+          "node_count": 451
+        }
+      ]
+    },
+    {
+      "full_name": "Barabama/FreeNodes",
+      "score": 86,
+      "total_nodes": 4760,
+      "links": [
+        {
+          "name": "nodes/cfmem.txt",
+          "url": "https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/cfmem.txt",
+          "type": "Base64",
+          "node_count": 14
+        },
+        {
+          "name": "nodes/fxrj.yaml",
+          "url": "https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/fxrj.yaml",
+          "type": "Base64",
+          "node_count": 1589
+        },
+        {
+          "name": "nodes/yudou.txt",
+          "url": "https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/yudou.txt",
+          "type": "Base64",
+          "node_count": 86
+        },
+        {
+          "name": "nodes/cfmem.yaml",
+          "url": "https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/cfmem.yaml",
+          "type": "Base64",
+          "node_count": 14
+        },
+        {
+          "name": "nodes/merged.txt",
+          "url": "https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/merged.txt",
+          "type": "Base64",
+          "node_count": 4760
+        }
+      ]
+    },
+    {
+      "full_name": "chengaopan/AutoMergePublicNodes",
+      "score": 85,
+      "total_nodes": 399,
+      "links": [
+        {
+          "name": "list.txt",
+          "url": "https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.txt",
+          "type": "Base64",
+          "node_count": 399
+        },
+        {
+          "name": "list.yml",
+          "url": "https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.yml",
+          "type": "Base64",
+          "node_count": 148
+        },
+        {
+          "name": "list_raw.txt",
+          "url": "https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list_raw.txt",
+          "type": "Base64",
+          "node_count": 399
+        },
+        {
+          "name": "list.meta.yml",
+          "url": "https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.meta.yml",
+          "type": "Base64",
+          "node_count": 351
+        },
+        {
+          "name": "snippets/nodes.yml",
+          "url": "https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/snippets/nodes.yml",
+          "type": "Base64",
+          "node_count": 148
+        }
+      ]
+    },
+    {
+      "full_name": "zhuhaiuk/free-nodes",
+      "score": 81,
+      "total_nodes": 7,
+      "links": [
+        {
+          "name": "nodes.txt",
+          "url": "https://raw.githubusercontent.com/zhuhaiuk/free-nodes/main/nodes.txt",
+          "type": "Base64",
+          "node_count": 7
+        }
+      ]
+    },
+    {
+      "full_name": "MustafaBaqer/VestraNet-Nodes",
+      "score": 78,
+      "total_nodes": 9149,
+      "links": [
+        {
+          "name": "protocols/vless.txt",
+          "url": "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/protocols/vless.txt",
+          "type": "Base64",
+          "node_count": 1787
+        },
+        {
+          "name": "protocols/vmess.txt",
+          "url": "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/protocols/vmess.txt",
+          "type": "Base64",
+          "node_count": 5118
+        },
+        {
+          "name": "protocols/trojan.txt",
+          "url": "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/protocols/trojan.txt",
+          "type": "Base64",
+          "node_count": 217
+        },
+        {
+          "name": "subscriptions/mix-base64.txt",
+          "url": "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/subscriptions/mix-base64.txt",
+          "type": "Base64",
+          "node_count": 9149
+        },
+        {
+          "name": "subscriptions/mix-normal.txt",
+          "url": "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/subscriptions/mix-normal.txt",
+          "type": "Base64",
+          "node_count": 9149
+        }
+      ]
+    },
+    {
+      "full_name": "Andrejewild/bypass-whitelist-vpn",
+      "score": 73,
+      "total_nodes": 20,
+      "links": [
+        {
+          "name": "sub.txt",
+          "url": "https://raw.githubusercontent.com/Andrejewild/bypass-whitelist-vpn/main/sub.txt",
+          "type": "Base64",
+          "node_count": 20
+        }
+      ]
+    },
+    {
+      "full_name": "Pawdroid/Free-servers",
+      "score": 31,
+      "total_nodes": 10,
+      "links": [
+        {
+          "name": "sub",
+          "url": "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub",
+          "type": "Base64",
+          "node_count": 10
+        }
+      ]
+    }
+  ],
+  "subscriptions": [
+    "https://raw.githubusercontent.com/jingjiangze/node-radar/main/dist/clash.yaml",
+    "https://raw.githubusercontent.com/jingjiangze/node-radar/main/dist/clash-lite.yaml",
+    "https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/cfmem.txt",
+    "https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/fxrj.yaml",
+    "https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/yudou.txt",
+    "https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/cfmem.yaml",
+    "https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/merged.txt",
+    "https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.txt",
+    "https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.yml",
+    "https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list_raw.txt",
+    "https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.meta.yml",
+    "https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/snippets/nodes.yml",
+    "https://raw.githubusercontent.com/zhuhaiuk/free-nodes/main/nodes.txt",
+    "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/protocols/vless.txt",
+    "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/protocols/vmess.txt",
+    "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/protocols/trojan.txt",
+    "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/subscriptions/mix-base64.txt",
+    "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/subscriptions/mix-normal.txt",
+    "https://raw.githubusercontent.com/Andrejewild/bypass-whitelist-vpn/main/sub.txt",
+    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub"
+  ],
+  "failed_searches": 0,
+  "failed_repositories": 0,
+  "failed_downloads": 0,
+  "yaml_skipped": 7,
+  "total_nodes": 31115,
+  "unique_nodes": 4902
+}

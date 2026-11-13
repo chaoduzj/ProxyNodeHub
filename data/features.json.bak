@@ -1,0 +1,110 @@
+{
+  "Barabama/FreeNodes": {
+    "FullName": "Barabama/FreeNodes",
+    "Category": 0,
+    "KnownSubPaths": [
+      "nodes/cfmem.txt",
+      "nodes/fxrj.yaml",
+      "nodes/yudou.txt",
+      "nodes/cfmem.yaml",
+      "nodes/merged.txt"
+    ],
+    "TotalNodes": 4760,
+    "LastAnalyzed": "2026-11-13T11:54:49.9435702+00:00",
+    "AnalysisCount": 1,
+    "IsReliable": true
+  },
+  "MustafaBaqer/VestraNet-Nodes": {
+    "FullName": "MustafaBaqer/VestraNet-Nodes",
+    "Category": 0,
+    "KnownSubPaths": [
+      "protocols/vless.txt",
+      "protocols/vmess.txt",
+      "protocols/trojan.txt",
+      "subscriptions/mix-base64.txt",
+      "subscriptions/mix-normal.txt"
+    ],
+    "TotalNodes": 9149,
+    "LastAnalyzed": "2026-11-13T11:54:50.1232893+00:00",
+    "AnalysisCount": 1,
+    "IsReliable": true
+  },
+  "chengaopan/AutoMergePublicNodes": {
+    "FullName": "chengaopan/AutoMergePublicNodes",
+    "Category": 0,
+    "KnownSubPaths": [
+      "list.txt",
+      "list.yml",
+      "list_raw.txt",
+      "list.meta.yml",
+      "snippets/nodes.yml"
+    ],
+    "TotalNodes": 399,
+    "LastAnalyzed": "2026-11-13T11:54:50.009223+00:00",
+    "AnalysisCount": 1,
+    "IsReliable": true
+  },
+  "jingjiangze/node-radar": {
+    "FullName": "jingjiangze/node-radar",
+    "Category": 0,
+    "KnownSubPaths": [
+      "dist/clash.yaml",
+      "dist/clash-lite.yaml"
+    ],
+    "TotalNodes": 4465,
+    "LastAnalyzed": "2026-11-13T11:54:50.0092731+00:00",
+    "AnalysisCount": 1,
+    "IsReliable": true
+  },
+  "Pawdroid/Free-servers": {
+    "FullName": "Pawdroid/Free-servers",
+    "Category": 0,
+    "KnownSubPaths": [
+      "sub"
+    ],
+    "TotalNodes": 10,
+    "LastAnalyzed": "2026-11-13T11:54:51.0153023+00:00",
+    "AnalysisCount": 1,
+    "IsReliable": true
+  },
+  "4q4r/assay": {
+    "FullName": "4q4r/assay",
+    "Category": 0,
+    "KnownSubPaths": [],
+    "TotalNodes": 0,
+    "LastAnalyzed": "2026-11-13T11:54:50.9946489+00:00",
+    "AnalysisCount": 1,
+    "IsReliable": false
+  },
+  "zhuhaiuk/free-nodes": {
+    "FullName": "zhuhaiuk/free-nodes",
+    "Category": 0,
+    "KnownSubPaths": [
+      "nodes.txt"
+    ],
+    "TotalNodes": 7,
+    "LastAnalyzed": "2026-11-13T11:54:51.4457082+00:00",
+    "AnalysisCount": 1,
+    "IsReliable": true
+  },
+  "Andrejewild/bypass-whitelist-vpn": {
+    "FullName": "Andrejewild/bypass-whitelist-vpn",
+    "Category": 0,
+    "KnownSubPaths": [
+      "sub.txt"
+    ],
+    "TotalNodes": 20,
+    "LastAnalyzed": "2026-11-13T11:54:51.2474518+00:00",
+    "AnalysisCount": 1,
+    "IsReliable": true
+  },
+  "VoroninaYanina/free-nodes": {
+    "FullName": "VoroninaYanina/free-nodes",
+    "Category": 0,
+    "KnownSubPaths": [],
+    "TotalNodes": 0,
+    "LastAnalyzed": "2026-11-13T11:54:51.2892207+00:00",
+    "AnalysisCount": 1,
+    "IsReliable": false
+  }
+}
