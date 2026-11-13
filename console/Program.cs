@@ -12,7 +12,7 @@ using ProxyNodeHub;
 if (args.Length == 3 && args[0] == "convert")
 {
     var inputLines = await File.ReadAllLinesAsync(args[1]);
-    var (yaml, converted, skipped) = ClashYaml.ConvertLines(inputLines);
+    var (yaml, converted, skipped, _) = ClashYaml.ConvertLines(inputLines);
     if (converted == 0)
     {
         Console.Error.WriteLine("没有可转换的节点。");
@@ -170,10 +170,13 @@ try
 
     // Clash 订阅：把合并后的节点转成 Clash Meta (mihomo) 可用的 clash.yaml。
     // 只有转换出有效节点才写，失败不覆盖上一轮。
-    var (clashYaml, clashCount, clashSkipped) = ClashYaml.ConvertLines(NodeParser.SplitNodeLines(plain));
+    var (clashYaml, clashCount, clashSkipped, clashMapping) = ClashYaml.ConvertLines(NodeParser.SplitNodeLines(plain));
     if (clashCount > 0)
     {
         await File.WriteAllTextAsync(Path.Combine(outDir, "clash.yaml"), clashYaml, ct);
+        // 代理名→原始节点链接，供测速脚本按名字找回原始链接。
+        var namesJson = JsonSerializer.Serialize(clashMapping.ToDictionary(m => m.name, m => m.uri));
+        await File.WriteAllTextAsync(Path.Combine(outDir, "node-names.json"), namesJson + "\n", ct);
         Log($"Clash: {clashCount} 个节点已写入 clash.yaml（跳过 {clashSkipped} 个不支持的节点）。");
     }
     else
