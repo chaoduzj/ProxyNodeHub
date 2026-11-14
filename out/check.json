@@ -1,68 +1,68 @@
 {
-  "generated_at": "2026-11-14T03:57:17Z",
+  "generated_at": "2026-11-14T12:41:23Z",
   "test_url": "http://www.gstatic.com/generate_204",
   "test_url_ok": true,
   "timeout_ms": 5000,
-  "total": 3255,
-  "working": 156,
-  "failed": 3099,
+  "total": 3194,
+  "working": 140,
+  "failed": 3054,
   "by_type": {
-    "vless": 53,
-    "vmess": 41,
-    "trojan": 2,
-    "ss": 53,
-    "hy2": 7
+    "vless": 48,
+    "vmess": 43,
+    "trojan": 3,
+    "ss": 42,
+    "hy2": 4
   },
   "fastest": [
     {
-      "name": "🇺🇸-22",
-      "delay_ms": 120,
+      "name": "node-1533",
+      "delay_ms": 22,
       "type": "vmess"
     },
     {
-      "name": "🇺🇸-25",
-      "delay_ms": 137,
+      "name": "@VPsave-22",
+      "delay_ms": 30,
       "type": "vmess"
     },
     {
-      "name": "node-1476",
+      "name": "node-1536",
+      "delay_ms": 56,
+      "type": "vmess"
+    },
+    {
+      "name": "🇺🇸-33",
+      "delay_ms": 68,
+      "type": "vmess"
+    },
+    {
+      "name": "@VPsave-24",
+      "delay_ms": 101,
+      "type": "vmess"
+    },
+    {
+      "name": "4🟢@oneclickvpnkeys",
+      "delay_ms": 112,
+      "type": "hy2"
+    },
+    {
+      "name": "node-1510",
+      "delay_ms": 119,
+      "type": "vmess"
+    },
+    {
+      "name": "node-1515",
+      "delay_ms": 130,
+      "type": "vmess"
+    },
+    {
+      "name": "🇨🇦-6",
       "delay_ms": 138,
       "type": "vmess"
     },
     {
-      "name": "@VPsave-12",
-      "delay_ms": 139,
-      "type": "vmess"
-    },
-    {
-      "name": "@VPsave-18",
+      "name": "🇺🇸US-🚀@VPNine1-11",
       "delay_ms": 143,
-      "type": "vmess"
-    },
-    {
-      "name": "node-1526",
-      "delay_ms": 148,
-      "type": "vmess"
-    },
-    {
-      "name": "@V2rayNPVTConfig-6",
-      "delay_ms": 150,
-      "type": "vmess"
-    },
-    {
-      "name": "node-1488",
-      "delay_ms": 158,
-      "type": "vmess"
-    },
-    {
-      "name": "🇨🇦CA-15.235.57.6-0194",
-      "delay_ms": 182,
-      "type": "ss"
-    },
-    {
-      "name": "@Nexus_Panell",
-      "delay_ms": 184,
-      "type": "ss"
+      "type": "vless"
     }
   ]
 }
