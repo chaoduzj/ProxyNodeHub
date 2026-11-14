@@ -24,9 +24,9 @@
       "subscriptions/mix-base64.txt",
       "subscriptions/mix-normal.txt"
     ],
-    "TotalNodes": 9415,
-    "LastAnalyzed": "2026-11-13T18:54:45.4314392+00:00",
-    "AnalysisCount": 4,
+    "TotalNodes": 9370,
+    "LastAnalyzed": "2026-11-14T03:57:07.5724471+00:00",
+    "AnalysisCount": 5,
     "IsReliable": true
   },
   "chengaopan/AutoMergePublicNodes": {
@@ -51,9 +51,9 @@
       "dist/clash.yaml",
       "dist/clash-lite.yaml"
     ],
-    "TotalNodes": 4390,
-    "LastAnalyzed": "2026-11-13T18:54:46.3880188+00:00",
-    "AnalysisCount": 3,
+    "TotalNodes": 4319,
+    "LastAnalyzed": "2026-11-14T03:57:08.7676065+00:00",
+    "AnalysisCount": 4,
     "IsReliable": true
   },
   "Pawdroid/Free-servers": {
@@ -62,9 +62,9 @@
     "KnownSubPaths": [
       "sub"
     ],
-    "TotalNodes": 10,
-    "LastAnalyzed": "2026-11-13T18:54:45.9461023+00:00",
-    "AnalysisCount": 4,
+    "TotalNodes": 11,
+    "LastAnalyzed": "2026-11-14T03:57:08.4244273+00:00",
+    "AnalysisCount": 5,
     "IsReliable": true
   },
   "4q4r/assay": {
@@ -176,8 +176,8 @@
     "Category": 0,
     "KnownSubPaths": [],
     "TotalNodes": 0,
-    "LastAnalyzed": "2026-11-13T13:27:17.2959844+00:00",
-    "AnalysisCount": 1,
+    "LastAnalyzed": "2026-11-14T03:57:08.670438+00:00",
+    "AnalysisCount": 2,
     "IsReliable": false
   },
   "nodesradar/nodesradar-my": {
@@ -185,8 +185,8 @@
     "Category": 0,
     "KnownSubPaths": [],
     "TotalNodes": 0,
-    "LastAnalyzed": "2026-11-13T13:27:17.7594336+00:00",
-    "AnalysisCount": 1,
+    "LastAnalyzed": "2026-11-14T03:57:08.7501915+00:00",
+    "AnalysisCount": 2,
     "IsReliable": false
   },
   "nodesradar/nodesradar-id": {
@@ -194,8 +194,8 @@
     "Category": 0,
     "KnownSubPaths": [],
     "TotalNodes": 0,
-    "LastAnalyzed": "2026-11-13T13:27:17.9403284+00:00",
-    "AnalysisCount": 1,
+    "LastAnalyzed": "2026-11-14T03:57:08.9358344+00:00",
+    "AnalysisCount": 2,
     "IsReliable": false
   },
   "nodesradar/nodesradar-vi": {
@@ -242,6 +242,49 @@
     "KnownSubPaths": [],
     "TotalNodes": 300,
     "LastAnalyzed": "2026-11-13T18:54:45.560766+00:00",
+    "AnalysisCount": 1,
+    "IsReliable": false
+  },
+  "xyfqzy/free-nodes": {
+    "FullName": "xyfqzy/free-nodes",
+    "Category": 0,
+    "KnownSubPaths": [
+      "docs/subscriptions/base64.txt",
+      "docs/subscriptions/clash.yaml"
+    ],
+    "TotalNodes": 5,
+    "LastAnalyzed": "2026-11-13T18:54:47.3302953+00:00",
+    "AnalysisCount": 1,
+    "IsReliable": true
+  },
+  "tglaoshiji/nodeshare": {
+    "FullName": "tglaoshiji/nodeshare",
+    "Category": 0,
+    "KnownSubPaths": [
+      "2026/v2ray.txt",
+      "2025/7/v2ray.txt",
+      "2025/8/clash.yaml"
+    ],
+    "TotalNodes": 169,
+    "LastAnalyzed": "2026-11-14T03:57:07.52239+00:00",
+    "AnalysisCount": 1,
+    "IsReliable": true
+  },
+  "nodesfree/nodesfree.github.io": {
+    "FullName": "nodesfree/nodesfree.github.io",
+    "Category": 0,
+    "KnownSubPaths": [],
+    "TotalNodes": 0,
+    "LastAnalyzed": "2026-11-14T03:57:07.5515498+00:00",
+    "AnalysisCount": 1,
+    "IsReliable": false
+  },
+  "TG-NAV/nodeshare": {
+    "FullName": "TG-NAV/nodeshare",
+    "Category": 0,
+    "KnownSubPaths": [],
+    "TotalNodes": 0,
+    "LastAnalyzed": "2026-11-14T03:57:07.5777366+00:00",
     "AnalysisCount": 1,
     "IsReliable": false
   }
