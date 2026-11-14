@@ -1,68 +1,69 @@
 {
-  "generated_at": "2026-11-14T12:41:23Z",
+  "generated_at": "2026-11-14T21:47:26Z",
   "test_url": "http://www.gstatic.com/generate_204",
   "test_url_ok": true,
   "timeout_ms": 5000,
-  "total": 3194,
-  "working": 140,
-  "failed": 3054,
+  "total": 3014,
+  "working": 147,
+  "failed": 2867,
   "by_type": {
-    "vless": 48,
-    "vmess": 43,
-    "trojan": 3,
-    "ss": 42,
-    "hy2": 4
+    "vless": 45,
+    "vmess": 45,
+    "trojan": 5,
+    "ss": 44,
+    "hy2": 7,
+    "ssr": 1
   },
   "fastest": [
     {
-      "name": "node-1533",
-      "delay_ms": 22,
-      "type": "vmess"
+      "name": "🇺🇸213463",
+      "delay_ms": 192,
+      "type": "ss"
     },
     {
-      "name": "@VPsave-22",
-      "delay_ms": 30,
-      "type": "vmess"
+      "name": "🇨🇦CA-15.235.57.6-0634",
+      "delay_ms": 204,
+      "type": "ss"
     },
     {
-      "name": "node-1536",
-      "delay_ms": 56,
-      "type": "vmess"
+      "name": "@Nexus_Panell-4",
+      "delay_ms": 205,
+      "type": "ss"
     },
     {
-      "name": "🇺🇸-33",
-      "delay_ms": 68,
-      "type": "vmess"
+      "name": "@VPsave-19",
+      "delay_ms": 215,
+      "type": "ss"
     },
     {
-      "name": "@VPsave-24",
-      "delay_ms": 101,
-      "type": "vmess"
-    },
-    {
-      "name": "4🟢@oneclickvpnkeys",
-      "delay_ms": 112,
-      "type": "hy2"
-    },
-    {
-      "name": "node-1510",
-      "delay_ms": 119,
-      "type": "vmess"
-    },
-    {
-      "name": "node-1515",
-      "delay_ms": 130,
-      "type": "vmess"
-    },
-    {
-      "name": "🇨🇦-6",
-      "delay_ms": 138,
-      "type": "vmess"
-    },
-    {
-      "name": "🇺🇸US-🚀@VPNine1-11",
-      "delay_ms": 143,
+      "name": "@tootffarangi🍓-14",
+      "delay_ms": 215,
       "type": "vless"
+    },
+    {
+      "name": "4Mohsen-3353",
+      "delay_ms": 217,
+      "type": "ssr"
+    },
+    {
+      "name": "@meliproxyy-19",
+      "delay_ms": 218,
+      "type": "ss"
+    },
+    {
+      "name": "🇨🇦-5",
+      "delay_ms": 238,
+      "type": "vmess"
+    },
+    {
+      "name": "🇬🇧GB-198.244.201.129-0287",
+      "delay_ms": 240,
+      "type": "ss"
+    },
+    {
+      "name": "🇺🇸-36",
+      "delay_ms": 243,
+      "type": "vmess"
     }
   ]
 }

@@ -24,9 +24,9 @@
       "subscriptions/mix-base64.txt",
       "subscriptions/mix-normal.txt"
     ],
-    "TotalNodes": 9355,
-    "LastAnalyzed": "2026-11-14T12:41:14.3827295+00:00",
-    "AnalysisCount": 6,
+    "TotalNodes": 9479,
+    "LastAnalyzed": "2026-11-14T21:47:18.2013991+00:00",
+    "AnalysisCount": 7,
     "IsReliable": true
   },
   "chengaopan/AutoMergePublicNodes": {
@@ -93,9 +93,9 @@
     "KnownSubPaths": [
       "sub.txt"
     ],
-    "TotalNodes": 20,
-    "LastAnalyzed": "2026-11-13T18:54:45.6349699+00:00",
-    "AnalysisCount": 4,
+    "TotalNodes": 16,
+    "LastAnalyzed": "2026-11-14T21:47:18.6491116+00:00",
+    "AnalysisCount": 5,
     "IsReliable": true
   },
   "VoroninaYanina/free-nodes": {
@@ -176,8 +176,8 @@
     "Category": 0,
     "KnownSubPaths": [],
     "TotalNodes": 0,
-    "LastAnalyzed": "2026-11-14T12:41:14.3171835+00:00",
-    "AnalysisCount": 3,
+    "LastAnalyzed": "2026-11-14T21:47:18.0374909+00:00",
+    "AnalysisCount": 4,
     "IsReliable": false
   },
   "nodesradar/nodesradar-my": {
@@ -185,8 +185,8 @@
     "Category": 0,
     "KnownSubPaths": [],
     "TotalNodes": 0,
-    "LastAnalyzed": "2026-11-14T12:41:14.3809332+00:00",
-    "AnalysisCount": 3,
+    "LastAnalyzed": "2026-11-14T21:47:18.0374848+00:00",
+    "AnalysisCount": 4,
     "IsReliable": false
   },
   "nodesradar/nodesradar-id": {
@@ -194,8 +194,8 @@
     "Category": 0,
     "KnownSubPaths": [],
     "TotalNodes": 0,
-    "LastAnalyzed": "2026-11-14T12:41:14.3744366+00:00",
-    "AnalysisCount": 3,
+    "LastAnalyzed": "2026-11-14T21:47:18.6411343+00:00",
+    "AnalysisCount": 4,
     "IsReliable": false
   },
   "nodesradar/nodesradar-vi": {
@@ -203,8 +203,8 @@
     "Category": 0,
     "KnownSubPaths": [],
     "TotalNodes": 0,
-    "LastAnalyzed": "2026-11-14T12:41:15.0624612+00:00",
-    "AnalysisCount": 3,
+    "LastAnalyzed": "2026-11-14T21:47:18.6349899+00:00",
+    "AnalysisCount": 4,
     "IsReliable": false
   },
   "nodesradar/nodesradar-ar": {
@@ -212,8 +212,8 @@
     "Category": 0,
     "KnownSubPaths": [],
     "TotalNodes": 0,
-    "LastAnalyzed": "2026-11-14T12:41:15.2482588+00:00",
-    "AnalysisCount": 2,
+    "LastAnalyzed": "2026-11-14T21:47:19.0355465+00:00",
+    "AnalysisCount": 3,
     "IsReliable": false
   },
   "nodesradar/nodesradar-ur": {
@@ -221,8 +221,8 @@
     "Category": 0,
     "KnownSubPaths": [],
     "TotalNodes": 0,
-    "LastAnalyzed": "2026-11-14T12:41:15.0703815+00:00",
-    "AnalysisCount": 2,
+    "LastAnalyzed": "2026-11-14T21:47:18.9450017+00:00",
+    "AnalysisCount": 3,
     "IsReliable": false
   },
   "zhangdunlong/free-v2ray-nodes": {
@@ -293,8 +293,8 @@
     "Category": 0,
     "KnownSubPaths": [],
     "TotalNodes": 0,
-    "LastAnalyzed": "2026-11-14T12:41:15.1066282+00:00",
-    "AnalysisCount": 1,
+    "LastAnalyzed": "2026-11-14T21:47:19.1284592+00:00",
+    "AnalysisCount": 2,
     "IsReliable": false
   },
   "nodesradar/nodesradar-fa": {
@@ -311,8 +311,8 @@
     "Category": 0,
     "KnownSubPaths": [],
     "TotalNodes": 0,
-    "LastAnalyzed": "2026-11-14T12:41:15.7987709+00:00",
-    "AnalysisCount": 1,
+    "LastAnalyzed": "2026-11-14T21:47:19.1423479+00:00",
+    "AnalysisCount": 2,
     "IsReliable": false
   }
 }
