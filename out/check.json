@@ -1,67 +1,67 @@
 {
-  "generated_at": "2026-11-15T13:07:38Z",
+  "generated_at": "2026-11-15T22:15:39Z",
   "test_url": "http://www.gstatic.com/generate_204",
   "test_url_ok": true,
   "timeout_ms": 5000,
-  "total": 3011,
-  "working": 162,
-  "failed": 2849,
+  "total": 3160,
+  "working": 167,
+  "failed": 2993,
   "by_type": {
-    "vless": 43,
+    "vless": 44,
     "vmess": 45,
-    "trojan": 4,
-    "hy2": 7,
-    "ss": 63
+    "trojan": 7,
+    "ss": 64,
+    "hy2": 7
   },
   "fastest": [
     {
-      "name": "@ConfigV2RayNG-16",
-      "delay_ms": 91,
-      "type": "ss"
-    },
-    {
-      "name": "🇺🇸US-198.98.53.130-0074",
-      "delay_ms": 95,
-      "type": "ss"
-    },
-    {
-      "name": "@FXxNET⚡️-23",
-      "delay_ms": 115,
-      "type": "ss"
-    },
-    {
-      "name": "🇺🇸US-138.197.89.234-0195",
-      "delay_ms": 116,
-      "type": "ss"
-    },
-    {
-      "name": "Tel-@ProxyMtAlpha🧁-2",
-      "delay_ms": 132,
-      "type": "ss"
-    },
-    {
-      "name": "🇨🇦CA-15.235.57.6-0268",
-      "delay_ms": 138,
-      "type": "ss"
-    },
-    {
-      "name": "@VPNConnectd-7",
-      "delay_ms": 141,
-      "type": "ss"
-    },
-    {
-      "name": "@V2rayNPVTConfig-8",
-      "delay_ms": 142,
-      "type": "vmess"
-    },
-    {
       "name": "@V2rayNPVTConfig-6",
-      "delay_ms": 148,
+      "delay_ms": 130,
       "type": "vmess"
     },
     {
-      "name": "@V2rayNPVTConfig-7",
-      "delay_ms": 155,
+      "name": "@V2rayNPVTConfig-5",
+      "delay_ms": 145,
+      "type": "vmess"
+    },
+    {
+      "name": "node-1503",
+      "delay_ms": 156,
+      "type": "vmess"
+    },
+    {
+      "name": "🇨🇦-10",
+      "delay_ms": 159,
+      "type": "vmess"
+    },
+    {
+      "name": "🇺🇸-18",
+      "delay_ms": 159,
+      "type": "vless"
+    },
+    {
+      "name": "node-1582",
+      "delay_ms": 160,
+      "type": "vmess"
+    },
+    {
+      "name": "node-1533",
+      "delay_ms": 161,
+      "type": "vmess"
+    },
+    {
+      "name": "🇺🇸US-138.197.89.234-0143",
+      "delay_ms": 164,
+      "type": "ss"
+    },
+    {
+      "name": "🇨🇦-8",
+      "delay_ms": 167,
+      "type": "vmess"
+    },
+    {
+      "name": "@V2rayNPVTConfig-4",
+      "delay_ms": 169,
       "type": "vmess"
     }
   ]
