@@ -1,51 +1,71 @@
 {
-  "generated_at": "2026-11-14T21:47:19.8348833+00:00",
+  "generated_at": "2026-11-15T03:40:56.3645923+00:00",
   "repositories": [
+    {
+      "full_name": "miladtahanian/Config-Collector",
+      "score": 100,
+      "total_nodes": 468,
+      "links": [
+        {
+          "name": "mixed_iran.txt",
+          "url": "https://raw.githubusercontent.com/miladtahanian/Config-Collector/main/mixed_iran.txt",
+          "type": "Base64",
+          "node_count": 468
+        }
+      ]
+    },
     {
       "full_name": "MustafaBaqer/VestraNet-Nodes",
       "score": 78,
-      "total_nodes": 9479,
+      "total_nodes": 9330,
       "links": [
         {
           "name": "protocols/vless.txt",
           "url": "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/protocols/vless.txt",
           "type": "Base64",
-          "node_count": 1708
+          "node_count": 1690
         },
         {
           "name": "protocols/vmess.txt",
           "url": "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/protocols/vmess.txt",
           "type": "Base64",
-          "node_count": 5271
+          "node_count": 5205
         },
         {
           "name": "protocols/trojan.txt",
           "url": "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/protocols/trojan.txt",
           "type": "Base64",
-          "node_count": 220
+          "node_count": 268
         },
         {
           "name": "subscriptions/mix-base64.txt",
           "url": "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/subscriptions/mix-base64.txt",
           "type": "Base64",
-          "node_count": 9479
-        },
-        {
-          "name": "subscriptions/mix-normal.txt",
-          "url": "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/subscriptions/mix-normal.txt",
-          "type": "Base64",
-          "node_count": 9479
+          "node_count": 9330
         }
       ]
     },
     {
-      "full_name": "Andrejewild/bypass-whitelist-vpn",
-      "score": 73,
+      "full_name": "Reconss/free-clash-nodes",
+      "score": 70,
+      "total_nodes": 1,
+      "links": [
+        {
+          "name": "config/mihomo.yaml",
+          "url": "https://raw.githubusercontent.com/Reconss/free-clash-nodes/main/config/mihomo.yaml",
+          "type": "Base64",
+          "node_count": 1
+        }
+      ]
+    },
+    {
+      "full_name": "Pawdroid/Free-servers",
+      "score": 31,
       "total_nodes": 16,
       "links": [
         {
-          "name": "sub.txt",
-          "url": "https://raw.githubusercontent.com/Andrejewild/bypass-whitelist-vpn/main/sub.txt",
+          "name": "sub",
+          "url": "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub",
           "type": "Base64",
           "node_count": 16
         }
@@ -53,19 +73,20 @@
     }
   ],
   "subscriptions": [
+    "https://raw.githubusercontent.com/miladtahanian/Config-Collector/main/mixed_iran.txt",
     "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/protocols/vless.txt",
     "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/protocols/vmess.txt",
     "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/protocols/trojan.txt",
     "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/subscriptions/mix-base64.txt",
-    "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/subscriptions/mix-normal.txt",
-    "https://raw.githubusercontent.com/Andrejewild/bypass-whitelist-vpn/main/sub.txt"
+    "https://raw.githubusercontent.com/Reconss/free-clash-nodes/main/config/mihomo.yaml",
+    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub"
   ],
   "failed_searches": 0,
   "failed_repositories": 0,
   "failed_downloads": 0,
-  "yaml_skipped": 0,
-  "total_nodes": 26173,
-  "unique_nodes": 3081,
-  "clash_nodes": 3014,
-  "clash_skipped": 67
+  "yaml_skipped": 1,
+  "total_nodes": 16977,
+  "unique_nodes": 3447,
+  "clash_nodes": 3340,
+  "clash_skipped": 107
 }

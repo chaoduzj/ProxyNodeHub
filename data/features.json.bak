@@ -24,9 +24,9 @@
       "subscriptions/mix-base64.txt",
       "subscriptions/mix-normal.txt"
     ],
-    "TotalNodes": 9479,
-    "LastAnalyzed": "2026-11-14T21:47:18.2013991+00:00",
-    "AnalysisCount": 7,
+    "TotalNodes": 9330,
+    "LastAnalyzed": "2026-11-15T03:40:54.6010632+00:00",
+    "AnalysisCount": 8,
     "IsReliable": true
   },
   "chengaopan/AutoMergePublicNodes": {
@@ -62,9 +62,9 @@
     "KnownSubPaths": [
       "sub"
     ],
-    "TotalNodes": 11,
-    "LastAnalyzed": "2026-11-14T03:57:08.4244273+00:00",
-    "AnalysisCount": 5,
+    "TotalNodes": 16,
+    "LastAnalyzed": "2026-11-15T03:40:54.4438987+00:00",
+    "AnalysisCount": 6,
     "IsReliable": true
   },
   "4q4r/assay": {
@@ -176,8 +176,8 @@
     "Category": 0,
     "KnownSubPaths": [],
     "TotalNodes": 0,
-    "LastAnalyzed": "2026-11-14T21:47:18.0374909+00:00",
-    "AnalysisCount": 4,
+    "LastAnalyzed": "2026-11-15T03:40:54.7809509+00:00",
+    "AnalysisCount": 5,
     "IsReliable": false
   },
   "nodesradar/nodesradar-my": {
@@ -185,8 +185,8 @@
     "Category": 0,
     "KnownSubPaths": [],
     "TotalNodes": 0,
-    "LastAnalyzed": "2026-11-14T21:47:18.0374848+00:00",
-    "AnalysisCount": 4,
+    "LastAnalyzed": "2026-11-15T03:40:54.7804586+00:00",
+    "AnalysisCount": 5,
     "IsReliable": false
   },
   "nodesradar/nodesradar-id": {
@@ -194,8 +194,8 @@
     "Category": 0,
     "KnownSubPaths": [],
     "TotalNodes": 0,
-    "LastAnalyzed": "2026-11-14T21:47:18.6411343+00:00",
-    "AnalysisCount": 4,
+    "LastAnalyzed": "2026-11-15T03:40:55.0188355+00:00",
+    "AnalysisCount": 5,
     "IsReliable": false
   },
   "nodesradar/nodesradar-vi": {
@@ -203,8 +203,8 @@
     "Category": 0,
     "KnownSubPaths": [],
     "TotalNodes": 0,
-    "LastAnalyzed": "2026-11-14T21:47:18.6349899+00:00",
-    "AnalysisCount": 4,
+    "LastAnalyzed": "2026-11-15T03:40:55.2658413+00:00",
+    "AnalysisCount": 5,
     "IsReliable": false
   },
   "nodesradar/nodesradar-ar": {
@@ -212,8 +212,8 @@
     "Category": 0,
     "KnownSubPaths": [],
     "TotalNodes": 0,
-    "LastAnalyzed": "2026-11-14T21:47:19.0355465+00:00",
-    "AnalysisCount": 3,
+    "LastAnalyzed": "2026-11-15T03:40:55.4057286+00:00",
+    "AnalysisCount": 4,
     "IsReliable": false
   },
   "nodesradar/nodesradar-ur": {
@@ -311,8 +311,30 @@
     "Category": 0,
     "KnownSubPaths": [],
     "TotalNodes": 0,
-    "LastAnalyzed": "2026-11-14T12:41:15.7987709+00:00",
-    "AnalysisCount": 1,
+    "LastAnalyzed": "2026-11-14T21:47:19.1423479+00:00",
+    "AnalysisCount": 2,
     "IsReliable": false
+  },
+  "miladtahanian/Config-Collector": {
+    "FullName": "miladtahanian/Config-Collector",
+    "Category": 0,
+    "KnownSubPaths": [
+      "mixed_iran.txt"
+    ],
+    "TotalNodes": 468,
+    "LastAnalyzed": "2026-11-15T03:40:54.4907075+00:00",
+    "AnalysisCount": 1,
+    "IsReliable": true
+  },
+  "Reconss/free-clash-nodes": {
+    "FullName": "Reconss/free-clash-nodes",
+    "Category": 0,
+    "KnownSubPaths": [
+      "config/mihomo.yaml"
+    ],
+    "TotalNodes": 1,
+    "LastAnalyzed": "2026-11-15T03:40:54.4439018+00:00",
+    "AnalysisCount": 1,
+    "IsReliable": true
   }
 }

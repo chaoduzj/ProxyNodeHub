@@ -1,69 +1,68 @@
 {
-  "generated_at": "2026-11-14T21:47:26Z",
+  "generated_at": "2026-11-15T03:41:03Z",
   "test_url": "http://www.gstatic.com/generate_204",
   "test_url_ok": true,
   "timeout_ms": 5000,
-  "total": 3014,
-  "working": 147,
-  "failed": 2867,
+  "total": 3340,
+  "working": 225,
+  "failed": 3115,
   "by_type": {
-    "vless": 45,
-    "vmess": 45,
-    "trojan": 5,
-    "ss": 44,
-    "hy2": 7,
-    "ssr": 1
+    "vmess": 50,
+    "vless": 50,
+    "trojan": 12,
+    "ss": 106,
+    "hy2": 7
   },
   "fastest": [
     {
-      "name": "🇺🇸213463",
-      "delay_ms": 192,
+      "name": "🇺🇸US-138.197.89.234-0273",
+      "delay_ms": 180,
       "type": "ss"
     },
     {
-      "name": "🇨🇦CA-15.235.57.6-0634",
-      "delay_ms": 204,
-      "type": "ss"
-    },
-    {
-      "name": "@Nexus_Panell-4",
-      "delay_ms": 205,
-      "type": "ss"
-    },
-    {
-      "name": "@VPsave-19",
-      "delay_ms": 215,
-      "type": "ss"
-    },
-    {
-      "name": "@tootffarangi🍓-14",
-      "delay_ms": 215,
-      "type": "vless"
-    },
-    {
-      "name": "4Mohsen-3353",
-      "delay_ms": 217,
-      "type": "ssr"
-    },
-    {
-      "name": "@meliproxyy-19",
-      "delay_ms": 218,
-      "type": "ss"
-    },
-    {
-      "name": "🇨🇦-5",
-      "delay_ms": 238,
+      "name": "node-13",
+      "delay_ms": 193,
       "type": "vmess"
     },
     {
-      "name": "🇬🇧GB-198.244.201.129-0287",
-      "delay_ms": 240,
-      "type": "ss"
+      "name": "🇺🇸-25",
+      "delay_ms": 199,
+      "type": "vmess"
     },
     {
-      "name": "🇺🇸-36",
-      "delay_ms": 243,
+      "name": "@VPsave-24",
+      "delay_ms": 209,
       "type": "vmess"
+    },
+    {
+      "name": "@V2rayNPVTConfig-9",
+      "delay_ms": 211,
+      "type": "vmess"
+    },
+    {
+      "name": "node-1699",
+      "delay_ms": 214,
+      "type": "vmess"
+    },
+    {
+      "name": "@V2rayNPVTConfig-8",
+      "delay_ms": 216,
+      "type": "vmess"
+    },
+    {
+      "name": "🇨🇦-3",
+      "delay_ms": 223,
+      "type": "vmess"
+    },
+    {
+      "name": "kurdconfig-4",
+      "delay_ms": 230,
+      "type": "vmess"
+    },
+    {
+      "name": "@VPNConnectd-4",
+      "delay_ms": 233,
+      "type": "ss"
     }
   ]
 }
