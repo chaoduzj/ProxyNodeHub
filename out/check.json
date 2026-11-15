@@ -1,68 +1,68 @@
 {
-  "generated_at": "2026-11-15T03:41:03Z",
+  "generated_at": "2026-11-15T13:07:38Z",
   "test_url": "http://www.gstatic.com/generate_204",
   "test_url_ok": true,
   "timeout_ms": 5000,
-  "total": 3340,
-  "working": 225,
-  "failed": 3115,
+  "total": 3011,
+  "working": 162,
+  "failed": 2849,
   "by_type": {
-    "vmess": 50,
-    "vless": 50,
-    "trojan": 12,
-    "ss": 106,
-    "hy2": 7
+    "vless": 43,
+    "vmess": 45,
+    "trojan": 4,
+    "hy2": 7,
+    "ss": 63
   },
   "fastest": [
     {
-      "name": "🇺🇸US-138.197.89.234-0273",
-      "delay_ms": 180,
+      "name": "@ConfigV2RayNG-16",
+      "delay_ms": 91,
       "type": "ss"
     },
     {
-      "name": "node-13",
-      "delay_ms": 193,
-      "type": "vmess"
+      "name": "🇺🇸US-198.98.53.130-0074",
+      "delay_ms": 95,
+      "type": "ss"
     },
     {
-      "name": "🇺🇸-25",
-      "delay_ms": 199,
-      "type": "vmess"
+      "name": "@FXxNET⚡️-23",
+      "delay_ms": 115,
+      "type": "ss"
     },
     {
-      "name": "@VPsave-24",
-      "delay_ms": 209,
-      "type": "vmess"
+      "name": "🇺🇸US-138.197.89.234-0195",
+      "delay_ms": 116,
+      "type": "ss"
     },
     {
-      "name": "@V2rayNPVTConfig-9",
-      "delay_ms": 211,
-      "type": "vmess"
+      "name": "Tel-@ProxyMtAlpha🧁-2",
+      "delay_ms": 132,
+      "type": "ss"
     },
     {
-      "name": "node-1699",
-      "delay_ms": 214,
-      "type": "vmess"
+      "name": "🇨🇦CA-15.235.57.6-0268",
+      "delay_ms": 138,
+      "type": "ss"
+    },
+    {
+      "name": "@VPNConnectd-7",
+      "delay_ms": 141,
+      "type": "ss"
     },
     {
       "name": "@V2rayNPVTConfig-8",
-      "delay_ms": 216,
+      "delay_ms": 142,
       "type": "vmess"
     },
     {
-      "name": "🇨🇦-3",
-      "delay_ms": 223,
+      "name": "@V2rayNPVTConfig-6",
+      "delay_ms": 148,
       "type": "vmess"
     },
     {
-      "name": "kurdconfig-4",
-      "delay_ms": 230,
+      "name": "@V2rayNPVTConfig-7",
+      "delay_ms": 155,
       "type": "vmess"
-    },
-    {
-      "name": "@VPNConnectd-4",
-      "delay_ms": 233,
-      "type": "ss"
     }
   ]
 }

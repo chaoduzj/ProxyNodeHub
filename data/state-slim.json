@@ -1,92 +1,85 @@
 {
-  "generated_at": "2026-11-15T03:40:56.3645923+00:00",
+  "generated_at": "2026-11-15T13:07:30.8265473+00:00",
   "repositories": [
     {
-      "full_name": "miladtahanian/Config-Collector",
-      "score": 100,
-      "total_nodes": 468,
+      "full_name": "gslege/CloudflareIP",
+      "score": 88,
+      "total_nodes": 20,
       "links": [
         {
-          "name": "mixed_iran.txt",
-          "url": "https://raw.githubusercontent.com/miladtahanian/Config-Collector/main/mixed_iran.txt",
+          "name": "Vless.txt",
+          "url": "https://raw.githubusercontent.com/gslege/CloudflareIP/main/Vless.txt",
           "type": "Base64",
-          "node_count": 468
+          "node_count": 20
         }
       ]
     },
     {
       "full_name": "MustafaBaqer/VestraNet-Nodes",
       "score": 78,
-      "total_nodes": 9330,
+      "total_nodes": 9310,
       "links": [
         {
           "name": "protocols/vless.txt",
           "url": "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/protocols/vless.txt",
           "type": "Base64",
-          "node_count": 1690
+          "node_count": 1637
         },
         {
           "name": "protocols/vmess.txt",
           "url": "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/protocols/vmess.txt",
           "type": "Base64",
-          "node_count": 5205
+          "node_count": 5064
         },
         {
           "name": "protocols/trojan.txt",
           "url": "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/protocols/trojan.txt",
           "type": "Base64",
-          "node_count": 268
+          "node_count": 328
         },
         {
           "name": "subscriptions/mix-base64.txt",
           "url": "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/subscriptions/mix-base64.txt",
           "type": "Base64",
-          "node_count": 9330
-        }
-      ]
-    },
-    {
-      "full_name": "Reconss/free-clash-nodes",
-      "score": 70,
-      "total_nodes": 1,
-      "links": [
+          "node_count": 9310
+        },
         {
-          "name": "config/mihomo.yaml",
-          "url": "https://raw.githubusercontent.com/Reconss/free-clash-nodes/main/config/mihomo.yaml",
+          "name": "subscriptions/mix-normal.txt",
+          "url": "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/subscriptions/mix-normal.txt",
           "type": "Base64",
-          "node_count": 1
+          "node_count": 9310
         }
       ]
     },
     {
       "full_name": "Pawdroid/Free-servers",
       "score": 31,
-      "total_nodes": 16,
+      "total_nodes": 11,
       "links": [
         {
           "name": "sub",
           "url": "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub",
           "type": "Base64",
-          "node_count": 16
+          "node_count": 11
         }
       ]
     }
   ],
   "subscriptions": [
-    "https://raw.githubusercontent.com/miladtahanian/Config-Collector/main/mixed_iran.txt",
+    "https://raw.githubusercontent.com/gslege/CloudflareIP/main/Vless.txt",
     "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/protocols/vless.txt",
     "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/protocols/vmess.txt",
     "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/protocols/trojan.txt",
     "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/subscriptions/mix-base64.txt",
-    "https://raw.githubusercontent.com/Reconss/free-clash-nodes/main/config/mihomo.yaml",
+    "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/subscriptions/mix-normal.txt",
     "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub"
   ],
   "failed_searches": 0,
   "failed_repositories": 0,
   "failed_downloads": 0,
-  "yaml_skipped": 1,
-  "total_nodes": 16977,
-  "unique_nodes": 3447,
-  "clash_nodes": 3340,
-  "clash_skipped": 107
+  "yaml_skipped": 0,
+  "total_nodes": 25680,
+  "unique_nodes": 3109,
+  "clash_nodes": 3011,
+  "clash_skipped": 98
 }
