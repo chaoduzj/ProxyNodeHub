@@ -1,67 +1,68 @@
 {
-  "generated_at": "2026-11-15T22:15:39Z",
+  "generated_at": "2026-11-16T14:14:16Z",
   "test_url": "http://www.gstatic.com/generate_204",
   "test_url_ok": true,
   "timeout_ms": 5000,
-  "total": 3160,
-  "working": 167,
-  "failed": 2993,
+  "total": 3171,
+  "working": 136,
+  "failed": 3035,
   "by_type": {
-    "vless": 44,
-    "vmess": 45,
-    "trojan": 7,
-    "ss": 64,
-    "hy2": 7
+    "vless": 39,
+    "vmess": 33,
+    "trojan": 3,
+    "ss": 57,
+    "hy2": 3,
+    "ssr": 1
   },
   "fastest": [
     {
-      "name": "@V2rayNPVTConfig-6",
-      "delay_ms": 130,
-      "type": "vmess"
+      "name": "🇺🇸-65",
+      "delay_ms": 93,
+      "type": "ss"
     },
     {
       "name": "@V2rayNPVTConfig-5",
-      "delay_ms": 145,
+      "delay_ms": 135,
       "type": "vmess"
     },
     {
-      "name": "node-1503",
+      "name": "node-1377",
+      "delay_ms": 136,
+      "type": "vmess"
+    },
+    {
+      "name": "🇺🇸US-🚀@VPNine1-11",
+      "delay_ms": 142,
+      "type": "vless"
+    },
+    {
+      "name": "node-1376",
+      "delay_ms": 148,
+      "type": "vmess"
+    },
+    {
+      "name": "🇨🇦-5",
+      "delay_ms": 148,
+      "type": "ss"
+    },
+    {
+      "name": "🇺🇸-32",
       "delay_ms": 156,
       "type": "vmess"
     },
     {
-      "name": "🇨🇦-10",
-      "delay_ms": 159,
-      "type": "vmess"
-    },
-    {
-      "name": "🇺🇸-18",
+      "name": "🇺🇸210686",
       "delay_ms": 159,
       "type": "vless"
     },
     {
-      "name": "node-1582",
-      "delay_ms": 160,
+      "name": "node-1380",
+      "delay_ms": 168,
       "type": "vmess"
     },
     {
-      "name": "node-1533",
-      "delay_ms": 161,
-      "type": "vmess"
-    },
-    {
-      "name": "🇺🇸US-138.197.89.234-0143",
-      "delay_ms": 164,
-      "type": "ss"
-    },
-    {
-      "name": "🇨🇦-8",
-      "delay_ms": 167,
-      "type": "vmess"
-    },
-    {
-      "name": "@V2rayNPVTConfig-4",
-      "delay_ms": 169,
+      "name": "🇺🇸-28",
+      "delay_ms": 168,
       "type": "vmess"
     }
   ]
