@@ -1,47 +1,53 @@
 {
-  "generated_at": "2026-11-16T14:14:08.5168903+00:00",
+  "generated_at": "2026-11-17T01:16:51.218272+00:00",
   "repositories": [
     {
       "full_name": "MustafaBaqer/VestraNet-Nodes",
       "score": 78,
-      "total_nodes": 9417,
+      "total_nodes": 9458,
       "links": [
         {
           "name": "protocols/vless.txt",
           "url": "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/protocols/vless.txt",
           "type": "Base64",
-          "node_count": 1649
+          "node_count": 1683
         },
         {
           "name": "protocols/vmess.txt",
           "url": "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/protocols/vmess.txt",
           "type": "Base64",
-          "node_count": 5398
+          "node_count": 5910
         },
         {
           "name": "protocols/trojan.txt",
           "url": "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/protocols/trojan.txt",
           "type": "Base64",
-          "node_count": 384
+          "node_count": 406
+        },
+        {
+          "name": "subscriptions/mix-base64.txt",
+          "url": "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/subscriptions/mix-base64.txt",
+          "type": "Base64",
+          "node_count": 9458
         },
         {
           "name": "subscriptions/mix-normal.txt",
           "url": "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/subscriptions/mix-normal.txt",
           "type": "Base64",
-          "node_count": 9417
+          "node_count": 9458
         }
       ]
     },
     {
       "full_name": "Pawdroid/Free-servers",
       "score": 31,
-      "total_nodes": 11,
+      "total_nodes": 14,
       "links": [
         {
           "name": "sub",
           "url": "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub",
           "type": "Base64",
-          "node_count": 11
+          "node_count": 14
         }
       ]
     }
@@ -50,15 +56,16 @@
     "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/protocols/vless.txt",
     "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/protocols/vmess.txt",
     "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/protocols/trojan.txt",
+    "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/subscriptions/mix-base64.txt",
     "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/subscriptions/mix-normal.txt",
     "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub"
   ],
   "failed_searches": 0,
   "failed_repositories": 0,
-  "failed_downloads": 1,
+  "failed_downloads": 0,
   "yaml_skipped": 0,
-  "total_nodes": 16859,
-  "unique_nodes": 3281,
-  "clash_nodes": 3171,
-  "clash_skipped": 110
+  "total_nodes": 26929,
+  "unique_nodes": 3279,
+  "clash_nodes": 3202,
+  "clash_skipped": 77
 }

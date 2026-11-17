@@ -1,69 +1,68 @@
 {
-  "generated_at": "2026-11-16T14:14:16Z",
+  "generated_at": "2026-11-17T01:16:58Z",
   "test_url": "http://www.gstatic.com/generate_204",
   "test_url_ok": true,
   "timeout_ms": 5000,
-  "total": 3171,
-  "working": 136,
-  "failed": 3035,
+  "total": 3202,
+  "working": 133,
+  "failed": 3069,
   "by_type": {
-    "vless": 39,
-    "vmess": 33,
-    "trojan": 3,
-    "ss": 57,
-    "hy2": 3,
-    "ssr": 1
+    "vless": 35,
+    "vmess": 47,
+    "trojan": 8,
+    "ss": 38,
+    "hy2": 5
   },
   "fastest": [
     {
-      "name": "🇺🇸-65",
-      "delay_ms": 93,
+      "name": "EPODONIOS-50",
+      "delay_ms": 100,
       "type": "ss"
     },
     {
-      "name": "@V2rayNPVTConfig-5",
-      "delay_ms": 135,
+      "name": "@FXxNET⚡️-7",
+      "delay_ms": 101,
+      "type": "ss"
+    },
+    {
+      "name": "@tootffarangi🍓-18",
+      "delay_ms": 108,
+      "type": "ss"
+    },
+    {
+      "name": "🇺🇸US-198.98.53.130-0097",
+      "delay_ms": 118,
+      "type": "ss"
+    },
+    {
+      "name": "node-1467",
+      "delay_ms": 137,
       "type": "vmess"
     },
     {
-      "name": "node-1377",
-      "delay_ms": 136,
-      "type": "vmess"
-    },
-    {
-      "name": "🇺🇸US-🚀@VPNine1-11",
+      "name": "🇨🇦CA-15.235.121.109-2440",
       "delay_ms": 142,
-      "type": "vless"
-    },
-    {
-      "name": "node-1376",
-      "delay_ms": 148,
-      "type": "vmess"
-    },
-    {
-      "name": "🇨🇦-5",
-      "delay_ms": 148,
       "type": "ss"
     },
     {
-      "name": "🇺🇸-32",
-      "delay_ms": 156,
+      "name": "node-1464",
+      "delay_ms": 145,
       "type": "vmess"
     },
     {
-      "name": "🇺🇸210686",
-      "delay_ms": 159,
-      "type": "vless"
+      "name": "🇺🇸216592",
+      "delay_ms": 162,
+      "type": "ss"
     },
     {
-      "name": "node-1380",
-      "delay_ms": 168,
-      "type": "vmess"
+      "name": "🇬🇧GB-198.244.201.129-0341",
+      "delay_ms": 165,
+      "type": "ss"
     },
     {
-      "name": "🇺🇸-28",
-      "delay_ms": 168,
-      "type": "vmess"
+      "name": "@V2ray_Alpha🫀❤️1",
+      "delay_ms": 171,
+      "type": "ss"
     }
   ]
 }
