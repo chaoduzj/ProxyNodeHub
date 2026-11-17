@@ -1,53 +1,53 @@
 {
-  "generated_at": "2026-11-17T01:16:51.218272+00:00",
+  "generated_at": "2026-11-17T15:07:27.4841653+00:00",
   "repositories": [
     {
       "full_name": "MustafaBaqer/VestraNet-Nodes",
       "score": 78,
-      "total_nodes": 9458,
+      "total_nodes": 9492,
       "links": [
         {
           "name": "protocols/vless.txt",
           "url": "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/protocols/vless.txt",
           "type": "Base64",
-          "node_count": 1683
+          "node_count": 1656
         },
         {
           "name": "protocols/vmess.txt",
           "url": "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/protocols/vmess.txt",
           "type": "Base64",
-          "node_count": 5910
+          "node_count": 5405
         },
         {
           "name": "protocols/trojan.txt",
           "url": "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/protocols/trojan.txt",
           "type": "Base64",
-          "node_count": 406
+          "node_count": 203
         },
         {
           "name": "subscriptions/mix-base64.txt",
           "url": "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/subscriptions/mix-base64.txt",
           "type": "Base64",
-          "node_count": 9458
+          "node_count": 9492
         },
         {
           "name": "subscriptions/mix-normal.txt",
           "url": "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/subscriptions/mix-normal.txt",
           "type": "Base64",
-          "node_count": 9458
+          "node_count": 9492
         }
       ]
     },
     {
       "full_name": "Pawdroid/Free-servers",
       "score": 31,
-      "total_nodes": 14,
+      "total_nodes": 11,
       "links": [
         {
           "name": "sub",
           "url": "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub",
           "type": "Base64",
-          "node_count": 14
+          "node_count": 11
         }
       ]
     }
@@ -64,8 +64,8 @@
   "failed_repositories": 0,
   "failed_downloads": 0,
   "yaml_skipped": 0,
-  "total_nodes": 26929,
-  "unique_nodes": 3279,
-  "clash_nodes": 3202,
-  "clash_skipped": 77
+  "total_nodes": 26259,
+  "unique_nodes": 3105,
+  "clash_nodes": 3037,
+  "clash_skipped": 68
 }

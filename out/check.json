@@ -1,68 +1,68 @@
 {
-  "generated_at": "2026-11-17T01:16:58Z",
+  "generated_at": "2026-11-17T15:07:35Z",
   "test_url": "http://www.gstatic.com/generate_204",
   "test_url_ok": true,
   "timeout_ms": 5000,
-  "total": 3202,
-  "working": 133,
-  "failed": 3069,
+  "total": 3037,
+  "working": 185,
+  "failed": 2852,
   "by_type": {
-    "vless": 35,
-    "vmess": 47,
-    "trojan": 8,
-    "ss": 38,
-    "hy2": 5
+    "vless": 45,
+    "vmess": 44,
+    "trojan": 6,
+    "ss": 84,
+    "hy2": 6
   },
   "fastest": [
     {
-      "name": "EPODONIOS-50",
-      "delay_ms": 100,
+      "name": "@VConfing-8",
+      "delay_ms": 105,
       "type": "ss"
     },
     {
-      "name": "@FXxNET⚡️-7",
-      "delay_ms": 101,
+      "name": "@i10VPN⁴",
+      "delay_ms": 113,
       "type": "ss"
     },
     {
-      "name": "@tootffarangi🍓-18",
-      "delay_ms": 108,
+      "name": "@Lent_Gc🇦🇪",
+      "delay_ms": 121,
       "type": "ss"
     },
     {
-      "name": "🇺🇸US-198.98.53.130-0097",
-      "delay_ms": 118,
+      "name": "🇺🇸217394",
+      "delay_ms": 131,
       "type": "ss"
     },
     {
-      "name": "node-1467",
-      "delay_ms": 137,
+      "name": "@vpnbaz🍂",
+      "delay_ms": 132,
+      "type": "ss"
+    },
+    {
+      "name": "🇺🇸-44",
+      "delay_ms": 143,
+      "type": "ss"
+    },
+    {
+      "name": "🇨🇦-6",
+      "delay_ms": 147,
       "type": "vmess"
     },
     {
-      "name": "🇨🇦CA-15.235.121.109-2440",
-      "delay_ms": 142,
+      "name": "@ConfigV2RayNG-14",
+      "delay_ms": 166,
       "type": "ss"
     },
     {
-      "name": "node-1464",
-      "delay_ms": 145,
+      "name": "🇨🇦-7",
+      "delay_ms": 167,
       "type": "vmess"
     },
     {
-      "name": "🇺🇸216592",
-      "delay_ms": 162,
-      "type": "ss"
-    },
-    {
-      "name": "🇬🇧GB-198.244.201.129-0341",
-      "delay_ms": 165,
-      "type": "ss"
-    },
-    {
-      "name": "@V2ray_Alpha🫀❤️1",
-      "delay_ms": 171,
-      "type": "ss"
+      "name": "🇨🇦-8",
+      "delay_ms": 167,
+      "type": "vmess"
     }
   ]
 }
