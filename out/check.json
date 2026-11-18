@@ -1,68 +1,50 @@
 {
-  "generated_at": "2026-11-17T15:07:35Z",
+  "generated_at": "2026-11-18T00:10:36Z",
   "test_url": "http://www.gstatic.com/generate_204",
   "test_url_ok": true,
   "timeout_ms": 5000,
-  "total": 3037,
-  "working": 185,
-  "failed": 2852,
+  "total": 12,
+  "working": 7,
+  "failed": 5,
   "by_type": {
-    "vless": 45,
-    "vmess": 44,
-    "trojan": 6,
-    "ss": 84,
-    "hy2": 6
+    "ss": 6,
+    "trojan": 1
   },
   "fastest": [
     {
-      "name": "@VConfing-8",
-      "delay_ms": 105,
+      "name": "新西兰+V2CROSS.COM",
+      "delay_ms": 327,
       "type": "ss"
     },
     {
-      "name": "@i10VPN⁴",
-      "delay_ms": 113,
+      "name": "新西兰+V2CROSS.COM-2",
+      "delay_ms": 327,
       "type": "ss"
     },
     {
-      "name": "@Lent_Gc🇦🇪",
-      "delay_ms": 121,
+      "name": "新西兰+V2CROSS.COM-4",
+      "delay_ms": 327,
       "type": "ss"
     },
     {
-      "name": "🇺🇸217394",
-      "delay_ms": 131,
+      "name": "新西兰+V2CROSS.COM-5",
+      "delay_ms": 346,
       "type": "ss"
     },
     {
-      "name": "@vpnbaz🍂",
-      "delay_ms": 132,
+      "name": "新西兰+V2CROSS.COM-3",
+      "delay_ms": 395,
       "type": "ss"
     },
     {
-      "name": "🇺🇸-44",
-      "delay_ms": 143,
+      "name": "美国+华盛顿州西雅图市亚马逊(Amazon)公司数据中心",
+      "delay_ms": 923,
+      "type": "trojan"
+    },
+    {
+      "name": "美国+V2CROSS.COM",
+      "delay_ms": 1268,
       "type": "ss"
-    },
-    {
-      "name": "🇨🇦-6",
-      "delay_ms": 147,
-      "type": "vmess"
-    },
-    {
-      "name": "@ConfigV2RayNG-14",
-      "delay_ms": 166,
-      "type": "ss"
-    },
-    {
-      "name": "🇨🇦-7",
-      "delay_ms": 167,
-      "type": "vmess"
-    },
-    {
-      "name": "🇨🇦-8",
-      "delay_ms": 167,
-      "type": "vmess"
     }
   ]
 }
