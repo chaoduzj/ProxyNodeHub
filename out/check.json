@@ -1,49 +1,67 @@
 {
-  "generated_at": "2026-11-18T00:10:36Z",
+  "generated_at": "2026-11-18T14:45:54Z",
   "test_url": "http://www.gstatic.com/generate_204",
   "test_url_ok": true,
   "timeout_ms": 5000,
-  "total": 12,
-  "working": 7,
-  "failed": 5,
+  "total": 3019,
+  "working": 72,
+  "failed": 2947,
   "by_type": {
-    "ss": 6,
-    "trojan": 1
+    "vless": 18,
+    "vmess": 16,
+    "trojan": 6,
+    "ss": 29,
+    "hy2": 3
   },
   "fastest": [
     {
-      "name": "新西兰+V2CROSS.COM",
-      "delay_ms": 327,
+      "name": "🚀t.me/iProxyChannel",
+      "delay_ms": 141,
       "type": "ss"
     },
     {
-      "name": "新西兰+V2CROSS.COM-2",
-      "delay_ms": 327,
+      "name": "@ConfigV2RayNG-3",
+      "delay_ms": 180,
       "type": "ss"
     },
     {
-      "name": "新西兰+V2CROSS.COM-4",
-      "delay_ms": 327,
+      "name": "node-1280",
+      "delay_ms": 253,
+      "type": "vmess"
+    },
+    {
+      "name": "@tootffarangi🍓-2",
+      "delay_ms": 256,
       "type": "ss"
     },
     {
-      "name": "新西兰+V2CROSS.COM-5",
-      "delay_ms": 346,
+      "name": "node-1252",
+      "delay_ms": 256,
+      "type": "vmess"
+    },
+    {
+      "name": "node-1278",
+      "delay_ms": 257,
+      "type": "vmess"
+    },
+    {
+      "name": "ᴛᴇʟᴇɢʀᴀᴍ-3",
+      "delay_ms": 262,
       "type": "ss"
     },
     {
-      "name": "新西兰+V2CROSS.COM-3",
-      "delay_ms": 395,
+      "name": "@ixV2ray",
+      "delay_ms": 264,
       "type": "ss"
     },
     {
-      "name": "美国+华盛顿州西雅图市亚马逊(Amazon)公司数据中心",
-      "delay_ms": 923,
-      "type": "trojan"
+      "name": "🇩🇪DE-🚀@VPNine1-8",
+      "delay_ms": 264,
+      "type": "ss"
     },
     {
-      "name": "美国+V2CROSS.COM",
-      "delay_ms": 1268,
+      "name": "🇬🇧210989",
+      "delay_ms": 264,
       "type": "ss"
     }
   ]
