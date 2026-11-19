@@ -24,9 +24,9 @@
       "subscriptions/mix-base64.txt",
       "subscriptions/mix-normal.txt"
     ],
-    "TotalNodes": 9187,
-    "LastAnalyzed": "2026-11-18T14:45:44.3961012+00:00",
-    "AnalysisCount": 14,
+    "TotalNodes": 9322,
+    "LastAnalyzed": "2026-11-19T04:55:54.5731962+00:00",
+    "AnalysisCount": 15,
     "IsReliable": true
   },
   "chengaopan/AutoMergePublicNodes": {
@@ -51,9 +51,9 @@
       "dist/clash.yaml",
       "dist/clash-lite.yaml"
     ],
-    "TotalNodes": 4319,
-    "LastAnalyzed": "2026-11-14T03:57:08.7676065+00:00",
-    "AnalysisCount": 4,
+    "TotalNodes": 4322,
+    "LastAnalyzed": "2026-11-19T04:55:54.6582796+00:00",
+    "AnalysisCount": 5,
     "IsReliable": true
   },
   "Pawdroid/Free-servers": {
@@ -62,9 +62,9 @@
     "KnownSubPaths": [
       "sub"
     ],
-    "TotalNodes": 11,
-    "LastAnalyzed": "2026-11-18T14:45:44.2919367+00:00",
-    "AnalysisCount": 13,
+    "TotalNodes": 12,
+    "LastAnalyzed": "2026-11-19T04:55:54.4125496+00:00",
+    "AnalysisCount": 14,
     "IsReliable": true
   },
   "4q4r/assay": {
@@ -82,9 +82,9 @@
     "KnownSubPaths": [
       "nodes.txt"
     ],
-    "TotalNodes": 5,
-    "LastAnalyzed": "2026-11-13T18:54:46.8181799+00:00",
-    "AnalysisCount": 2,
+    "TotalNodes": 7,
+    "LastAnalyzed": "2026-11-19T04:55:55.2171546+00:00",
+    "AnalysisCount": 3,
     "IsReliable": true
   },
   "Andrejewild/bypass-whitelist-vpn": {
@@ -167,8 +167,8 @@
       "Vless.txt"
     ],
     "TotalNodes": 20,
-    "LastAnalyzed": "2026-11-15T22:15:29.291898+00:00",
-    "AnalysisCount": 4,
+    "LastAnalyzed": "2026-11-19T04:55:55.8439189+00:00",
+    "AnalysisCount": 5,
     "IsReliable": true
   },
   "nodesradar/nodesradar-es": {
@@ -321,9 +321,9 @@
     "KnownSubPaths": [
       "mixed_iran.txt"
     ],
-    "TotalNodes": 468,
-    "LastAnalyzed": "2026-11-15T03:40:54.4907075+00:00",
-    "AnalysisCount": 1,
+    "TotalNodes": 485,
+    "LastAnalyzed": "2026-11-19T04:55:54.9391393+00:00",
+    "AnalysisCount": 2,
     "IsReliable": true
   },
   "Reconss/free-clash-nodes": {
@@ -354,5 +354,54 @@
     "LastAnalyzed": "2026-11-16T14:14:00.5984618+00:00",
     "AnalysisCount": 1,
     "IsReliable": false
+  },
+  "Billow001/free-nodes-sub": {
+    "FullName": "Billow001/free-nodes-sub",
+    "Category": 0,
+    "KnownSubPaths": [
+      "mobile_sub.txt",
+      "FreeNodes001.yaml"
+    ],
+    "TotalNodes": 79,
+    "LastAnalyzed": "2026-11-19T04:55:54.4412803+00:00",
+    "AnalysisCount": 1,
+    "IsReliable": true
+  },
+  "jichangtuijian-vpn/JiChangTuiJian": {
+    "FullName": "jichangtuijian-vpn/JiChangTuiJian",
+    "Category": 0,
+    "KnownSubPaths": [],
+    "TotalNodes": 0,
+    "LastAnalyzed": "2026-11-19T04:55:55.2970297+00:00",
+    "AnalysisCount": 1,
+    "IsReliable": false
+  },
+  "Vanic24/VPN": {
+    "FullName": "Vanic24/VPN",
+    "Category": 0,
+    "KnownSubPaths": [
+      "MIX",
+      "Sub3",
+      "8EB",
+      "9PB"
+    ],
+    "TotalNodes": 90,
+    "LastAnalyzed": "2026-11-19T04:55:55.6479427+00:00",
+    "AnalysisCount": 1,
+    "IsReliable": true
+  },
+  "rtwo2/FastNodes": {
+    "FullName": "rtwo2/FastNodes",
+    "Category": 0,
+    "KnownSubPaths": [
+      "sub/top.txt",
+      "sub/top_ipv6.txt",
+      "sub/verified.txt",
+      "sub/ipv6_only.txt"
+    ],
+    "TotalNodes": 5001,
+    "LastAnalyzed": "2026-11-19T04:55:55.2122506+00:00",
+    "AnalysisCount": 1,
+    "IsReliable": true
   }
 }
