@@ -1,67 +1,68 @@
 {
-  "generated_at": "2026-11-18T14:45:54Z",
+  "generated_at": "2026-11-19T11:01:47Z",
   "test_url": "http://www.gstatic.com/generate_204",
   "test_url_ok": true,
   "timeout_ms": 5000,
-  "total": 3019,
-  "working": 72,
-  "failed": 2947,
+  "total": 10665,
+  "working": 600,
+  "failed": 10065,
   "by_type": {
-    "vless": 18,
-    "vmess": 16,
-    "trojan": 6,
-    "ss": 29,
-    "hy2": 3
+    "ss": 386,
+    "vless": 42,
+    "vmess": 74,
+    "trojan": 91,
+    "hy2": 5,
+    "ssr": 2
   },
   "fastest": [
     {
-      "name": "🚀t.me/iProxyChannel",
-      "delay_ms": 141,
+      "name": "🇺🇸US_88|318KB/s|B007-260618 [994ae0fe391c]",
+      "delay_ms": 74,
       "type": "ss"
     },
     {
-      "name": "@ConfigV2RayNG-3",
-      "delay_ms": 180,
-      "type": "ss"
-    },
-    {
-      "name": "node-1280",
-      "delay_ms": 253,
+      "name": "node-2572",
+      "delay_ms": 86,
       "type": "vmess"
     },
     {
-      "name": "@tootffarangi🍓-2",
-      "delay_ms": 256,
+      "name": "🇺🇸US_9|291KB/s [9c42f2a7a641]",
+      "delay_ms": 102,
       "type": "ss"
     },
     {
-      "name": "node-1252",
-      "delay_ms": 256,
-      "type": "vmess"
-    },
-    {
-      "name": "node-1278",
-      "delay_ms": 257,
-      "type": "vmess"
-    },
-    {
-      "name": "ᴛᴇʟᴇɢʀᴀᴍ-3",
-      "delay_ms": 262,
+      "name": "🇬🇧GB_7|873KB/s [bbb60f6b9dcc]",
+      "delay_ms": 347,
       "type": "ss"
     },
     {
-      "name": "@ixV2ray",
-      "delay_ms": 264,
+      "name": "🇨🇦CA_10|1.1MB/s|A004-260618 [478b2f668f0b]",
+      "delay_ms": 487,
       "type": "ss"
     },
     {
-      "name": "🇩🇪DE-🚀@VPNine1-8",
-      "delay_ms": 264,
+      "name": "🇺🇸US_107|412KB/s|M003-260806 [8eb0358c4311]",
+      "delay_ms": 554,
       "type": "ss"
     },
     {
-      "name": "🇬🇧210989",
-      "delay_ms": 264,
+      "name": "🇺🇸US_56|1.3MB/s|M003-260806 [a6e2aaebaf73]",
+      "delay_ms": 583,
+      "type": "ss"
+    },
+    {
+      "name": "🇺🇸US_52|1.1MB/s|M003-260806 [b55e7b101301]",
+      "delay_ms": 584,
+      "type": "ss"
+    },
+    {
+      "name": "🇺🇸US_55|1.4MB/s|M003-260806 [897fbcec13fe]",
+      "delay_ms": 586,
+      "type": "ss"
+    },
+    {
+      "name": "❓Other_5|338KB/s|A004-260618 [8a77727a8beb]",
+      "delay_ms": 590,
       "type": "ss"
     }
   ]

@@ -1,4 +1,10 @@
-https://raw.githubusercontent.com/miladtahanian/Config-Collector/main/mixed_iran.txt
+https://raw.githubusercontent.com/twj0/subseek/master/data/sub_github.txt
+https://raw.githubusercontent.com/twj0/subseek/master/data/sub_platform.txt
+https://raw.githubusercontent.com/twj0/subseek/master/data/sub_github_base64.txt
+https://raw.githubusercontent.com/twj0/subseek/master/data/sub_platform_base64.txt
+https://raw.githubusercontent.com/twj0/subseek/master/data/github/2025/12/12/sub_github.txt
+https://raw.githubusercontent.com/LeilaoMi/AutoMergePublicNodes-Optimized/main/output/verified.yaml
+https://raw.githubusercontent.com/LeilaoMi/AutoMergePublicNodes-Optimized/main/output/global.yaml
 https://raw.githubusercontent.com/jingjiangze/node-radar/main/dist/clash.yaml
 https://raw.githubusercontent.com/jingjiangze/node-radar/main/dist/clash-lite.yaml
 https://raw.githubusercontent.com/Vanic24/VPN/main/MIX
@@ -12,10 +18,6 @@ https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/protocols/vm
 https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/protocols/trojan.txt
 https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/subscriptions/mix-base64.txt
 https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/subscriptions/mix-normal.txt
-https://raw.githubusercontent.com/Billow001/free-nodes-sub/main/mobile_sub.txt
-https://raw.githubusercontent.com/Billow001/free-nodes-sub/main/FreeNodes001.yaml
-https://raw.githubusercontent.com/rtwo2/FastNodes/main/sub/top.txt
-https://raw.githubusercontent.com/rtwo2/FastNodes/main/sub/top_ipv6.txt
-https://raw.githubusercontent.com/rtwo2/FastNodes/main/sub/verified.txt
-https://raw.githubusercontent.com/rtwo2/FastNodes/main/sub/ipv6_only.txt
+https://raw.githubusercontent.com/haiwanai/free-nodes/main/sub.txt
+https://raw.githubusercontent.com/haiwanai/free-nodes/main/sub.yaml
 https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub
