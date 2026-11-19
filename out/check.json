@@ -1,68 +1,67 @@
 {
-  "generated_at": "2026-11-19T11:01:47Z",
+  "generated_at": "2026-11-19T19:50:01Z",
   "test_url": "http://www.gstatic.com/generate_204",
   "test_url_ok": true,
   "timeout_ms": 5000,
-  "total": 10665,
-  "working": 600,
-  "failed": 10065,
+  "total": 10205,
+  "working": 520,
+  "failed": 9685,
   "by_type": {
-    "ss": 386,
-    "vless": 42,
-    "vmess": 74,
-    "trojan": 91,
-    "hy2": 5,
-    "ssr": 2
+    "trojan": 54,
+    "ss": 334,
+    "vless": 53,
+    "vmess": 73,
+    "hy2": 6
   },
   "fastest": [
     {
+      "name": "🇺🇸US_21|730KB/s [5e9ad2fef6a7]",
+      "delay_ms": 663,
+      "type": "ss"
+    },
+    {
+      "name": "🇺🇸US_12|622KB/s [9c42f2a7a641]",
+      "delay_ms": 670,
+      "type": "ss"
+    },
+    {
+      "name": "🇺🇸US_407|1.3MB/s|M003-260806 [b882b522b508]",
+      "delay_ms": 694,
+      "type": "ss"
+    },
+    {
+      "name": "🇺🇸US_429|1.3MB/s|M003-260806 [bad2fa4202d3]",
+      "delay_ms": 696,
+      "type": "ss"
+    },
+    {
+      "name": "🇺🇸US_17|371KB/s|A004-260618 [928536ce25d0]",
+      "delay_ms": 742,
+      "type": "ss"
+    },
+    {
       "name": "🇺🇸US_88|318KB/s|B007-260618 [994ae0fe391c]",
-      "delay_ms": 74,
+      "delay_ms": 751,
       "type": "ss"
     },
     {
-      "name": "node-2572",
-      "delay_ms": 86,
-      "type": "vmess"
-    },
-    {
-      "name": "🇺🇸US_9|291KB/s [9c42f2a7a641]",
-      "delay_ms": 102,
+      "name": "🇺🇸US_21|480KB/s|B007-260618 [808a639a9c8e]",
+      "delay_ms": 777,
       "type": "ss"
     },
     {
-      "name": "🇬🇧GB_7|873KB/s [bbb60f6b9dcc]",
-      "delay_ms": 347,
+      "name": "@V2raySaman",
+      "delay_ms": 802,
       "type": "ss"
     },
     {
-      "name": "🇨🇦CA_10|1.1MB/s|A004-260618 [478b2f668f0b]",
-      "delay_ms": 487,
+      "name": "🇺🇸US_33|354KB/s|A004-260618 [8a77727a8beb]",
+      "delay_ms": 807,
       "type": "ss"
     },
     {
-      "name": "🇺🇸US_107|412KB/s|M003-260806 [8eb0358c4311]",
-      "delay_ms": 554,
-      "type": "ss"
-    },
-    {
-      "name": "🇺🇸US_56|1.3MB/s|M003-260806 [a6e2aaebaf73]",
-      "delay_ms": 583,
-      "type": "ss"
-    },
-    {
-      "name": "🇺🇸US_52|1.1MB/s|M003-260806 [b55e7b101301]",
-      "delay_ms": 584,
-      "type": "ss"
-    },
-    {
-      "name": "🇺🇸US_55|1.4MB/s|M003-260806 [897fbcec13fe]",
-      "delay_ms": 586,
-      "type": "ss"
-    },
-    {
-      "name": "❓Other_5|338KB/s|A004-260618 [8a77727a8beb]",
-      "delay_ms": 590,
+      "name": "🇺🇸US_79|327KB/s|M003-260806 [b3ff691620f4]",
+      "delay_ms": 819,
       "type": "ss"
     }
   ]

@@ -24,9 +24,9 @@
       "subscriptions/mix-base64.txt",
       "subscriptions/mix-normal.txt"
     ],
-    "TotalNodes": 9479,
-    "LastAnalyzed": "2026-11-19T11:01:36.1122663+00:00",
-    "AnalysisCount": 16,
+    "TotalNodes": 9360,
+    "LastAnalyzed": "2026-11-19T19:49:49.7924645+00:00",
+    "AnalysisCount": 17,
     "IsReliable": true
   },
   "chengaopan/AutoMergePublicNodes": {
@@ -51,9 +51,9 @@
       "dist/clash.yaml",
       "dist/clash-lite.yaml"
     ],
-    "TotalNodes": 4093,
-    "LastAnalyzed": "2026-11-19T11:01:36.1114584+00:00",
-    "AnalysisCount": 6,
+    "TotalNodes": 4137,
+    "LastAnalyzed": "2026-11-19T19:49:49.8969347+00:00",
+    "AnalysisCount": 7,
     "IsReliable": true
   },
   "Pawdroid/Free-servers": {
@@ -62,9 +62,9 @@
     "KnownSubPaths": [
       "sub"
     ],
-    "TotalNodes": 8,
-    "LastAnalyzed": "2026-11-19T11:01:36.0605251+00:00",
-    "AnalysisCount": 15,
+    "TotalNodes": 9,
+    "LastAnalyzed": "2026-11-19T19:49:49.6147936+00:00",
+    "AnalysisCount": 16,
     "IsReliable": true
   },
   "4q4r/assay": {
@@ -72,8 +72,8 @@
     "Category": 0,
     "KnownSubPaths": [],
     "TotalNodes": 0,
-    "LastAnalyzed": "2026-11-19T11:01:37.0438162+00:00",
-    "AnalysisCount": 3,
+    "LastAnalyzed": "2026-11-19T19:49:51.3529058+00:00",
+    "AnalysisCount": 4,
     "IsReliable": false
   },
   "zhuhaiuk/free-nodes": {
@@ -82,9 +82,9 @@
     "KnownSubPaths": [
       "nodes.txt"
     ],
-    "TotalNodes": 8,
-    "LastAnalyzed": "2026-11-19T11:01:37.0462387+00:00",
-    "AnalysisCount": 4,
+    "TotalNodes": 9,
+    "LastAnalyzed": "2026-11-19T19:49:50.6561181+00:00",
+    "AnalysisCount": 5,
     "IsReliable": true
   },
   "Andrejewild/bypass-whitelist-vpn": {
@@ -93,9 +93,9 @@
     "KnownSubPaths": [
       "sub.txt"
     ],
-    "TotalNodes": 16,
-    "LastAnalyzed": "2026-11-14T21:47:18.6491116+00:00",
-    "AnalysisCount": 5,
+    "TotalNodes": 19,
+    "LastAnalyzed": "2026-11-19T19:49:49.896808+00:00",
+    "AnalysisCount": 6,
     "IsReliable": true
   },
   "VoroninaYanina/free-nodes": {
@@ -130,8 +130,8 @@
     "Category": 0,
     "KnownSubPaths": [],
     "TotalNodes": 0,
-    "LastAnalyzed": "2026-11-13T18:54:46.5910277+00:00",
-    "AnalysisCount": 2,
+    "LastAnalyzed": "2026-11-19T19:49:51.0535982+00:00",
+    "AnalysisCount": 3,
     "IsReliable": false
   },
   "v2raydog-node/free-nodes": {
@@ -241,8 +241,8 @@
     "Category": 1,
     "KnownSubPaths": [],
     "TotalNodes": 300,
-    "LastAnalyzed": "2026-11-13T18:54:45.560766+00:00",
-    "AnalysisCount": 1,
+    "LastAnalyzed": "2026-11-19T11:01:37.7110667+00:00",
+    "AnalysisCount": 2,
     "IsReliable": false
   },
   "xyfqzy/free-nodes": {
@@ -386,8 +386,8 @@
       "9PB"
     ],
     "TotalNodes": 90,
-    "LastAnalyzed": "2026-11-19T11:01:36.6763022+00:00",
-    "AnalysisCount": 2,
+    "LastAnalyzed": "2026-11-19T19:49:50.2233146+00:00",
+    "AnalysisCount": 3,
     "IsReliable": true
   },
   "rtwo2/FastNodes": {
@@ -428,6 +428,17 @@
     ],
     "TotalNodes": 15350,
     "LastAnalyzed": "2026-11-19T11:01:37.3451752+00:00",
+    "AnalysisCount": 1,
+    "IsReliable": true
+  },
+  "bushilian/bushilian": {
+    "FullName": "bushilian/bushilian",
+    "Category": 0,
+    "KnownSubPaths": [
+      "sub"
+    ],
+    "TotalNodes": 8,
+    "LastAnalyzed": "2026-11-19T19:49:50.378998+00:00",
     "AnalysisCount": 1,
     "IsReliable": true
   }
