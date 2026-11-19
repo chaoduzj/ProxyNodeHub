@@ -1,67 +1,68 @@
 {
-  "generated_at": "2026-11-18T14:45:54Z",
+  "generated_at": "2026-11-19T14:52:50Z",
   "test_url": "http://www.gstatic.com/generate_204",
   "test_url_ok": true,
   "timeout_ms": 5000,
-  "total": 3019,
-  "working": 72,
-  "failed": 2947,
+  "total": 2972,
+  "working": 172,
+  "failed": 2800,
   "by_type": {
-    "vless": 18,
-    "vmess": 16,
-    "trojan": 6,
-    "ss": 29,
-    "hy2": 3
+    "vless": 51,
+    "vmess": 38,
+    "trojan": 5,
+    "ss": 76,
+    "ssr": 1,
+    "hy2": 1
   },
   "fastest": [
     {
-      "name": "🚀t.me/iProxyChannel",
-      "delay_ms": 141,
+      "name": "🇺🇸 SSR-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-107.151.182.253:8080",
+      "delay_ms": 79,
+      "type": "ssr"
+    },
+    {
+      "name": "🇭🇰[www.v2nodes.com] ss-HK-1621...",
+      "delay_ms": 112,
       "type": "ss"
     },
     {
-      "name": "@ConfigV2RayNG-3",
-      "delay_ms": 180,
-      "type": "ss"
-    },
-    {
-      "name": "node-1280",
-      "delay_ms": 253,
+      "name": "node-1590",
+      "delay_ms": 128,
       "type": "vmess"
     },
     {
-      "name": "@tootffarangi🍓-2",
-      "delay_ms": 256,
-      "type": "ss"
-    },
-    {
-      "name": "node-1252",
-      "delay_ms": 256,
+      "name": "node-1305",
+      "delay_ms": 147,
       "type": "vmess"
     },
     {
-      "name": "node-1278",
-      "delay_ms": 257,
+      "name": "@ShadowProxy66-2",
+      "delay_ms": 172,
+      "type": "ss"
+    },
+    {
+      "name": "node-1312",
+      "delay_ms": 181,
       "type": "vmess"
     },
     {
-      "name": "ᴛᴇʟᴇɢʀᴀᴍ-3",
-      "delay_ms": 262,
+      "name": "@V2rayNPVTConfig-8",
+      "delay_ms": 183,
+      "type": "vmess"
+    },
+    {
+      "name": "@i10VPN⁶",
+      "delay_ms": 188,
       "type": "ss"
     },
     {
-      "name": "@ixV2ray",
-      "delay_ms": 264,
-      "type": "ss"
+      "name": "🇨🇦-4",
+      "delay_ms": 192,
+      "type": "vmess"
     },
     {
-      "name": "🇩🇪DE-🚀@VPNine1-8",
-      "delay_ms": 264,
-      "type": "ss"
-    },
-    {
-      "name": "🇬🇧210989",
-      "delay_ms": 264,
+      "name": "🇺🇸US-198.98.53.130-0256",
+      "delay_ms": 198,
       "type": "ss"
     }
   ]
