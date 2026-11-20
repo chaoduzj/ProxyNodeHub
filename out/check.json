@@ -1,68 +1,67 @@
 {
-  "generated_at": "2026-11-19T14:52:50Z",
+  "generated_at": "2026-11-20T00:00:20Z",
   "test_url": "http://www.gstatic.com/generate_204",
   "test_url_ok": true,
   "timeout_ms": 5000,
-  "total": 2972,
-  "working": 172,
-  "failed": 2800,
+  "total": 3060,
+  "working": 180,
+  "failed": 2880,
   "by_type": {
-    "vless": 51,
-    "vmess": 38,
+    "vless": 41,
+    "vmess": 50,
     "trojan": 5,
-    "ss": 76,
-    "ssr": 1,
-    "hy2": 1
+    "ss": 77,
+    "hy2": 7
   },
   "fastest": [
     {
-      "name": "🇺🇸 SSR-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-107.151.182.253:8080",
-      "delay_ms": 79,
-      "type": "ssr"
-    },
-    {
-      "name": "🇭🇰[www.v2nodes.com] ss-HK-1621...",
-      "delay_ms": 112,
+      "name": "@ConfigV2RayNG-11",
+      "delay_ms": 113,
       "type": "ss"
     },
     {
-      "name": "node-1590",
-      "delay_ms": 128,
+      "name": "🇨🇦-2",
+      "delay_ms": 113,
       "type": "vmess"
     },
     {
-      "name": "node-1305",
-      "delay_ms": 147,
-      "type": "vmess"
-    },
-    {
-      "name": "@ShadowProxy66-2",
-      "delay_ms": 172,
+      "name": "@VPsave-27",
+      "delay_ms": 116,
       "type": "ss"
     },
     {
-      "name": "node-1312",
-      "delay_ms": 181,
-      "type": "vmess"
-    },
-    {
-      "name": "@V2rayNPVTConfig-8",
-      "delay_ms": 183,
-      "type": "vmess"
-    },
-    {
-      "name": "@i10VPN⁶",
-      "delay_ms": 188,
+      "name": "@Nexus_Panell",
+      "delay_ms": 117,
       "type": "ss"
+    },
+    {
+      "name": "@Lent_Gc🇦🇪",
+      "delay_ms": 118,
+      "type": "ss"
+    },
+    {
+      "name": "@vmesskhodam-3",
+      "delay_ms": 120,
+      "type": "ss"
+    },
+    {
+      "name": "🇨🇦-3",
+      "delay_ms": 120,
+      "type": "vmess"
     },
     {
       "name": "🇨🇦-4",
-      "delay_ms": 192,
+      "delay_ms": 121,
       "type": "vmess"
     },
     {
-      "name": "🇺🇸US-198.98.53.130-0256",
-      "delay_ms": 198,
+      "name": "@VPsave-23",
+      "delay_ms": 122,
+      "type": "vmess"
+    },
+    {
+      "name": "@VConfing-2",
+      "delay_ms": 126,
       "type": "ss"
     }
   ]
