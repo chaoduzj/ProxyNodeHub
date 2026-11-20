@@ -24,9 +24,9 @@
       "subscriptions/mix-base64.txt",
       "subscriptions/mix-normal.txt"
     ],
-    "TotalNodes": 9401,
-    "LastAnalyzed": "2026-11-20T06:07:35.9860321+00:00",
-    "AnalysisCount": 18,
+    "TotalNodes": 9284,
+    "LastAnalyzed": "2026-11-20T19:23:46.6181754+00:00",
+    "AnalysisCount": 19,
     "IsReliable": true
   },
   "chengaopan/AutoMergePublicNodes": {
@@ -51,9 +51,9 @@
       "dist/clash.yaml",
       "dist/clash-lite.yaml"
     ],
-    "TotalNodes": 4138,
-    "LastAnalyzed": "2026-11-20T06:07:35.6036675+00:00",
-    "AnalysisCount": 7,
+    "TotalNodes": 4481,
+    "LastAnalyzed": "2026-11-20T19:23:46.8495075+00:00",
+    "AnalysisCount": 8,
     "IsReliable": true
   },
   "Pawdroid/Free-servers": {
@@ -62,9 +62,9 @@
     "KnownSubPaths": [
       "sub"
     ],
-    "TotalNodes": 9,
-    "LastAnalyzed": "2026-11-20T06:07:35.5716268+00:00",
-    "AnalysisCount": 16,
+    "TotalNodes": 12,
+    "LastAnalyzed": "2026-11-20T19:23:46.6181727+00:00",
+    "AnalysisCount": 17,
     "IsReliable": true
   },
   "4q4r/assay": {
@@ -82,9 +82,9 @@
     "KnownSubPaths": [
       "nodes.txt"
     ],
-    "TotalNodes": 7,
-    "LastAnalyzed": "2026-11-19T04:55:55.2171546+00:00",
-    "AnalysisCount": 3,
+    "TotalNodes": 2,
+    "LastAnalyzed": "2026-11-20T19:23:48.5582597+00:00",
+    "AnalysisCount": 4,
     "IsReliable": true
   },
   "Andrejewild/bypass-whitelist-vpn": {
@@ -93,9 +93,9 @@
     "KnownSubPaths": [
       "sub.txt"
     ],
-    "TotalNodes": 17,
-    "LastAnalyzed": "2026-11-20T06:07:36.6653655+00:00",
-    "AnalysisCount": 6,
+    "TotalNodes": 20,
+    "LastAnalyzed": "2026-11-20T19:23:46.8916105+00:00",
+    "AnalysisCount": 7,
     "IsReliable": true
   },
   "VoroninaYanina/free-nodes": {
@@ -167,8 +167,8 @@
       "Vless.txt"
     ],
     "TotalNodes": 20,
-    "LastAnalyzed": "2026-11-19T04:55:55.8439189+00:00",
-    "AnalysisCount": 5,
+    "LastAnalyzed": "2026-11-20T19:23:48.2154347+00:00",
+    "AnalysisCount": 6,
     "IsReliable": true
   },
   "nodesradar/nodesradar-es": {
@@ -275,8 +275,8 @@
     "Category": 0,
     "KnownSubPaths": [],
     "TotalNodes": 0,
-    "LastAnalyzed": "2026-11-14T03:57:07.5515498+00:00",
-    "AnalysisCount": 1,
+    "LastAnalyzed": "2026-11-20T06:07:37.1770619+00:00",
+    "AnalysisCount": 2,
     "IsReliable": false
   },
   "TG-NAV/nodeshare": {
@@ -321,9 +321,9 @@
     "KnownSubPaths": [
       "mixed_iran.txt"
     ],
-    "TotalNodes": 485,
-    "LastAnalyzed": "2026-11-19T04:55:54.9391393+00:00",
-    "AnalysisCount": 2,
+    "TotalNodes": 454,
+    "LastAnalyzed": "2026-11-20T19:23:48.8225066+00:00",
+    "AnalysisCount": 3,
     "IsReliable": true
   },
   "Reconss/free-clash-nodes": {
@@ -386,8 +386,8 @@
       "9PB"
     ],
     "TotalNodes": 90,
-    "LastAnalyzed": "2026-11-20T06:07:36.1046368+00:00",
-    "AnalysisCount": 2,
+    "LastAnalyzed": "2026-11-20T19:23:47.5865438+00:00",
+    "AnalysisCount": 3,
     "IsReliable": true
   },
   "rtwo2/FastNodes": {
@@ -422,6 +422,17 @@
     ],
     "TotalNodes": 64,
     "LastAnalyzed": "2026-11-20T06:07:37.2813458+00:00",
+    "AnalysisCount": 1,
+    "IsReliable": true
+  },
+  "bushilian/bushilian": {
+    "FullName": "bushilian/bushilian",
+    "Category": 0,
+    "KnownSubPaths": [
+      "sub"
+    ],
+    "TotalNodes": 3,
+    "LastAnalyzed": "2026-11-20T19:23:47.1926017+00:00",
     "AnalysisCount": 1,
     "IsReliable": true
   }
