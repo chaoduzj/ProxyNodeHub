@@ -1,68 +1,68 @@
 {
-  "generated_at": "2026-11-20T14:44:12Z",
+  "generated_at": "2026-11-20T23:33:30Z",
   "test_url": "http://www.gstatic.com/generate_204",
   "test_url_ok": true,
   "timeout_ms": 5000,
-  "total": 11277,
-  "working": 1575,
-  "failed": 9702,
+  "total": 10915,
+  "working": 1618,
+  "failed": 9297,
   "by_type": {
-    "vmess": 63,
-    "ss": 1168,
-    "trojan": 250,
-    "vless": 88,
-    "hy2": 5,
-    "ssr": 1
+    "ss": 1055,
+    "vmess": 85,
+    "trojan": 402,
+    "vless": 72,
+    "ssr": 1,
+    "hy2": 3
   },
   "fastest": [
     {
-      "name": "@V2rayNPVTConfig-90",
-      "delay_ms": 486,
-      "type": "vmess"
+      "name": "🇺🇸 Join+Telegram:@Farah_VPN 🇺🇸-6",
+      "delay_ms": 201,
+      "type": "ss"
+    },
+    {
+      "name": "@vasl_bashim-13",
+      "delay_ms": 202,
+      "type": "ss"
+    },
+    {
+      "name": "@V2rayNPVTConfig-22",
+      "delay_ms": 203,
+      "type": "ss"
+    },
+    {
+      "name": "@ghand_sheken-14",
+      "delay_ms": 210,
+      "type": "ss"
+    },
+    {
+      "name": "@Tarkshodeh 🇳🇬",
+      "delay_ms": 238,
+      "type": "ss"
+    },
+    {
+      "name": "@filembad-13",
+      "delay_ms": 241,
+      "type": "ss"
+    },
+    {
+      "name": "node-901",
+      "delay_ms": 243,
+      "type": "ss"
+    },
+    {
+      "name": "تو کانال نتورلد نباشید قطع میشن@networld_vpn-6",
+      "delay_ms": 247,
+      "type": "ss"
+    },
+    {
+      "name": "@V2rayNGVPN > کانفیگ رایگان-8",
+      "delay_ms": 253,
+      "type": "ss"
     },
     {
       "name": "@ghand_sheken-15",
-      "delay_ms": 553,
-      "type": "ss"
-    },
-    {
-      "name": "@i10VPN⁵-3",
-      "delay_ms": 553,
-      "type": "ss"
-    },
-    {
-      "name": "@i10VPN⁷-3",
-      "delay_ms": 553,
-      "type": "ss"
-    },
-    {
-      "name": "@Shh_Proxy-New²-2",
-      "delay_ms": 575,
-      "type": "ss"
-    },
-    {
-      "name": "@Net2ray 💎-2",
-      "delay_ms": 576,
-      "type": "ss"
-    },
-    {
-      "name": "🇺🇸US_88|318KB/s|B007-260618 [994ae0fe391c]",
-      "delay_ms": 593,
-      "type": "ss"
-    },
-    {
-      "name": "🇨🇦CA_8|70KB/s|S004-260618 [f09619afe9d3]",
-      "delay_ms": 594,
-      "type": "ss"
-    },
-    {
-      "name": "@FarazV2ray-9",
-      "delay_ms": 599,
-      "type": "ss"
-    },
-    {
-      "name": "@V2raySaman-4",
-      "delay_ms": 607,
+      "delay_ms": 253,
       "type": "ss"
     }
   ]
