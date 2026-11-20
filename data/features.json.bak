@@ -24,9 +24,9 @@
       "subscriptions/mix-base64.txt",
       "subscriptions/mix-normal.txt"
     ],
-    "TotalNodes": 9452,
-    "LastAnalyzed": "2026-11-20T00:00:10.0675711+00:00",
-    "AnalysisCount": 17,
+    "TotalNodes": 9401,
+    "LastAnalyzed": "2026-11-20T06:07:35.9860321+00:00",
+    "AnalysisCount": 18,
     "IsReliable": true
   },
   "chengaopan/AutoMergePublicNodes": {
@@ -51,9 +51,9 @@
       "dist/clash.yaml",
       "dist/clash-lite.yaml"
     ],
-    "TotalNodes": 4102,
-    "LastAnalyzed": "2026-11-19T14:52:36.5566443+00:00",
-    "AnalysisCount": 6,
+    "TotalNodes": 4138,
+    "LastAnalyzed": "2026-11-20T06:07:35.6036675+00:00",
+    "AnalysisCount": 7,
     "IsReliable": true
   },
   "Pawdroid/Free-servers": {
@@ -63,8 +63,8 @@
       "sub"
     ],
     "TotalNodes": 9,
-    "LastAnalyzed": "2026-11-19T14:52:36.1725194+00:00",
-    "AnalysisCount": 15,
+    "LastAnalyzed": "2026-11-20T06:07:35.5716268+00:00",
+    "AnalysisCount": 16,
     "IsReliable": true
   },
   "4q4r/assay": {
@@ -93,9 +93,9 @@
     "KnownSubPaths": [
       "sub.txt"
     ],
-    "TotalNodes": 16,
-    "LastAnalyzed": "2026-11-14T21:47:18.6491116+00:00",
-    "AnalysisCount": 5,
+    "TotalNodes": 17,
+    "LastAnalyzed": "2026-11-20T06:07:36.6653655+00:00",
+    "AnalysisCount": 6,
     "IsReliable": true
   },
   "VoroninaYanina/free-nodes": {
@@ -130,8 +130,8 @@
     "Category": 0,
     "KnownSubPaths": [],
     "TotalNodes": 0,
-    "LastAnalyzed": "2026-11-13T18:54:46.5910277+00:00",
-    "AnalysisCount": 2,
+    "LastAnalyzed": "2026-11-20T06:07:35.6636839+00:00",
+    "AnalysisCount": 3,
     "IsReliable": false
   },
   "v2raydog-node/free-nodes": {
@@ -284,8 +284,8 @@
     "Category": 0,
     "KnownSubPaths": [],
     "TotalNodes": 0,
-    "LastAnalyzed": "2026-11-14T03:57:07.5777366+00:00",
-    "AnalysisCount": 1,
+    "LastAnalyzed": "2026-11-20T06:07:37.0249149+00:00",
+    "AnalysisCount": 2,
     "IsReliable": false
   },
   "nodesradar/nodesradar-tr": {
@@ -311,8 +311,8 @@
     "Category": 0,
     "KnownSubPaths": [],
     "TotalNodes": 0,
-    "LastAnalyzed": "2026-11-18T14:45:46.3684705+00:00",
-    "AnalysisCount": 6,
+    "LastAnalyzed": "2026-11-20T00:00:11.7843896+00:00",
+    "AnalysisCount": 7,
     "IsReliable": false
   },
   "miladtahanian/Config-Collector": {
@@ -386,8 +386,8 @@
       "9PB"
     ],
     "TotalNodes": 90,
-    "LastAnalyzed": "2026-11-19T04:55:55.6479427+00:00",
-    "AnalysisCount": 1,
+    "LastAnalyzed": "2026-11-20T06:07:36.1046368+00:00",
+    "AnalysisCount": 2,
     "IsReliable": true
   },
   "rtwo2/FastNodes": {
@@ -401,6 +401,27 @@
     ],
     "TotalNodes": 5001,
     "LastAnalyzed": "2026-11-19T04:55:55.2122506+00:00",
+    "AnalysisCount": 1,
+    "IsReliable": true
+  },
+  "liuarui/komari-plugin-kns": {
+    "FullName": "liuarui/komari-plugin-kns",
+    "Category": 0,
+    "KnownSubPaths": [],
+    "TotalNodes": 0,
+    "LastAnalyzed": "2026-11-20T06:07:36.9202145+00:00",
+    "AnalysisCount": 1,
+    "IsReliable": false
+  },
+  "snakem982/proxypool": {
+    "FullName": "snakem982/proxypool",
+    "Category": 0,
+    "KnownSubPaths": [
+      "source/v2ray-2.txt",
+      "source/clash-meta-2.yaml"
+    ],
+    "TotalNodes": 64,
+    "LastAnalyzed": "2026-11-20T06:07:37.2813458+00:00",
     "AnalysisCount": 1,
     "IsReliable": true
   }

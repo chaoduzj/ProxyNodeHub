@@ -1,67 +1,67 @@
 {
-  "generated_at": "2026-11-20T00:00:20Z",
+  "generated_at": "2026-11-20T06:07:47Z",
   "test_url": "http://www.gstatic.com/generate_204",
   "test_url_ok": true,
   "timeout_ms": 5000,
-  "total": 3060,
-  "working": 180,
-  "failed": 2880,
+  "total": 3164,
+  "working": 156,
+  "failed": 3008,
   "by_type": {
-    "vless": 41,
-    "vmess": 50,
-    "trojan": 5,
-    "ss": 77,
-    "hy2": 7
+    "vless": 43,
+    "vmess": 38,
+    "trojan": 1,
+    "ss": 72,
+    "hy2": 2
   },
   "fastest": [
     {
-      "name": "@ConfigV2RayNG-11",
-      "delay_ms": 113,
+      "name": "🇨🇦CA-15.235.57.6-0268",
+      "delay_ms": 150,
       "type": "ss"
     },
     {
-      "name": "🇨🇦-2",
-      "delay_ms": 113,
+      "name": "@Nexus_Panell-3",
+      "delay_ms": 152,
+      "type": "ss"
+    },
+    {
+      "name": "Tel-@ProxyMtAlpha🐺",
+      "delay_ms": 153,
+      "type": "ss"
+    },
+    {
+      "name": "🇨🇦CA-15.235.121.109-0271",
+      "delay_ms": 153,
+      "type": "ss"
+    },
+    {
+      "name": "@hex_proxy-6",
+      "delay_ms": 154,
+      "type": "ss"
+    },
+    {
+      "name": "@meliproxyy-25",
+      "delay_ms": 158,
+      "type": "ss"
+    },
+    {
+      "name": "node-1526",
+      "delay_ms": 159,
       "type": "vmess"
     },
     {
-      "name": "@VPsave-27",
-      "delay_ms": 116,
-      "type": "ss"
-    },
-    {
-      "name": "@Nexus_Panell",
-      "delay_ms": 117,
+      "name": "🇺🇸113489",
+      "delay_ms": 165,
       "type": "ss"
     },
     {
       "name": "@Lent_Gc🇦🇪",
-      "delay_ms": 118,
+      "delay_ms": 174,
       "type": "ss"
     },
     {
-      "name": "@vmesskhodam-3",
-      "delay_ms": 120,
-      "type": "ss"
-    },
-    {
-      "name": "🇨🇦-3",
-      "delay_ms": 120,
-      "type": "vmess"
-    },
-    {
-      "name": "🇨🇦-4",
-      "delay_ms": 121,
-      "type": "vmess"
-    },
-    {
-      "name": "@VPsave-23",
-      "delay_ms": 122,
-      "type": "vmess"
-    },
-    {
-      "name": "@VConfing-2",
-      "delay_ms": 126,
+      "name": "@filembad-42",
+      "delay_ms": 180,
       "type": "ss"
     }
   ]

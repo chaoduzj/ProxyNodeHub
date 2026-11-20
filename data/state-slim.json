@@ -1,57 +1,162 @@
 {
-  "generated_at": "2026-11-20T00:00:13.4073684+00:00",
+  "generated_at": "2026-11-20T06:07:39.6671012+00:00",
   "repositories": [
+    {
+      "full_name": "Vanic24/VPN",
+      "score": 94,
+      "total_nodes": 90,
+      "links": [
+        {
+          "name": "MIX",
+          "url": "https://raw.githubusercontent.com/Vanic24/VPN/main/MIX",
+          "type": "Base64",
+          "node_count": 47
+        },
+        {
+          "name": "Sub3",
+          "url": "https://raw.githubusercontent.com/Vanic24/VPN/main/Sub3",
+          "type": "Base64",
+          "node_count": 19
+        },
+        {
+          "name": "8EB",
+          "url": "https://raw.githubusercontent.com/Vanic24/VPN/main/8EB",
+          "type": "Base64",
+          "node_count": 75
+        },
+        {
+          "name": "9PB",
+          "url": "https://raw.githubusercontent.com/Vanic24/VPN/main/9PB",
+          "type": "Base64",
+          "node_count": 90
+        }
+      ]
+    },
+    {
+      "full_name": "jingjiangze/node-radar",
+      "score": 90,
+      "total_nodes": 4138,
+      "links": [
+        {
+          "name": "dist/clash.yaml",
+          "url": "https://raw.githubusercontent.com/jingjiangze/node-radar/main/dist/clash.yaml",
+          "type": "Clash",
+          "node_count": 4138
+        },
+        {
+          "name": "dist/clash-lite.yaml",
+          "url": "https://raw.githubusercontent.com/jingjiangze/node-radar/main/dist/clash-lite.yaml",
+          "type": "Clash",
+          "node_count": 395
+        }
+      ]
+    },
     {
       "full_name": "MustafaBaqer/VestraNet-Nodes",
       "score": 78,
-      "total_nodes": 9452,
+      "total_nodes": 9401,
       "links": [
         {
           "name": "protocols/vless.txt",
           "url": "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/protocols/vless.txt",
           "type": "Base64",
-          "node_count": 1734
+          "node_count": 1801
         },
         {
           "name": "protocols/vmess.txt",
           "url": "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/protocols/vmess.txt",
           "type": "Base64",
-          "node_count": 5218
+          "node_count": 5369
         },
         {
           "name": "protocols/trojan.txt",
           "url": "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/protocols/trojan.txt",
           "type": "Base64",
-          "node_count": 193
+          "node_count": 251
         },
         {
           "name": "subscriptions/mix-base64.txt",
           "url": "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/subscriptions/mix-base64.txt",
           "type": "Base64",
-          "node_count": 9452
+          "node_count": 9401
         },
         {
           "name": "subscriptions/mix-normal.txt",
           "url": "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/subscriptions/mix-normal.txt",
           "type": "Base64",
-          "node_count": 9452
+          "node_count": 9401
+        }
+      ]
+    },
+    {
+      "full_name": "Andrejewild/bypass-whitelist-vpn",
+      "score": 78,
+      "total_nodes": 17,
+      "links": [
+        {
+          "name": "sub.txt",
+          "url": "https://raw.githubusercontent.com/Andrejewild/bypass-whitelist-vpn/main/sub.txt",
+          "type": "Base64",
+          "node_count": 17
+        }
+      ]
+    },
+    {
+      "full_name": "snakem982/proxypool",
+      "score": 76,
+      "total_nodes": 64,
+      "links": [
+        {
+          "name": "source/v2ray-2.txt",
+          "url": "https://raw.githubusercontent.com/snakem982/proxypool/main/source/v2ray-2.txt",
+          "type": "Base64",
+          "node_count": 61
+        },
+        {
+          "name": "source/clash-meta-2.yaml",
+          "url": "https://raw.githubusercontent.com/snakem982/proxypool/main/source/clash-meta-2.yaml",
+          "type": "Clash",
+          "node_count": 64
+        }
+      ]
+    },
+    {
+      "full_name": "Pawdroid/Free-servers",
+      "score": 28,
+      "total_nodes": 9,
+      "links": [
+        {
+          "name": "sub",
+          "url": "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub",
+          "type": "Base64",
+          "node_count": 9
         }
       ]
     }
   ],
   "subscriptions": [
+    "https://raw.githubusercontent.com/Vanic24/VPN/main/MIX",
+    "https://raw.githubusercontent.com/Vanic24/VPN/main/Sub3",
+    "https://raw.githubusercontent.com/Vanic24/VPN/main/8EB",
+    "https://raw.githubusercontent.com/Vanic24/VPN/main/9PB",
+    "https://raw.githubusercontent.com/jingjiangze/node-radar/main/dist/clash.yaml",
+    "https://raw.githubusercontent.com/jingjiangze/node-radar/main/dist/clash-lite.yaml",
     "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/protocols/vless.txt",
     "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/protocols/vmess.txt",
     "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/protocols/trojan.txt",
     "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/subscriptions/mix-base64.txt",
-    "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/subscriptions/mix-normal.txt"
+    "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/subscriptions/mix-normal.txt",
+    "https://raw.githubusercontent.com/Andrejewild/bypass-whitelist-vpn/main/sub.txt",
+    "https://raw.githubusercontent.com/snakem982/proxypool/main/source/v2ray-2.txt",
+    "https://raw.githubusercontent.com/snakem982/proxypool/main/source/clash-meta-2.yaml",
+    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub"
   ],
   "failed_searches": 0,
   "failed_repositories": 0,
   "failed_downloads": 0,
-  "yaml_skipped": 0,
-  "total_nodes": 26049,
-  "unique_nodes": 3148,
-  "clash_nodes": 3060,
-  "clash_skipped": 88
+  "yaml_skipped": 7,
+  "total_nodes": 26310,
+  "unique_nodes": 3255,
+  "clash_nodes": 3164,
+  "clash_skipped": 91
 }
