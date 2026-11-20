@@ -1,84 +1,41 @@
 {
-  "generated_at": "2026-11-19T19:49:53.2566697+00:00",
+  "generated_at": "2026-11-20T05:10:34.4100214+00:00",
   "repositories": [
     {
-      "full_name": "twj0/subseek",
-      "score": 100,
-      "total_nodes": 15350,
+      "full_name": "xyfqzy/free-nodes",
+      "score": 91,
+      "total_nodes": 21,
       "links": [
         {
-          "name": "data/sub_github.txt",
-          "url": "https://raw.githubusercontent.com/twj0/subseek/master/data/sub_github.txt",
+          "name": "docs/subscriptions/base64.txt",
+          "url": "https://raw.githubusercontent.com/xyfqzy/free-nodes/main/docs/subscriptions/base64.txt",
           "type": "Base64",
-          "node_count": 5075
+          "node_count": 21
         },
         {
-          "name": "data/sub_github_base64.txt",
-          "url": "https://raw.githubusercontent.com/twj0/subseek/master/data/sub_github_base64.txt",
-          "type": "Base64",
-          "node_count": 5075
-        },
-        {
-          "name": "data/sub_platform_base64.txt",
-          "url": "https://raw.githubusercontent.com/twj0/subseek/master/data/sub_platform_base64.txt",
-          "type": "Base64",
-          "node_count": 272
-        },
-        {
-          "name": "data/github/2025/12/12/sub_github.txt",
-          "url": "https://raw.githubusercontent.com/twj0/subseek/master/data/github/2025/12/12/sub_github.txt",
-          "type": "Base64",
-          "node_count": 15350
-        }
-      ]
-    },
-    {
-      "full_name": "Vanic24/VPN",
-      "score": 94,
-      "total_nodes": 90,
-      "links": [
-        {
-          "name": "MIX",
-          "url": "https://raw.githubusercontent.com/Vanic24/VPN/main/MIX",
-          "type": "Base64",
-          "node_count": 47
-        },
-        {
-          "name": "Sub3",
-          "url": "https://raw.githubusercontent.com/Vanic24/VPN/main/Sub3",
-          "type": "Base64",
-          "node_count": 19
-        },
-        {
-          "name": "8EB",
-          "url": "https://raw.githubusercontent.com/Vanic24/VPN/main/8EB",
-          "type": "Base64",
-          "node_count": 75
-        },
-        {
-          "name": "9PB",
-          "url": "https://raw.githubusercontent.com/Vanic24/VPN/main/9PB",
-          "type": "Base64",
-          "node_count": 90
+          "name": "docs/subscriptions/clash.yaml",
+          "url": "https://raw.githubusercontent.com/xyfqzy/free-nodes/main/docs/subscriptions/clash.yaml",
+          "type": "Clash",
+          "node_count": 21
         }
       ]
     },
     {
       "full_name": "jingjiangze/node-radar",
       "score": 90,
-      "total_nodes": 4137,
+      "total_nodes": 4210,
       "links": [
         {
           "name": "dist/clash.yaml",
           "url": "https://raw.githubusercontent.com/jingjiangze/node-radar/main/dist/clash.yaml",
           "type": "Clash",
-          "node_count": 4137
+          "node_count": 4210
         },
         {
           "name": "dist/clash-lite.yaml",
           "url": "https://raw.githubusercontent.com/jingjiangze/node-radar/main/dist/clash-lite.yaml",
           "type": "Clash",
-          "node_count": 384
+          "node_count": 400
         }
       ]
     },
@@ -98,51 +55,75 @@
     {
       "full_name": "MustafaBaqer/VestraNet-Nodes",
       "score": 78,
-      "total_nodes": 9360,
+      "total_nodes": 9502,
       "links": [
+        {
+          "name": "protocols/vless.txt",
+          "url": "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/protocols/vless.txt",
+          "type": "Base64",
+          "node_count": 1836
+        },
         {
           "name": "protocols/vmess.txt",
           "url": "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/protocols/vmess.txt",
           "type": "Base64",
-          "node_count": 5456
+          "node_count": 5266
         },
         {
           "name": "protocols/trojan.txt",
           "url": "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/protocols/trojan.txt",
           "type": "Base64",
-          "node_count": 314
+          "node_count": 212
         },
         {
           "name": "subscriptions/mix-base64.txt",
           "url": "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/subscriptions/mix-base64.txt",
           "type": "Base64",
-          "node_count": 9360
-        }
-      ]
-    },
-    {
-      "full_name": "bushilian/bushilian",
-      "score": 75,
-      "total_nodes": 8,
-      "links": [
-        {
-          "name": "sub",
-          "url": "https://raw.githubusercontent.com/bushilian/bushilian/main/sub",
-          "type": "Base64",
-          "node_count": 8
+          "node_count": 9502
         }
       ]
     },
     {
       "full_name": "Andrejewild/bypass-whitelist-vpn",
-      "score": 73,
-      "total_nodes": 19,
+      "score": 78,
+      "total_nodes": 17,
       "links": [
         {
           "name": "sub.txt",
           "url": "https://raw.githubusercontent.com/Andrejewild/bypass-whitelist-vpn/main/sub.txt",
           "type": "Base64",
-          "node_count": 19
+          "node_count": 17
+        }
+      ]
+    },
+    {
+      "full_name": "rtwo2/FastNodes",
+      "score": 51,
+      "total_nodes": 4941,
+      "links": [
+        {
+          "name": "sub/top.txt",
+          "url": "https://raw.githubusercontent.com/rtwo2/FastNodes/main/sub/top.txt",
+          "type": "Base64",
+          "node_count": 1000
+        },
+        {
+          "name": "sub/top_ipv6.txt",
+          "url": "https://raw.githubusercontent.com/rtwo2/FastNodes/main/sub/top_ipv6.txt",
+          "type": "Base64",
+          "node_count": 997
+        },
+        {
+          "name": "sub/verified.txt",
+          "url": "https://raw.githubusercontent.com/rtwo2/FastNodes/main/sub/verified.txt",
+          "type": "Base64",
+          "node_count": 1790
+        },
+        {
+          "name": "sub/ipv6_only.txt",
+          "url": "https://raw.githubusercontent.com/rtwo2/FastNodes/main/sub/ipv6_only.txt",
+          "type": "Base64",
+          "node_count": 4941
         }
       ]
     },
@@ -161,30 +142,28 @@
     }
   ],
   "subscriptions": [
-    "https://raw.githubusercontent.com/twj0/subseek/master/data/sub_github.txt",
-    "https://raw.githubusercontent.com/twj0/subseek/master/data/sub_github_base64.txt",
-    "https://raw.githubusercontent.com/twj0/subseek/master/data/sub_platform_base64.txt",
-    "https://raw.githubusercontent.com/twj0/subseek/master/data/github/2025/12/12/sub_github.txt",
-    "https://raw.githubusercontent.com/Vanic24/VPN/main/MIX",
-    "https://raw.githubusercontent.com/Vanic24/VPN/main/Sub3",
-    "https://raw.githubusercontent.com/Vanic24/VPN/main/8EB",
-    "https://raw.githubusercontent.com/Vanic24/VPN/main/9PB",
+    "https://raw.githubusercontent.com/xyfqzy/free-nodes/main/docs/subscriptions/base64.txt",
+    "https://raw.githubusercontent.com/xyfqzy/free-nodes/main/docs/subscriptions/clash.yaml",
     "https://raw.githubusercontent.com/jingjiangze/node-radar/main/dist/clash.yaml",
     "https://raw.githubusercontent.com/jingjiangze/node-radar/main/dist/clash-lite.yaml",
     "https://raw.githubusercontent.com/zhuhaiuk/free-nodes/main/nodes.txt",
+    "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/protocols/vless.txt",
     "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/protocols/vmess.txt",
     "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/protocols/trojan.txt",
     "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/subscriptions/mix-base64.txt",
-    "https://raw.githubusercontent.com/bushilian/bushilian/main/sub",
     "https://raw.githubusercontent.com/Andrejewild/bypass-whitelist-vpn/main/sub.txt",
+    "https://raw.githubusercontent.com/rtwo2/FastNodes/main/sub/top.txt",
+    "https://raw.githubusercontent.com/rtwo2/FastNodes/main/sub/top_ipv6.txt",
+    "https://raw.githubusercontent.com/rtwo2/FastNodes/main/sub/verified.txt",
+    "https://raw.githubusercontent.com/rtwo2/FastNodes/main/sub/ipv6_only.txt",
     "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub"
   ],
   "failed_searches": 0,
   "failed_repositories": 0,
   "failed_downloads": 0,
-  "yaml_skipped": 6,
-  "total_nodes": 40947,
-  "unique_nodes": 17635,
-  "clash_nodes": 10205,
-  "clash_skipped": 7430
+  "yaml_skipped": 3,
+  "total_nodes": 25600,
+  "unique_nodes": 5388,
+  "clash_nodes": 5002,
+  "clash_skipped": 386
 }

@@ -24,9 +24,9 @@
       "subscriptions/mix-base64.txt",
       "subscriptions/mix-normal.txt"
     ],
-    "TotalNodes": 9360,
-    "LastAnalyzed": "2026-11-19T19:49:49.7924645+00:00",
-    "AnalysisCount": 17,
+    "TotalNodes": 9502,
+    "LastAnalyzed": "2026-11-20T05:10:31.6317538+00:00",
+    "AnalysisCount": 18,
     "IsReliable": true
   },
   "chengaopan/AutoMergePublicNodes": {
@@ -51,9 +51,9 @@
       "dist/clash.yaml",
       "dist/clash-lite.yaml"
     ],
-    "TotalNodes": 4137,
-    "LastAnalyzed": "2026-11-19T19:49:49.8969347+00:00",
-    "AnalysisCount": 7,
+    "TotalNodes": 4210,
+    "LastAnalyzed": "2026-11-20T05:10:31.5573861+00:00",
+    "AnalysisCount": 8,
     "IsReliable": true
   },
   "Pawdroid/Free-servers": {
@@ -63,8 +63,8 @@
       "sub"
     ],
     "TotalNodes": 9,
-    "LastAnalyzed": "2026-11-19T19:49:49.6147936+00:00",
-    "AnalysisCount": 16,
+    "LastAnalyzed": "2026-11-20T05:10:31.3501549+00:00",
+    "AnalysisCount": 17,
     "IsReliable": true
   },
   "4q4r/assay": {
@@ -83,8 +83,8 @@
       "nodes.txt"
     ],
     "TotalNodes": 9,
-    "LastAnalyzed": "2026-11-19T19:49:50.6561181+00:00",
-    "AnalysisCount": 5,
+    "LastAnalyzed": "2026-11-20T05:10:32.8680762+00:00",
+    "AnalysisCount": 6,
     "IsReliable": true
   },
   "Andrejewild/bypass-whitelist-vpn": {
@@ -93,9 +93,9 @@
     "KnownSubPaths": [
       "sub.txt"
     ],
-    "TotalNodes": 19,
-    "LastAnalyzed": "2026-11-19T19:49:49.896808+00:00",
-    "AnalysisCount": 6,
+    "TotalNodes": 17,
+    "LastAnalyzed": "2026-11-20T05:10:32.6576818+00:00",
+    "AnalysisCount": 7,
     "IsReliable": true
   },
   "VoroninaYanina/free-nodes": {
@@ -252,9 +252,9 @@
       "docs/subscriptions/base64.txt",
       "docs/subscriptions/clash.yaml"
     ],
-    "TotalNodes": 5,
-    "LastAnalyzed": "2026-11-13T18:54:47.3302953+00:00",
-    "AnalysisCount": 1,
+    "TotalNodes": 21,
+    "LastAnalyzed": "2026-11-20T05:10:33.0028896+00:00",
+    "AnalysisCount": 2,
     "IsReliable": true
   },
   "tglaoshiji/nodeshare": {
@@ -275,8 +275,8 @@
     "Category": 0,
     "KnownSubPaths": [],
     "TotalNodes": 0,
-    "LastAnalyzed": "2026-11-14T03:57:07.5515498+00:00",
-    "AnalysisCount": 1,
+    "LastAnalyzed": "2026-11-20T05:10:31.7193629+00:00",
+    "AnalysisCount": 2,
     "IsReliable": false
   },
   "TG-NAV/nodeshare": {
@@ -284,8 +284,8 @@
     "Category": 0,
     "KnownSubPaths": [],
     "TotalNodes": 0,
-    "LastAnalyzed": "2026-11-14T03:57:07.5777366+00:00",
-    "AnalysisCount": 1,
+    "LastAnalyzed": "2026-11-20T05:10:31.5089765+00:00",
+    "AnalysisCount": 2,
     "IsReliable": false
   },
   "nodesradar/nodesradar-tr": {
@@ -351,8 +351,8 @@
     "Category": 0,
     "KnownSubPaths": [],
     "TotalNodes": 0,
-    "LastAnalyzed": "2026-11-16T14:14:00.5984618+00:00",
-    "AnalysisCount": 1,
+    "LastAnalyzed": "2026-11-20T05:10:32.7509529+00:00",
+    "AnalysisCount": 2,
     "IsReliable": false
   },
   "Billow001/free-nodes-sub": {
@@ -427,8 +427,8 @@
       "data/github/2025/12/12/sub_github.txt"
     ],
     "TotalNodes": 15350,
-    "LastAnalyzed": "2026-11-19T11:01:37.3451752+00:00",
-    "AnalysisCount": 1,
+    "LastAnalyzed": "2026-11-19T19:49:51.0937695+00:00",
+    "AnalysisCount": 2,
     "IsReliable": true
   },
   "bushilian/bushilian": {
