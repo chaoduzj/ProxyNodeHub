@@ -9,9 +9,9 @@
       "nodes/cfmem.yaml",
       "nodes/merged.txt"
     ],
-    "TotalNodes": 4760,
-    "LastAnalyzed": "2026-11-13T12:43:18.9699723+00:00",
-    "AnalysisCount": 2,
+    "TotalNodes": 1589,
+    "LastAnalyzed": "2026-11-20T14:44:01.2921074+00:00",
+    "AnalysisCount": 3,
     "IsReliable": true
   },
   "MustafaBaqer/VestraNet-Nodes": {
@@ -24,9 +24,9 @@
       "subscriptions/mix-base64.txt",
       "subscriptions/mix-normal.txt"
     ],
-    "TotalNodes": 9502,
-    "LastAnalyzed": "2026-11-20T05:10:31.6317538+00:00",
-    "AnalysisCount": 18,
+    "TotalNodes": 9494,
+    "LastAnalyzed": "2026-11-20T14:44:01.059166+00:00",
+    "AnalysisCount": 19,
     "IsReliable": true
   },
   "chengaopan/AutoMergePublicNodes": {
@@ -51,9 +51,9 @@
       "dist/clash.yaml",
       "dist/clash-lite.yaml"
     ],
-    "TotalNodes": 4210,
-    "LastAnalyzed": "2026-11-20T05:10:31.5573861+00:00",
-    "AnalysisCount": 8,
+    "TotalNodes": 4133,
+    "LastAnalyzed": "2026-11-20T14:44:01.7291375+00:00",
+    "AnalysisCount": 9,
     "IsReliable": true
   },
   "Pawdroid/Free-servers": {
@@ -62,9 +62,9 @@
     "KnownSubPaths": [
       "sub"
     ],
-    "TotalNodes": 9,
-    "LastAnalyzed": "2026-11-20T05:10:31.3501549+00:00",
-    "AnalysisCount": 17,
+    "TotalNodes": 8,
+    "LastAnalyzed": "2026-11-20T14:44:00.9006005+00:00",
+    "AnalysisCount": 18,
     "IsReliable": true
   },
   "4q4r/assay": {
@@ -94,8 +94,8 @@
       "sub.txt"
     ],
     "TotalNodes": 17,
-    "LastAnalyzed": "2026-11-20T05:10:32.6576818+00:00",
-    "AnalysisCount": 7,
+    "LastAnalyzed": "2026-11-20T14:44:01.2240351+00:00",
+    "AnalysisCount": 8,
     "IsReliable": true
   },
   "VoroninaYanina/free-nodes": {
@@ -176,8 +176,8 @@
     "Category": 0,
     "KnownSubPaths": [],
     "TotalNodes": 0,
-    "LastAnalyzed": "2026-11-18T14:45:44.2955381+00:00",
-    "AnalysisCount": 12,
+    "LastAnalyzed": "2026-11-20T14:44:02.0411979+00:00",
+    "AnalysisCount": 13,
     "IsReliable": false
   },
   "nodesradar/nodesradar-my": {
@@ -185,8 +185,8 @@
     "Category": 0,
     "KnownSubPaths": [],
     "TotalNodes": 0,
-    "LastAnalyzed": "2026-11-18T14:45:44.3071104+00:00",
-    "AnalysisCount": 12,
+    "LastAnalyzed": "2026-11-20T14:44:02.1347322+00:00",
+    "AnalysisCount": 13,
     "IsReliable": false
   },
   "nodesradar/nodesradar-id": {
@@ -194,8 +194,8 @@
     "Category": 0,
     "KnownSubPaths": [],
     "TotalNodes": 0,
-    "LastAnalyzed": "2026-11-18T14:45:44.7935556+00:00",
-    "AnalysisCount": 12,
+    "LastAnalyzed": "2026-11-20T14:44:02.4890665+00:00",
+    "AnalysisCount": 13,
     "IsReliable": false
   },
   "nodesradar/nodesradar-vi": {
@@ -399,9 +399,9 @@
       "sub/verified.txt",
       "sub/ipv6_only.txt"
     ],
-    "TotalNodes": 5001,
-    "LastAnalyzed": "2026-11-19T04:55:55.2122506+00:00",
-    "AnalysisCount": 1,
+    "TotalNodes": 4941,
+    "LastAnalyzed": "2026-11-20T05:10:32.9679193+00:00",
+    "AnalysisCount": 2,
     "IsReliable": true
   },
   "haiwanai/free-nodes": {
@@ -439,6 +439,17 @@
     ],
     "TotalNodes": 8,
     "LastAnalyzed": "2026-11-19T19:49:50.378998+00:00",
+    "AnalysisCount": 1,
+    "IsReliable": true
+  },
+  "rostamimohammadamin8-dot/v2ray-new-version": {
+    "FullName": "rostamimohammadamin8-dot/v2ray-new-version",
+    "Category": 0,
+    "KnownSubPaths": [
+      "sub.txt"
+    ],
+    "TotalNodes": 8957,
+    "LastAnalyzed": "2026-11-20T14:44:01.1606603+00:00",
     "AnalysisCount": 1,
     "IsReliable": true
   }

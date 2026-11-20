@@ -1,67 +1,68 @@
 {
-  "generated_at": "2026-11-19T19:50:01Z",
+  "generated_at": "2026-11-20T14:44:12Z",
   "test_url": "http://www.gstatic.com/generate_204",
   "test_url_ok": true,
   "timeout_ms": 5000,
-  "total": 10205,
-  "working": 520,
-  "failed": 9685,
+  "total": 11277,
+  "working": 1575,
+  "failed": 9702,
   "by_type": {
-    "trojan": 54,
-    "ss": 334,
-    "vless": 53,
-    "vmess": 73,
-    "hy2": 6
+    "vmess": 63,
+    "ss": 1168,
+    "trojan": 250,
+    "vless": 88,
+    "hy2": 5,
+    "ssr": 1
   },
   "fastest": [
     {
-      "name": "🇺🇸US_21|730KB/s [5e9ad2fef6a7]",
-      "delay_ms": 663,
+      "name": "@V2rayNPVTConfig-90",
+      "delay_ms": 486,
+      "type": "vmess"
+    },
+    {
+      "name": "@ghand_sheken-15",
+      "delay_ms": 553,
       "type": "ss"
     },
     {
-      "name": "🇺🇸US_12|622KB/s [9c42f2a7a641]",
-      "delay_ms": 670,
+      "name": "@i10VPN⁵-3",
+      "delay_ms": 553,
       "type": "ss"
     },
     {
-      "name": "🇺🇸US_407|1.3MB/s|M003-260806 [b882b522b508]",
-      "delay_ms": 694,
+      "name": "@i10VPN⁷-3",
+      "delay_ms": 553,
       "type": "ss"
     },
     {
-      "name": "🇺🇸US_429|1.3MB/s|M003-260806 [bad2fa4202d3]",
-      "delay_ms": 696,
+      "name": "@Shh_Proxy-New²-2",
+      "delay_ms": 575,
       "type": "ss"
     },
     {
-      "name": "🇺🇸US_17|371KB/s|A004-260618 [928536ce25d0]",
-      "delay_ms": 742,
+      "name": "@Net2ray 💎-2",
+      "delay_ms": 576,
       "type": "ss"
     },
     {
       "name": "🇺🇸US_88|318KB/s|B007-260618 [994ae0fe391c]",
-      "delay_ms": 751,
+      "delay_ms": 593,
       "type": "ss"
     },
     {
-      "name": "🇺🇸US_21|480KB/s|B007-260618 [808a639a9c8e]",
-      "delay_ms": 777,
+      "name": "🇨🇦CA_8|70KB/s|S004-260618 [f09619afe9d3]",
+      "delay_ms": 594,
       "type": "ss"
     },
     {
-      "name": "@V2raySaman",
-      "delay_ms": 802,
+      "name": "@FarazV2ray-9",
+      "delay_ms": 599,
       "type": "ss"
     },
     {
-      "name": "🇺🇸US_33|354KB/s|A004-260618 [8a77727a8beb]",
-      "delay_ms": 807,
-      "type": "ss"
-    },
-    {
-      "name": "🇺🇸US_79|327KB/s|M003-260806 [b3ff691620f4]",
-      "delay_ms": 819,
+      "name": "@V2raySaman-4",
+      "delay_ms": 607,
       "type": "ss"
     }
   ]
