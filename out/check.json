@@ -1,68 +1,68 @@
 {
-  "generated_at": "2026-11-21T04:41:27Z",
+  "generated_at": "2026-11-21T13:52:19Z",
   "test_url": "http://www.gstatic.com/generate_204",
   "test_url_ok": true,
   "timeout_ms": 5000,
-  "total": 3200,
-  "working": 48,
-  "failed": 3152,
+  "total": 3297,
+  "working": 187,
+  "failed": 3110,
   "by_type": {
-    "vless": 14,
-    "vmess": 21,
-    "trojan": 1,
-    "ss": 11,
-    "ssr": 1
+    "vless": 42,
+    "vmess": 51,
+    "trojan": 4,
+    "ss": 81,
+    "hy2": 9
   },
   "fastest": [
     {
-      "name": "node-1340",
-      "delay_ms": 71,
+      "name": "node-1612",
+      "delay_ms": 184,
       "type": "vmess"
     },
     {
-      "name": "node-1369",
-      "delay_ms": 73,
+      "name": "@V2rayNPVTConfig-12",
+      "delay_ms": 201,
       "type": "vmess"
     },
     {
-      "name": "node-1310",
-      "delay_ms": 79,
-      "type": "vless"
-    },
-    {
-      "name": "🧿🇨🇦CA",
-      "delay_ms": 85,
+      "name": "node-1607",
+      "delay_ms": 211,
       "type": "vmess"
     },
     {
-      "name": "node-1359",
-      "delay_ms": 91,
+      "name": "13096@proxy_online_net",
+      "delay_ms": 213,
       "type": "vmess"
     },
     {
-      "name": "🇺🇸 SSR-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-107.151.182.253:8080",
-      "delay_ms": 102,
-      "type": "ssr"
-    },
-    {
-      "name": "node-1345",
-      "delay_ms": 107,
+      "name": "node-1583",
+      "delay_ms": 214,
       "type": "vmess"
     },
     {
-      "name": "node-3265",
-      "delay_ms": 154,
+      "name": "🇨🇦-4",
+      "delay_ms": 224,
       "type": "vmess"
     },
     {
-      "name": "node-1399",
-      "delay_ms": 173,
+      "name": "@V2rayng_Fast-4",
+      "delay_ms": 235,
+      "type": "ss"
+    },
+    {
+      "name": "@V2rayNPVTConfig-13",
+      "delay_ms": 240,
       "type": "vmess"
     },
     {
-      "name": "🇳🇱 荷兰 | NLD-2",
-      "delay_ms": 234,
-      "type": "vless"
+      "name": "🇨🇦-7",
+      "delay_ms": 241,
+      "type": "vmess"
+    },
+    {
+      "name": "@V2rayNPVTConfig-11",
+      "delay_ms": 243,
+      "type": "vmess"
     }
   ]
 }

@@ -1,8 +1,7 @@
+https://raw.githubusercontent.com/jingjiangze/node-radar/main/dist/clash.yaml
+https://raw.githubusercontent.com/jingjiangze/node-radar/main/dist/clash-lite.yaml
 https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/protocols/vless.txt
 https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/protocols/vmess.txt
 https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/protocols/trojan.txt
 https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/subscriptions/mix-base64.txt
 https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/subscriptions/mix-normal.txt
-https://raw.githubusercontent.com/snakem982/proxypool/main/source/v2ray-2.txt
-https://raw.githubusercontent.com/snakem982/proxypool/main/source/clash-meta-2.yaml
-https://raw.githubusercontent.com/Andrejewild/bypass-whitelist-vpn/main/sub.txt

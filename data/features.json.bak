@@ -24,9 +24,9 @@
       "subscriptions/mix-base64.txt",
       "subscriptions/mix-normal.txt"
     ],
-    "TotalNodes": 9601,
-    "LastAnalyzed": "2026-11-21T04:41:17.8960282+00:00",
-    "AnalysisCount": 20,
+    "TotalNodes": 9389,
+    "LastAnalyzed": "2026-11-21T13:52:08.3604701+00:00",
+    "AnalysisCount": 21,
     "IsReliable": true
   },
   "chengaopan/AutoMergePublicNodes": {
@@ -51,9 +51,9 @@
       "dist/clash.yaml",
       "dist/clash-lite.yaml"
     ],
-    "TotalNodes": 4481,
-    "LastAnalyzed": "2026-11-20T19:23:46.8495075+00:00",
-    "AnalysisCount": 8,
+    "TotalNodes": 4546,
+    "LastAnalyzed": "2026-11-21T13:52:08.1309392+00:00",
+    "AnalysisCount": 9,
     "IsReliable": true
   },
   "Pawdroid/Free-servers": {
@@ -176,8 +176,8 @@
     "Category": 0,
     "KnownSubPaths": [],
     "TotalNodes": 0,
-    "LastAnalyzed": "2026-11-20T00:00:09.9905915+00:00",
-    "AnalysisCount": 14,
+    "LastAnalyzed": "2026-11-21T13:52:08.1554322+00:00",
+    "AnalysisCount": 15,
     "IsReliable": false
   },
   "nodesradar/nodesradar-my": {
@@ -185,8 +185,8 @@
     "Category": 0,
     "KnownSubPaths": [],
     "TotalNodes": 0,
-    "LastAnalyzed": "2026-11-20T00:00:09.9906016+00:00",
-    "AnalysisCount": 14,
+    "LastAnalyzed": "2026-11-21T13:52:08.1570793+00:00",
+    "AnalysisCount": 15,
     "IsReliable": false
   },
   "nodesradar/nodesradar-id": {
@@ -194,8 +194,8 @@
     "Category": 0,
     "KnownSubPaths": [],
     "TotalNodes": 0,
-    "LastAnalyzed": "2026-11-20T00:00:09.9905973+00:00",
-    "AnalysisCount": 14,
+    "LastAnalyzed": "2026-11-21T13:52:09.0097833+00:00",
+    "AnalysisCount": 15,
     "IsReliable": false
   },
   "nodesradar/nodesradar-vi": {
@@ -203,8 +203,8 @@
     "Category": 0,
     "KnownSubPaths": [],
     "TotalNodes": 0,
-    "LastAnalyzed": "2026-11-20T00:00:10.8890443+00:00",
-    "AnalysisCount": 14,
+    "LastAnalyzed": "2026-11-21T13:52:09.0217794+00:00",
+    "AnalysisCount": 15,
     "IsReliable": false
   },
   "nodesradar/nodesradar-ar": {
@@ -221,8 +221,8 @@
     "Category": 0,
     "KnownSubPaths": [],
     "TotalNodes": 0,
-    "LastAnalyzed": "2026-11-20T00:00:11.0287406+00:00",
-    "AnalysisCount": 13,
+    "LastAnalyzed": "2026-11-21T13:52:09.6299647+00:00",
+    "AnalysisCount": 14,
     "IsReliable": false
   },
   "zhangdunlong/free-v2ray-nodes": {
@@ -293,8 +293,8 @@
     "Category": 0,
     "KnownSubPaths": [],
     "TotalNodes": 0,
-    "LastAnalyzed": "2026-11-20T00:00:11.8123781+00:00",
-    "AnalysisCount": 10,
+    "LastAnalyzed": "2026-11-21T13:52:09.8458367+00:00",
+    "AnalysisCount": 11,
     "IsReliable": false
   },
   "nodesradar/nodesradar-fa": {
@@ -311,8 +311,8 @@
     "Category": 0,
     "KnownSubPaths": [],
     "TotalNodes": 0,
-    "LastAnalyzed": "2026-11-20T00:00:11.7843896+00:00",
-    "AnalysisCount": 7,
+    "LastAnalyzed": "2026-11-21T13:52:09.886195+00:00",
+    "AnalysisCount": 8,
     "IsReliable": false
   },
   "miladtahanian/Config-Collector": {
@@ -487,6 +487,15 @@
     "KnownSubPaths": [],
     "TotalNodes": 0,
     "LastAnalyzed": "2026-11-21T04:41:19.2355431+00:00",
+    "AnalysisCount": 1,
+    "IsReliable": false
+  },
+  "bubu629/v2ray-singbox-hysteria2-nodes": {
+    "FullName": "bubu629/v2ray-singbox-hysteria2-nodes",
+    "Category": 0,
+    "KnownSubPaths": [],
+    "TotalNodes": 0,
+    "LastAnalyzed": "2026-11-21T04:41:19.2702074+00:00",
     "AnalysisCount": 1,
     "IsReliable": false
   }
