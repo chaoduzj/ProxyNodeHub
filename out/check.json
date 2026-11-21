@@ -1,68 +1,68 @@
 {
-  "generated_at": "2026-11-20T23:33:30Z",
+  "generated_at": "2026-11-21T05:03:08Z",
   "test_url": "http://www.gstatic.com/generate_204",
   "test_url_ok": true,
   "timeout_ms": 5000,
-  "total": 10915,
-  "working": 1618,
-  "failed": 9297,
+  "total": 11021,
+  "working": 1556,
+  "failed": 9465,
   "by_type": {
-    "ss": 1055,
-    "vmess": 85,
-    "trojan": 402,
-    "vless": 72,
+    "ss": 1026,
+    "vmess": 67,
+    "trojan": 392,
+    "vless": 69,
     "ssr": 1,
-    "hy2": 3
+    "hy2": 1
   },
   "fastest": [
     {
-      "name": "🇺🇸 Join+Telegram:@Farah_VPN 🇺🇸-6",
-      "delay_ms": 201,
+      "name": "🇺🇸US-167.88.62.203-0097",
+      "delay_ms": 345,
       "type": "ss"
     },
     {
-      "name": "@vasl_bashim-13",
-      "delay_ms": 202,
+      "name": "🇺🇸US-38.22.17.129-0098",
+      "delay_ms": 490,
       "type": "ss"
     },
     {
-      "name": "@V2rayNPVTConfig-22",
-      "delay_ms": 203,
+      "name": "🇺🇸US-🚀@VPNine1-40",
+      "delay_ms": 491,
       "type": "ss"
     },
     {
-      "name": "@ghand_sheken-14",
-      "delay_ms": 210,
+      "name": "🇺🇸US-38.121.43.18-0106",
+      "delay_ms": 497,
       "type": "ss"
     },
     {
-      "name": "@Tarkshodeh 🇳🇬",
-      "delay_ms": 238,
+      "name": "🇺🇸US-38.121.43.231-0105",
+      "delay_ms": 497,
       "type": "ss"
     },
     {
-      "name": "@filembad-13",
-      "delay_ms": 241,
+      "name": "🇺🇸US-38.22.17.219-0111",
+      "delay_ms": 497,
       "type": "ss"
     },
     {
-      "name": "node-901",
-      "delay_ms": 243,
+      "name": "🇺🇸US-167.88.63.99-0107",
+      "delay_ms": 498,
       "type": "ss"
     },
     {
-      "name": "تو کانال نتورلد نباشید قطع میشن@networld_vpn-6",
-      "delay_ms": 247,
+      "name": "🇺🇸US-38.121.43.225-0166",
+      "delay_ms": 498,
       "type": "ss"
     },
     {
-      "name": "@V2rayNGVPN > کانفیگ رایگان-8",
-      "delay_ms": 253,
+      "name": "🇺🇸US-172.111.36.123-0159",
+      "delay_ms": 519,
       "type": "ss"
     },
     {
-      "name": "@ghand_sheken-15",
-      "delay_ms": 253,
+      "name": "🇺🇸US-38.91.107.188-0118",
+      "delay_ms": 625,
       "type": "ss"
     }
   ]

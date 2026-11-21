@@ -1,96 +1,78 @@
 {
-  "generated_at": "2026-11-20T23:33:22.2853267+00:00",
+  "generated_at": "2026-11-21T05:03:00.443129+00:00",
   "repositories": [
     {
       "full_name": "rostamimohammadamin8-dot/v2ray-new-version",
       "score": 100,
-      "total_nodes": 9109,
+      "total_nodes": 9108,
       "links": [
         {
           "name": "sub.txt",
           "url": "https://raw.githubusercontent.com/rostamimohammadamin8-dot/v2ray-new-version/main/sub.txt",
           "type": "Base64",
-          "node_count": 9109
-        }
-      ]
-    },
-    {
-      "full_name": "Leechuihui/FreeHarbor",
-      "score": 81,
-      "total_nodes": 197,
-      "links": [
-        {
-          "name": "sub/ss.txt",
-          "url": "https://raw.githubusercontent.com/Leechuihui/FreeHarbor/main/sub/ss.txt",
-          "type": "Base64",
-          "node_count": 52
-        },
-        {
-          "name": "sub/all.txt",
-          "url": "https://raw.githubusercontent.com/Leechuihui/FreeHarbor/main/sub/all.txt",
-          "type": "Base64",
-          "node_count": 197
-        },
-        {
-          "name": "sub/ssr.txt",
-          "url": "https://raw.githubusercontent.com/Leechuihui/FreeHarbor/main/sub/ssr.txt",
-          "type": "Base64",
-          "node_count": 1
-        },
-        {
-          "name": "sub/best.txt",
-          "url": "https://raw.githubusercontent.com/Leechuihui/FreeHarbor/main/sub/best.txt",
-          "type": "Base64",
-          "node_count": 20
-        },
-        {
-          "name": "sub/vless.txt",
-          "url": "https://raw.githubusercontent.com/Leechuihui/FreeHarbor/main/sub/vless.txt",
-          "type": "Base64",
-          "node_count": 110
+          "node_count": 9108
         }
       ]
     },
     {
       "full_name": "MustafaBaqer/VestraNet-Nodes",
       "score": 78,
-      "total_nodes": 9577,
+      "total_nodes": 9650,
       "links": [
         {
           "name": "protocols/vless.txt",
           "url": "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/protocols/vless.txt",
           "type": "Base64",
-          "node_count": 1722
+          "node_count": 1608
         },
         {
           "name": "protocols/vmess.txt",
           "url": "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/protocols/vmess.txt",
           "type": "Base64",
-          "node_count": 5340
+          "node_count": 6437
         },
         {
           "name": "protocols/trojan.txt",
           "url": "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/protocols/trojan.txt",
           "type": "Base64",
-          "node_count": 237
+          "node_count": 370
         },
         {
           "name": "subscriptions/mix-base64.txt",
           "url": "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/subscriptions/mix-base64.txt",
           "type": "Base64",
-          "node_count": 9577
+          "node_count": 9650
         },
         {
           "name": "subscriptions/mix-normal.txt",
           "url": "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/subscriptions/mix-normal.txt",
           "type": "Base64",
-          "node_count": 9577
+          "node_count": 9650
+        }
+      ]
+    },
+    {
+      "full_name": "snakem982/proxypool",
+      "score": 76,
+      "total_nodes": 61,
+      "links": [
+        {
+          "name": "source/v2ray-2.txt",
+          "url": "https://raw.githubusercontent.com/snakem982/proxypool/main/source/v2ray-2.txt",
+          "type": "Base64",
+          "node_count": 59
+        },
+        {
+          "name": "source/clash-meta-2.yaml",
+          "url": "https://raw.githubusercontent.com/snakem982/proxypool/main/source/clash-meta-2.yaml",
+          "type": "Clash",
+          "node_count": 61
         }
       ]
     },
     {
       "full_name": "Andrejewild/bypass-whitelist-vpn",
-      "score": 68,
+      "score": 73,
       "total_nodes": 20,
       "links": [
         {
@@ -104,24 +86,21 @@
   ],
   "subscriptions": [
     "https://raw.githubusercontent.com/rostamimohammadamin8-dot/v2ray-new-version/main/sub.txt",
-    "https://raw.githubusercontent.com/Leechuihui/FreeHarbor/main/sub/ss.txt",
-    "https://raw.githubusercontent.com/Leechuihui/FreeHarbor/main/sub/all.txt",
-    "https://raw.githubusercontent.com/Leechuihui/FreeHarbor/main/sub/ssr.txt",
-    "https://raw.githubusercontent.com/Leechuihui/FreeHarbor/main/sub/best.txt",
-    "https://raw.githubusercontent.com/Leechuihui/FreeHarbor/main/sub/vless.txt",
     "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/protocols/vless.txt",
     "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/protocols/vmess.txt",
     "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/protocols/trojan.txt",
     "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/subscriptions/mix-base64.txt",
     "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/subscriptions/mix-normal.txt",
+    "https://raw.githubusercontent.com/snakem982/proxypool/main/source/v2ray-2.txt",
+    "https://raw.githubusercontent.com/snakem982/proxypool/main/source/clash-meta-2.yaml",
     "https://raw.githubusercontent.com/Andrejewild/bypass-whitelist-vpn/main/sub.txt"
   ],
   "failed_searches": 0,
   "failed_repositories": 0,
   "failed_downloads": 0,
-  "yaml_skipped": 0,
-  "total_nodes": 35962,
-  "unique_nodes": 11365,
-  "clash_nodes": 10915,
-  "clash_skipped": 450
+  "yaml_skipped": 1,
+  "total_nodes": 36902,
+  "unique_nodes": 11498,
+  "clash_nodes": 11021,
+  "clash_skipped": 477
 }

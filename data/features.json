@@ -24,9 +24,9 @@
       "subscriptions/mix-base64.txt",
       "subscriptions/mix-normal.txt"
     ],
-    "TotalNodes": 9577,
-    "LastAnalyzed": "2026-11-20T23:33:19.0717575+00:00",
-    "AnalysisCount": 20,
+    "TotalNodes": 9650,
+    "LastAnalyzed": "2026-11-21T05:02:58.0854537+00:00",
+    "AnalysisCount": 21,
     "IsReliable": true
   },
   "chengaopan/AutoMergePublicNodes": {
@@ -94,8 +94,8 @@
       "sub.txt"
     ],
     "TotalNodes": 20,
-    "LastAnalyzed": "2026-11-20T23:33:19.0359477+00:00",
-    "AnalysisCount": 9,
+    "LastAnalyzed": "2026-11-21T05:02:58.5749199+00:00",
+    "AnalysisCount": 10,
     "IsReliable": true
   },
   "VoroninaYanina/free-nodes": {
@@ -275,8 +275,8 @@
     "Category": 0,
     "KnownSubPaths": [],
     "TotalNodes": 0,
-    "LastAnalyzed": "2026-11-20T05:10:31.7193629+00:00",
-    "AnalysisCount": 2,
+    "LastAnalyzed": "2026-11-21T05:02:58.0757532+00:00",
+    "AnalysisCount": 3,
     "IsReliable": false
   },
   "TG-NAV/nodeshare": {
@@ -284,8 +284,8 @@
     "Category": 0,
     "KnownSubPaths": [],
     "TotalNodes": 0,
-    "LastAnalyzed": "2026-11-20T05:10:31.5089765+00:00",
-    "AnalysisCount": 2,
+    "LastAnalyzed": "2026-11-21T05:02:58.0757412+00:00",
+    "AnalysisCount": 3,
     "IsReliable": false
   },
   "nodesradar/nodesradar-tr": {
@@ -448,9 +448,9 @@
     "KnownSubPaths": [
       "sub.txt"
     ],
-    "TotalNodes": 9109,
-    "LastAnalyzed": "2026-11-20T23:33:18.7800056+00:00",
-    "AnalysisCount": 2,
+    "TotalNodes": 9108,
+    "LastAnalyzed": "2026-11-21T05:02:58.0757615+00:00",
+    "AnalysisCount": 3,
     "IsReliable": true
   },
   "Leechuihui/FreeHarbor": {
@@ -467,5 +467,53 @@
     "LastAnalyzed": "2026-11-20T23:33:18.8208714+00:00",
     "AnalysisCount": 1,
     "IsReliable": true
+  },
+  "bubu629/free-aiptv-global-channels-solana-vpn--nodes-tv-tv6868-v2ray-vless-shadow": {
+    "FullName": "bubu629/free-aiptv-global-channels-solana-vpn--nodes-tv-tv6868-v2ray-vless-shadow",
+    "Category": 0,
+    "KnownSubPaths": [],
+    "TotalNodes": 0,
+    "LastAnalyzed": "2026-11-21T05:02:58.8310027+00:00",
+    "AnalysisCount": 1,
+    "IsReliable": false
+  },
+  "bubu629/awesome-free-vpn-proxy-list": {
+    "FullName": "bubu629/awesome-free-vpn-proxy-list",
+    "Category": 0,
+    "KnownSubPaths": [],
+    "TotalNodes": 0,
+    "LastAnalyzed": "2026-11-21T05:02:58.8321091+00:00",
+    "AnalysisCount": 1,
+    "IsReliable": false
+  },
+  "snakem982/proxypool": {
+    "FullName": "snakem982/proxypool",
+    "Category": 0,
+    "KnownSubPaths": [
+      "source/v2ray-2.txt",
+      "source/clash-meta-2.yaml"
+    ],
+    "TotalNodes": 61,
+    "LastAnalyzed": "2026-11-21T05:02:58.8792157+00:00",
+    "AnalysisCount": 1,
+    "IsReliable": true
+  },
+  "bubu629/asia-cn2-iplc-clash-v2ray-nodes-zhongguo-xianggang-taiwan": {
+    "FullName": "bubu629/asia-cn2-iplc-clash-v2ray-nodes-zhongguo-xianggang-taiwan",
+    "Category": 0,
+    "KnownSubPaths": [],
+    "TotalNodes": 0,
+    "LastAnalyzed": "2026-11-21T05:02:58.971945+00:00",
+    "AnalysisCount": 1,
+    "IsReliable": false
+  },
+  "bubu629/free-v2ray-clash-auto-subscription-pool": {
+    "FullName": "bubu629/free-v2ray-clash-auto-subscription-pool",
+    "Category": 0,
+    "KnownSubPaths": [],
+    "TotalNodes": 0,
+    "LastAnalyzed": "2026-11-21T05:02:59.3177882+00:00",
+    "AnalysisCount": 1,
+    "IsReliable": false
   }
 }
