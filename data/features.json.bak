@@ -24,9 +24,9 @@
       "subscriptions/mix-base64.txt",
       "subscriptions/mix-normal.txt"
     ],
-    "TotalNodes": 9284,
-    "LastAnalyzed": "2026-11-20T19:23:46.6181754+00:00",
-    "AnalysisCount": 19,
+    "TotalNodes": 9601,
+    "LastAnalyzed": "2026-11-21T04:41:17.8960282+00:00",
+    "AnalysisCount": 20,
     "IsReliable": true
   },
   "chengaopan/AutoMergePublicNodes": {
@@ -94,8 +94,8 @@
       "sub.txt"
     ],
     "TotalNodes": 20,
-    "LastAnalyzed": "2026-11-20T19:23:46.8916105+00:00",
-    "AnalysisCount": 7,
+    "LastAnalyzed": "2026-11-21T04:41:17.730586+00:00",
+    "AnalysisCount": 8,
     "IsReliable": true
   },
   "VoroninaYanina/free-nodes": {
@@ -130,8 +130,8 @@
     "Category": 0,
     "KnownSubPaths": [],
     "TotalNodes": 0,
-    "LastAnalyzed": "2026-11-20T06:07:35.6636839+00:00",
-    "AnalysisCount": 3,
+    "LastAnalyzed": "2026-11-20T19:23:48.0510791+00:00",
+    "AnalysisCount": 4,
     "IsReliable": false
   },
   "v2raydog-node/free-nodes": {
@@ -420,9 +420,9 @@
       "source/v2ray-2.txt",
       "source/clash-meta-2.yaml"
     ],
-    "TotalNodes": 64,
-    "LastAnalyzed": "2026-11-20T06:07:37.2813458+00:00",
-    "AnalysisCount": 1,
+    "TotalNodes": 61,
+    "LastAnalyzed": "2026-11-21T04:41:18.2950013+00:00",
+    "AnalysisCount": 2,
     "IsReliable": true
   },
   "bushilian/bushilian": {
@@ -435,5 +435,59 @@
     "LastAnalyzed": "2026-11-20T19:23:47.1926017+00:00",
     "AnalysisCount": 1,
     "IsReliable": true
+  },
+  "bubu629/free-aiptv-global-channels-solana-vpn--nodes-tv-tv6868-v2ray-vless-shadow": {
+    "FullName": "bubu629/free-aiptv-global-channels-solana-vpn--nodes-tv-tv6868-v2ray-vless-shadow",
+    "Category": 0,
+    "KnownSubPaths": [],
+    "TotalNodes": 0,
+    "LastAnalyzed": "2026-11-21T04:41:17.7210316+00:00",
+    "AnalysisCount": 1,
+    "IsReliable": false
+  },
+  "bubu629/awesome-free-vpn-proxy-list": {
+    "FullName": "bubu629/awesome-free-vpn-proxy-list",
+    "Category": 0,
+    "KnownSubPaths": [],
+    "TotalNodes": 0,
+    "LastAnalyzed": "2026-11-21T04:41:17.6679005+00:00",
+    "AnalysisCount": 1,
+    "IsReliable": false
+  },
+  "bubu629/free-v2ray-clash-auto-subscription-pool": {
+    "FullName": "bubu629/free-v2ray-clash-auto-subscription-pool",
+    "Category": 0,
+    "KnownSubPaths": [],
+    "TotalNodes": 0,
+    "LastAnalyzed": "2026-11-21T04:41:18.4952324+00:00",
+    "AnalysisCount": 1,
+    "IsReliable": false
+  },
+  "bubu629/asia-cn2-iplc-clash-v2ray-nodes-zhongguo-xianggang-taiwan": {
+    "FullName": "bubu629/asia-cn2-iplc-clash-v2ray-nodes-zhongguo-xianggang-taiwan",
+    "Category": 0,
+    "KnownSubPaths": [],
+    "TotalNodes": 0,
+    "LastAnalyzed": "2026-11-21T04:41:18.6447963+00:00",
+    "AnalysisCount": 1,
+    "IsReliable": false
+  },
+  "bubu629/-free-clash-v2ray-singbox-meta-nodes-share-sub": {
+    "FullName": "bubu629/-free-clash-v2ray-singbox-meta-nodes-share-sub",
+    "Category": 0,
+    "KnownSubPaths": [],
+    "TotalNodes": 0,
+    "LastAnalyzed": "2026-11-21T04:41:18.7111579+00:00",
+    "AnalysisCount": 1,
+    "IsReliable": false
+  },
+  "bubu629/free-clash-meta-verge-rules-Clash-Mihomo-Shadowrocket": {
+    "FullName": "bubu629/free-clash-meta-verge-rules-Clash-Mihomo-Shadowrocket",
+    "Category": 0,
+    "KnownSubPaths": [],
+    "TotalNodes": 0,
+    "LastAnalyzed": "2026-11-21T04:41:19.2355431+00:00",
+    "AnalysisCount": 1,
+    "IsReliable": false
   }
 }

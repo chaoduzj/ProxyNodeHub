@@ -1,69 +1,68 @@
 {
-  "generated_at": "2026-11-20T19:24:01Z",
+  "generated_at": "2026-11-21T04:41:27Z",
   "test_url": "http://www.gstatic.com/generate_204",
   "test_url_ok": true,
   "timeout_ms": 5000,
-  "total": 3341,
-  "working": 218,
-  "failed": 3123,
+  "total": 3200,
+  "working": 48,
+  "failed": 3152,
   "by_type": {
-    "vmess": 50,
-    "vless": 40,
-    "ss": 114,
-    "trojan": 5,
-    "hy2": 8,
+    "vless": 14,
+    "vmess": 21,
+    "trojan": 1,
+    "ss": 11,
     "ssr": 1
   },
   "fastest": [
     {
-      "name": "@i10VPN²",
+      "name": "node-1340",
+      "delay_ms": 71,
+      "type": "vmess"
+    },
+    {
+      "name": "node-1369",
+      "delay_ms": 73,
+      "type": "vmess"
+    },
+    {
+      "name": "node-1310",
+      "delay_ms": 79,
+      "type": "vless"
+    },
+    {
+      "name": "🧿🇨🇦CA",
+      "delay_ms": 85,
+      "type": "vmess"
+    },
+    {
+      "name": "node-1359",
+      "delay_ms": 91,
+      "type": "vmess"
+    },
+    {
+      "name": "🇺🇸 SSR-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-107.151.182.253:8080",
+      "delay_ms": 102,
+      "type": "ssr"
+    },
+    {
+      "name": "node-1345",
+      "delay_ms": 107,
+      "type": "vmess"
+    },
+    {
+      "name": "node-3265",
+      "delay_ms": 154,
+      "type": "vmess"
+    },
+    {
+      "name": "node-1399",
       "delay_ms": 173,
-      "type": "ss"
-    },
-    {
-      "name": "@ConfigV2RayNG-7",
-      "delay_ms": 176,
-      "type": "ss"
-    },
-    {
-      "name": "🇨🇦-8",
-      "delay_ms": 208,
       "type": "vmess"
     },
     {
-      "name": "13074@proxy_online_net",
-      "delay_ms": 209,
-      "type": "vmess"
-    },
-    {
-      "name": "🇨🇦-11",
-      "delay_ms": 209,
-      "type": "vmess"
-    },
-    {
-      "name": "node-1631",
-      "delay_ms": 210,
-      "type": "vmess"
-    },
-    {
-      "name": "@V2rayNPVTConfig-4",
-      "delay_ms": 215,
-      "type": "vmess"
-    },
-    {
-      "name": "🇨🇦-9",
-      "delay_ms": 216,
-      "type": "vmess"
-    },
-    {
-      "name": "@VPsave-21",
-      "delay_ms": 219,
-      "type": "vmess"
-    },
-    {
-      "name": "Tel-@ProxyMtAlpha🐺",
-      "delay_ms": 221,
-      "type": "ss"
+      "name": "🇳🇱 荷兰 | NLD-2",
+      "delay_ms": 234,
+      "type": "vless"
     }
   ]
 }
