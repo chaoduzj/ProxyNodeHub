@@ -1,68 +1,68 @@
 {
-  "generated_at": "2026-11-21T13:52:19Z",
+  "generated_at": "2026-11-21T22:34:15Z",
   "test_url": "http://www.gstatic.com/generate_204",
   "test_url_ok": true,
   "timeout_ms": 5000,
-  "total": 3297,
-  "working": 187,
-  "failed": 3110,
+  "total": 3202,
+  "working": 133,
+  "failed": 3069,
   "by_type": {
-    "vless": 42,
-    "vmess": 51,
-    "trojan": 4,
-    "ss": 81,
-    "hy2": 9
+    "vless": 28,
+    "vmess": 40,
+    "trojan": 3,
+    "ss": 54,
+    "hy2": 8
   },
   "fastest": [
     {
-      "name": "node-1612",
-      "delay_ms": 184,
-      "type": "vmess"
-    },
-    {
-      "name": "@V2rayNPVTConfig-12",
-      "delay_ms": 201,
-      "type": "vmess"
-    },
-    {
-      "name": "node-1607",
-      "delay_ms": 211,
-      "type": "vmess"
-    },
-    {
-      "name": "13096@proxy_online_net",
-      "delay_ms": 213,
-      "type": "vmess"
-    },
-    {
-      "name": "node-1583",
-      "delay_ms": 214,
-      "type": "vmess"
-    },
-    {
-      "name": "🇨🇦-4",
-      "delay_ms": 224,
-      "type": "vmess"
-    },
-    {
-      "name": "@V2rayng_Fast-4",
-      "delay_ms": 235,
+      "name": "🇨🇦CA-🚀@VPNine1",
+      "delay_ms": 89,
       "type": "ss"
     },
     {
-      "name": "@V2rayNPVTConfig-13",
-      "delay_ms": 240,
+      "name": "@V2raySamanbot-2",
+      "delay_ms": 97,
+      "type": "ss"
+    },
+    {
+      "name": "Free",
+      "delay_ms": 228,
+      "type": "ss"
+    },
+    {
+      "name": "node-1508",
+      "delay_ms": 228,
       "type": "vmess"
     },
     {
-      "name": "🇨🇦-7",
-      "delay_ms": 241,
-      "type": "vmess"
+      "name": "@meliproxyy-20",
+      "delay_ms": 232,
+      "type": "ss"
     },
     {
-      "name": "@V2rayNPVTConfig-11",
-      "delay_ms": 243,
-      "type": "vmess"
+      "name": "🇬🇧[openproxylist.com]-4",
+      "delay_ms": 233,
+      "type": "ss"
+    },
+    {
+      "name": "@VConfing-2",
+      "delay_ms": 234,
+      "type": "ss"
+    },
+    {
+      "name": "@i10VPN⁴",
+      "delay_ms": 236,
+      "type": "ss"
+    },
+    {
+      "name": "@meliproxyy-19",
+      "delay_ms": 238,
+      "type": "ss"
+    },
+    {
+      "name": "@tootffarangi🍓-16",
+      "delay_ms": 238,
+      "type": "ss"
     }
   ]
 }

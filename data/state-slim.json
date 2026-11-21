@@ -1,59 +1,66 @@
 {
-  "generated_at": "2026-11-21T13:52:11.9345939+00:00",
+  "generated_at": "2026-11-21T22:34:08.1436337+00:00",
   "repositories": [
     {
       "full_name": "jingjiangze/node-radar",
       "score": 90,
-      "total_nodes": 4546,
+      "total_nodes": 4602,
       "links": [
         {
           "name": "dist/clash.yaml",
           "url": "https://raw.githubusercontent.com/jingjiangze/node-radar/main/dist/clash.yaml",
           "type": "Clash",
-          "node_count": 4546
+          "node_count": 4602
         },
         {
           "name": "dist/clash-lite.yaml",
           "url": "https://raw.githubusercontent.com/jingjiangze/node-radar/main/dist/clash-lite.yaml",
           "type": "Clash",
-          "node_count": 407
+          "node_count": 411
         }
       ]
     },
     {
       "full_name": "MustafaBaqer/VestraNet-Nodes",
       "score": 78,
-      "total_nodes": 9389,
+      "total_nodes": 9411,
       "links": [
         {
           "name": "protocols/vless.txt",
           "url": "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/protocols/vless.txt",
           "type": "Base64",
-          "node_count": 1879
+          "node_count": 1678
         },
         {
           "name": "protocols/vmess.txt",
           "url": "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/protocols/vmess.txt",
           "type": "Base64",
-          "node_count": 4885
+          "node_count": 5742
         },
         {
           "name": "protocols/trojan.txt",
           "url": "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/protocols/trojan.txt",
           "type": "Base64",
-          "node_count": 211
+          "node_count": 400
         },
         {
           "name": "subscriptions/mix-base64.txt",
           "url": "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/subscriptions/mix-base64.txt",
           "type": "Base64",
-          "node_count": 9389
-        },
+          "node_count": 9411
+        }
+      ]
+    },
+    {
+      "full_name": "Andrejewild/bypass-whitelist-vpn",
+      "score": 68,
+      "total_nodes": 20,
+      "links": [
         {
-          "name": "subscriptions/mix-normal.txt",
-          "url": "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/subscriptions/mix-normal.txt",
+          "name": "sub.txt",
+          "url": "https://raw.githubusercontent.com/Andrejewild/bypass-whitelist-vpn/main/sub.txt",
           "type": "Base64",
-          "node_count": 9389
+          "node_count": 20
         }
       ]
     }
@@ -65,14 +72,14 @@
     "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/protocols/vmess.txt",
     "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/protocols/trojan.txt",
     "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/subscriptions/mix-base64.txt",
-    "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/subscriptions/mix-normal.txt"
+    "https://raw.githubusercontent.com/Andrejewild/bypass-whitelist-vpn/main/sub.txt"
   ],
   "failed_searches": 0,
   "failed_repositories": 0,
   "failed_downloads": 0,
   "yaml_skipped": 2,
-  "total_nodes": 25753,
-  "unique_nodes": 3370,
-  "clash_nodes": 3297,
-  "clash_skipped": 73
+  "total_nodes": 17251,
+  "unique_nodes": 3296,
+  "clash_nodes": 3202,
+  "clash_skipped": 94
 }
