@@ -1,69 +1,68 @@
 {
-  "generated_at": "2026-11-21T05:03:08Z",
+  "generated_at": "2026-11-21T13:59:17Z",
   "test_url": "http://www.gstatic.com/generate_204",
   "test_url_ok": true,
   "timeout_ms": 5000,
-  "total": 11021,
-  "working": 1556,
-  "failed": 9465,
+  "total": 3203,
+  "working": 185,
+  "failed": 3018,
   "by_type": {
-    "ss": 1026,
-    "vmess": 67,
-    "trojan": 392,
-    "vless": 69,
-    "ssr": 1,
-    "hy2": 1
+    "vless": 62,
+    "vmess": 43,
+    "trojan": 5,
+    "ss": 69,
+    "hy2": 6
   },
   "fastest": [
     {
-      "name": "🇺🇸US-167.88.62.203-0097",
-      "delay_ms": 345,
+      "name": "@FXxNET⚡️-17",
+      "delay_ms": 81,
       "type": "ss"
     },
     {
-      "name": "🇺🇸US-38.22.17.129-0098",
-      "delay_ms": 490,
+      "name": "Channel-7",
+      "delay_ms": 110,
       "type": "ss"
     },
     {
-      "name": "🇺🇸US-🚀@VPNine1-40",
-      "delay_ms": 491,
+      "name": "🇺🇸US-138.197.89.234-0489",
+      "delay_ms": 116,
       "type": "ss"
     },
     {
-      "name": "🇺🇸US-38.121.43.18-0106",
-      "delay_ms": 497,
+      "name": "@vpnbaz@vpnbaz@vpnbaz🎀",
+      "delay_ms": 123,
       "type": "ss"
     },
     {
-      "name": "🇺🇸US-38.121.43.231-0105",
-      "delay_ms": 497,
+      "name": "🇺🇸US-🚀@VPNine1-16",
+      "delay_ms": 126,
       "type": "ss"
     },
     {
-      "name": "🇺🇸US-38.22.17.219-0111",
-      "delay_ms": 497,
+      "name": "Tel-@ProxyMtAlpha🐺",
+      "delay_ms": 135,
       "type": "ss"
     },
     {
-      "name": "🇺🇸US-167.88.63.99-0107",
-      "delay_ms": 498,
+      "name": "@V2rayNPVTConfig-17",
+      "delay_ms": 140,
+      "type": "vmess"
+    },
+    {
+      "name": "[054395]",
+      "delay_ms": 141,
       "type": "ss"
     },
     {
-      "name": "🇺🇸US-38.121.43.225-0166",
-      "delay_ms": 498,
-      "type": "ss"
+      "name": "🇨🇦-3",
+      "delay_ms": 148,
+      "type": "vmess"
     },
     {
-      "name": "🇺🇸US-172.111.36.123-0159",
-      "delay_ms": 519,
-      "type": "ss"
-    },
-    {
-      "name": "🇺🇸US-38.91.107.188-0118",
-      "delay_ms": 625,
-      "type": "ss"
+      "name": "@V2rayNPVTConfig-19",
+      "delay_ms": 149,
+      "type": "vmess"
     }
   ]
 }
