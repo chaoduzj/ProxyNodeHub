@@ -1,67 +1,67 @@
 {
-  "generated_at": "2026-11-22T13:45:42Z",
+  "generated_at": "2026-11-22T22:56:37Z",
   "test_url": "http://www.gstatic.com/generate_204",
   "test_url_ok": true,
   "timeout_ms": 5000,
-  "total": 3082,
-  "working": 127,
-  "failed": 2955,
+  "total": 3159,
+  "working": 189,
+  "failed": 2970,
   "by_type": {
-    "vless": 29,
-    "vmess": 39,
-    "trojan": 3,
-    "ss": 52,
-    "hy2": 4
+    "vless": 46,
+    "vmess": 58,
+    "trojan": 6,
+    "ss": 74,
+    "hy2": 5
   },
   "fastest": [
     {
-      "name": "@FXxNET⚡️-6",
-      "delay_ms": 157,
+      "name": "node-1431",
+      "delay_ms": 161,
+      "type": "vmess"
+    },
+    {
+      "name": "@meliproxyy-24",
+      "delay_ms": 178,
       "type": "ss"
     },
     {
+      "name": "node-1426",
+      "delay_ms": 191,
+      "type": "vmess"
+    },
+    {
+      "name": ">>@freeland8::US",
+      "delay_ms": 192,
+      "type": "ss"
+    },
+    {
+      "name": "node-1424",
+      "delay_ms": 220,
+      "type": "vmess"
+    },
+    {
+      "name": "🇺🇸-12",
+      "delay_ms": 226,
+      "type": "vless"
+    },
+    {
+      "name": "@vpnbaz@vpnbaz@vpnbaz🎀",
+      "delay_ms": 229,
+      "type": "ss"
+    },
+    {
+      "name": "🇨🇦-10",
+      "delay_ms": 241,
+      "type": "vmess"
+    },
+    {
+      "name": "🇨🇦-11",
+      "delay_ms": 244,
+      "type": "vmess"
+    },
+    {
       "name": "@VPsave-21",
-      "delay_ms": 164,
-      "type": "vmess"
-    },
-    {
-      "name": "node-1388",
-      "delay_ms": 175,
-      "type": "vmess"
-    },
-    {
-      "name": "🇺🇸-45",
-      "delay_ms": 176,
-      "type": "vmess"
-    },
-    {
-      "name": "node-1379",
-      "delay_ms": 177,
-      "type": "vmess"
-    },
-    {
-      "name": "node-1394",
-      "delay_ms": 198,
-      "type": "vmess"
-    },
-    {
-      "name": "🇨🇦-5",
-      "delay_ms": 203,
-      "type": "vmess"
-    },
-    {
-      "name": "🇺🇸-44",
-      "delay_ms": 203,
-      "type": "vmess"
-    },
-    {
-      "name": "node-1442",
-      "delay_ms": 213,
-      "type": "vmess"
-    },
-    {
-      "name": "node-1657",
-      "delay_ms": 257,
+      "delay_ms": 246,
       "type": "vmess"
     }
   ]
