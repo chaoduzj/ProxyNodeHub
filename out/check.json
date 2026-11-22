@@ -1,68 +1,67 @@
 {
-  "generated_at": "2026-11-22T03:55:58Z",
+  "generated_at": "2026-11-22T13:45:42Z",
   "test_url": "http://www.gstatic.com/generate_204",
   "test_url_ok": true,
   "timeout_ms": 5000,
-  "total": 3221,
-  "working": 109,
-  "failed": 3112,
+  "total": 3082,
+  "working": 127,
+  "failed": 2955,
   "by_type": {
-    "vless": 18,
-    "vmess": 32,
-    "ss": 47,
-    "hy2": 10,
-    "ssr": 1,
-    "trojan": 1
+    "vless": 29,
+    "vmess": 39,
+    "trojan": 3,
+    "ss": 52,
+    "hy2": 4
   },
   "fastest": [
     {
-      "name": "🇺🇸 SSR-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-107.151.182.253:8080",
-      "delay_ms": 106,
-      "type": "ssr"
-    },
-    {
-      "name": "node-1406",
-      "delay_ms": 121,
-      "type": "vmess"
-    },
-    {
-      "name": "@V2rayNPVTConfig-5",
-      "delay_ms": 128,
-      "type": "vmess"
-    },
-    {
-      "name": "node-1454",
-      "delay_ms": 146,
-      "type": "vmess"
-    },
-    {
-      "name": "🇺🇸[openproxylist.com]-5",
-      "delay_ms": 153,
-      "type": "ss"
-    },
-    {
-      "name": "@VPNConnectd",
+      "name": "@FXxNET⚡️-6",
       "delay_ms": 157,
       "type": "ss"
     },
     {
-      "name": "node-1446",
-      "delay_ms": 162,
+      "name": "@VPsave-21",
+      "delay_ms": 164,
       "type": "vmess"
     },
     {
-      "name": "🇺🇸216592",
-      "delay_ms": 164,
-      "type": "ss"
+      "name": "node-1388",
+      "delay_ms": 175,
+      "type": "vmess"
     },
     {
-      "name": "@v2reya88-8",
-      "delay_ms": 166,
+      "name": "🇺🇸-45",
+      "delay_ms": 176,
+      "type": "vmess"
+    },
+    {
+      "name": "node-1379",
+      "delay_ms": 177,
+      "type": "vmess"
+    },
+    {
+      "name": "node-1394",
+      "delay_ms": 198,
+      "type": "vmess"
+    },
+    {
+      "name": "🇨🇦-5",
+      "delay_ms": 203,
       "type": "vmess"
     },
     {
       "name": "🇺🇸-44",
-      "delay_ms": 169,
+      "delay_ms": 203,
+      "type": "vmess"
+    },
+    {
+      "name": "node-1442",
+      "delay_ms": 213,
+      "type": "vmess"
+    },
+    {
+      "name": "node-1657",
+      "delay_ms": 257,
       "type": "vmess"
     }
   ]
