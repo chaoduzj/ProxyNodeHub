@@ -1,69 +1,67 @@
 {
-  "generated_at": "2026-11-23T04:36:49Z",
+  "generated_at": "2026-11-23T16:46:05Z",
   "test_url": "http://www.gstatic.com/generate_204",
   "test_url_ok": true,
   "timeout_ms": 5000,
-  "total": 3177,
-  "working": 137,
-  "failed": 3040,
+  "total": 3313,
+  "working": 153,
+  "failed": 3160,
   "by_type": {
-    "ss": 47,
-    "vless": 30,
-    "vmess": 47,
-    "trojan": 3,
-    "hy2": 8,
-    "tuic": 1,
-    "ssr": 1
+    "ss": 66,
+    "vmess": 48,
+    "vless": 31,
+    "trojan": 4,
+    "hy2": 4
   },
   "fastest": [
     {
-      "name": "@vpnsal-2",
-      "delay_ms": 102,
+      "name": "@ConfigV2RayNG-16",
+      "delay_ms": 137,
       "type": "ss"
     },
     {
-      "name": "@V2rayNPVTConfig-7",
-      "delay_ms": 130,
+      "name": "13074@proxy_online_net",
+      "delay_ms": 139,
       "type": "vmess"
     },
     {
-      "name": "13220@proxy_online_net",
-      "delay_ms": 133,
+      "name": "🧿🇨🇦CA",
+      "delay_ms": 141,
+      "type": "vmess"
+    },
+    {
+      "name": "🇨🇦-4",
+      "delay_ms": 146,
+      "type": "vmess"
+    },
+    {
+      "name": "node-1698",
+      "delay_ms": 148,
+      "type": "vmess"
+    },
+    {
+      "name": "@VConfing-3",
+      "delay_ms": 150,
+      "type": "ss"
+    },
+    {
+      "name": "🇺🇸-33",
+      "delay_ms": 150,
       "type": "vmess"
     },
     {
       "name": ">>@freeland8::US",
-      "delay_ms": 135,
+      "delay_ms": 153,
       "type": "ss"
     },
     {
-      "name": "node-1471",
-      "delay_ms": 135,
+      "name": "node-1693",
+      "delay_ms": 160,
       "type": "vmess"
     },
     {
-      "name": "🇨🇦-12",
-      "delay_ms": 143,
-      "type": "vmess"
-    },
-    {
-      "name": "🇨🇦-13",
-      "delay_ms": 143,
-      "type": "vmess"
-    },
-    {
-      "name": "node-1498",
-      "delay_ms": 158,
-      "type": "vmess"
-    },
-    {
-      "name": "🇺🇸-34",
-      "delay_ms": 159,
-      "type": "vmess"
-    },
-    {
-      "name": "node-1488",
-      "delay_ms": 161,
+      "name": "🇺🇸-32",
+      "delay_ms": 172,
       "type": "vmess"
     }
   ]
