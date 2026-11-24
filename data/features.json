@@ -24,9 +24,9 @@
       "subscriptions/mix-base64.txt",
       "subscriptions/mix-normal.txt"
     ],
-    "TotalNodes": 9209,
-    "LastAnalyzed": "2026-11-24T03:36:05.7538475+00:00",
-    "AnalysisCount": 28,
+    "TotalNodes": 9414,
+    "LastAnalyzed": "2026-11-24T16:41:30.4832444+00:00",
+    "AnalysisCount": 29,
     "IsReliable": true
   },
   "chengaopan/AutoMergePublicNodes": {
@@ -62,9 +62,9 @@
     "KnownSubPaths": [
       "sub"
     ],
-    "TotalNodes": 11,
-    "LastAnalyzed": "2026-11-23T16:45:54.6453241+00:00",
-    "AnalysisCount": 20,
+    "TotalNodes": 7,
+    "LastAnalyzed": "2026-11-24T16:41:30.3614161+00:00",
+    "AnalysisCount": 21,
     "IsReliable": true
   },
   "4q4r/assay": {
@@ -94,8 +94,8 @@
       "sub.txt"
     ],
     "TotalNodes": 19,
-    "LastAnalyzed": "2026-11-23T16:45:54.9803036+00:00",
-    "AnalysisCount": 13,
+    "LastAnalyzed": "2026-11-24T16:41:30.8211546+00:00",
+    "AnalysisCount": 14,
     "IsReliable": true
   },
   "VoroninaYanina/free-nodes": {
@@ -167,8 +167,8 @@
       "Vless.txt"
     ],
     "TotalNodes": 20,
-    "LastAnalyzed": "2026-11-23T16:45:56.0273363+00:00",
-    "AnalysisCount": 9,
+    "LastAnalyzed": "2026-11-24T16:41:32.1560577+00:00",
+    "AnalysisCount": 10,
     "IsReliable": true
   },
   "nodesradar/nodesradar-es": {
@@ -176,8 +176,8 @@
     "Category": 0,
     "KnownSubPaths": [],
     "TotalNodes": 0,
-    "LastAnalyzed": "2026-11-24T03:36:05.7700351+00:00",
-    "AnalysisCount": 22,
+    "LastAnalyzed": "2026-11-24T16:41:31.9720764+00:00",
+    "AnalysisCount": 23,
     "IsReliable": false
   },
   "nodesradar/nodesradar-my": {
@@ -185,8 +185,8 @@
     "Category": 0,
     "KnownSubPaths": [],
     "TotalNodes": 0,
-    "LastAnalyzed": "2026-11-24T03:36:05.760708+00:00",
-    "AnalysisCount": 22,
+    "LastAnalyzed": "2026-11-24T16:41:32.0993917+00:00",
+    "AnalysisCount": 23,
     "IsReliable": false
   },
   "nodesradar/nodesradar-id": {
@@ -194,8 +194,8 @@
     "Category": 0,
     "KnownSubPaths": [],
     "TotalNodes": 0,
-    "LastAnalyzed": "2026-11-24T03:36:06.6140829+00:00",
-    "AnalysisCount": 21,
+    "LastAnalyzed": "2026-11-24T16:41:32.614751+00:00",
+    "AnalysisCount": 22,
     "IsReliable": false
   },
   "nodesradar/nodesradar-vi": {
@@ -351,8 +351,8 @@
     "Category": 0,
     "KnownSubPaths": [],
     "TotalNodes": 0,
-    "LastAnalyzed": "2026-11-23T16:45:55.0141699+00:00",
-    "AnalysisCount": 2,
+    "LastAnalyzed": "2026-11-24T16:41:31.0111719+00:00",
+    "AnalysisCount": 3,
     "IsReliable": false
   },
   "Billow001/free-nodes-sub": {
@@ -399,9 +399,9 @@
       "sub/verified.txt",
       "sub/ipv6_only.txt"
     ],
-    "TotalNodes": 7058,
-    "LastAnalyzed": "2026-11-24T03:36:05.721971+00:00",
-    "AnalysisCount": 2,
+    "TotalNodes": 7069,
+    "LastAnalyzed": "2026-11-24T16:41:31.2801798+00:00",
+    "AnalysisCount": 3,
     "IsReliable": true
   },
   "liuarui/komari-plugin-kns": {
@@ -529,6 +529,18 @@
     ],
     "TotalNodes": 200,
     "LastAnalyzed": "2026-11-23T16:45:55.4927852+00:00",
+    "AnalysisCount": 1,
+    "IsReliable": true
+  },
+  "haiwanai/free-nodes": {
+    "FullName": "haiwanai/free-nodes",
+    "Category": 0,
+    "KnownSubPaths": [
+      "sub.txt",
+      "sub.yaml"
+    ],
+    "TotalNodes": 77,
+    "LastAnalyzed": "2026-11-24T16:41:30.442406+00:00",
     "AnalysisCount": 1,
     "IsReliable": true
   }

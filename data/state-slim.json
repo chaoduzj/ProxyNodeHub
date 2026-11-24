@@ -1,47 +1,92 @@
 {
-  "generated_at": "2026-11-24T03:36:09.229178+00:00",
+  "generated_at": "2026-11-24T16:41:34.9787001+00:00",
   "repositories": [
+    {
+      "full_name": "haiwanai/free-nodes",
+      "score": 86,
+      "total_nodes": 77,
+      "links": [
+        {
+          "name": "sub.txt",
+          "url": "https://raw.githubusercontent.com/haiwanai/free-nodes/main/sub.txt",
+          "type": "Base64",
+          "node_count": 72
+        },
+        {
+          "name": "sub.yaml",
+          "url": "https://raw.githubusercontent.com/haiwanai/free-nodes/main/sub.yaml",
+          "type": "Base64",
+          "node_count": 77
+        }
+      ]
+    },
+    {
+      "full_name": "gslege/CloudflareIP",
+      "score": 83,
+      "total_nodes": 20,
+      "links": [
+        {
+          "name": "Vless.txt",
+          "url": "https://raw.githubusercontent.com/gslege/CloudflareIP/main/Vless.txt",
+          "type": "Base64",
+          "node_count": 20
+        }
+      ]
+    },
     {
       "full_name": "MustafaBaqer/VestraNet-Nodes",
       "score": 78,
-      "total_nodes": 9209,
+      "total_nodes": 9414,
       "links": [
         {
           "name": "protocols/vless.txt",
           "url": "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/protocols/vless.txt",
           "type": "Base64",
-          "node_count": 1514
+          "node_count": 1518
         },
         {
           "name": "protocols/vmess.txt",
           "url": "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/protocols/vmess.txt",
           "type": "Base64",
-          "node_count": 5682
+          "node_count": 6012
         },
         {
           "name": "protocols/trojan.txt",
           "url": "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/protocols/trojan.txt",
           "type": "Base64",
-          "node_count": 386
+          "node_count": 359
         },
         {
           "name": "subscriptions/mix-base64.txt",
           "url": "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/subscriptions/mix-base64.txt",
           "type": "Base64",
-          "node_count": 9209
+          "node_count": 9414
         },
         {
           "name": "subscriptions/mix-normal.txt",
           "url": "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/subscriptions/mix-normal.txt",
           "type": "Base64",
-          "node_count": 9209
+          "node_count": 9414
+        }
+      ]
+    },
+    {
+      "full_name": "Andrejewild/bypass-whitelist-vpn",
+      "score": 68,
+      "total_nodes": 19,
+      "links": [
+        {
+          "name": "sub.txt",
+          "url": "https://raw.githubusercontent.com/Andrejewild/bypass-whitelist-vpn/main/sub.txt",
+          "type": "Base64",
+          "node_count": 19
         }
       ]
     },
     {
       "full_name": "rtwo2/FastNodes",
-      "score": 59,
-      "total_nodes": 7058,
+      "score": 51,
+      "total_nodes": 7069,
       "links": [
         {
           "name": "sub/top.txt",
@@ -53,40 +98,58 @@
           "name": "sub/top_ipv6.txt",
           "url": "https://raw.githubusercontent.com/rtwo2/FastNodes/main/sub/top_ipv6.txt",
           "type": "Base64",
-          "node_count": 990
+          "node_count": 992
         },
         {
           "name": "sub/verified.txt",
           "url": "https://raw.githubusercontent.com/rtwo2/FastNodes/main/sub/verified.txt",
           "type": "Base64",
-          "node_count": 1484
+          "node_count": 1171
         },
         {
           "name": "sub/ipv6_only.txt",
           "url": "https://raw.githubusercontent.com/rtwo2/FastNodes/main/sub/ipv6_only.txt",
           "type": "Base64",
-          "node_count": 7058
+          "node_count": 7069
+        }
+      ]
+    },
+    {
+      "full_name": "Pawdroid/Free-servers",
+      "score": 28,
+      "total_nodes": 7,
+      "links": [
+        {
+          "name": "sub",
+          "url": "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub",
+          "type": "Base64",
+          "node_count": 7
         }
       ]
     }
   ],
   "subscriptions": [
+    "https://raw.githubusercontent.com/haiwanai/free-nodes/main/sub.txt",
+    "https://raw.githubusercontent.com/haiwanai/free-nodes/main/sub.yaml",
+    "https://raw.githubusercontent.com/gslege/CloudflareIP/main/Vless.txt",
     "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/protocols/vless.txt",
     "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/protocols/vmess.txt",
     "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/protocols/trojan.txt",
     "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/subscriptions/mix-base64.txt",
     "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/subscriptions/mix-normal.txt",
+    "https://raw.githubusercontent.com/Andrejewild/bypass-whitelist-vpn/main/sub.txt",
     "https://raw.githubusercontent.com/rtwo2/FastNodes/main/sub/top.txt",
     "https://raw.githubusercontent.com/rtwo2/FastNodes/main/sub/top_ipv6.txt",
     "https://raw.githubusercontent.com/rtwo2/FastNodes/main/sub/verified.txt",
-    "https://raw.githubusercontent.com/rtwo2/FastNodes/main/sub/ipv6_only.txt"
+    "https://raw.githubusercontent.com/rtwo2/FastNodes/main/sub/ipv6_only.txt",
+    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub"
   ],
   "failed_searches": 0,
   "failed_repositories": 0,
   "failed_downloads": 0,
-  "yaml_skipped": 0,
-  "total_nodes": 36532,
-  "unique_nodes": 5688,
-  "clash_nodes": 5209,
-  "clash_skipped": 479
+  "yaml_skipped": 1,
+  "total_nodes": 37067,
+  "unique_nodes": 5712,
+  "clash_nodes": 5272,
+  "clash_skipped": 440
 }
