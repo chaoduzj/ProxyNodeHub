@@ -1,67 +1,67 @@
 {
-  "generated_at": "2026-11-23T16:46:05Z",
+  "generated_at": "2026-11-25T01:44:41Z",
   "test_url": "http://www.gstatic.com/generate_204",
   "test_url_ok": true,
   "timeout_ms": 5000,
-  "total": 3313,
-  "working": 153,
-  "failed": 3160,
+  "total": 3142,
+  "working": 149,
+  "failed": 2993,
   "by_type": {
-    "ss": 66,
-    "vmess": 48,
-    "vless": 31,
-    "trojan": 4,
-    "hy2": 4
+    "vless": 39,
+    "vmess": 37,
+    "trojan": 3,
+    "ss": 67,
+    "hy2": 3
   },
   "fastest": [
     {
-      "name": "@ConfigV2RayNG-16",
-      "delay_ms": 137,
+      "name": "Tel-@ProxyMtAlpha🫚",
+      "delay_ms": 207,
       "type": "ss"
     },
     {
-      "name": "13074@proxy_online_net",
-      "delay_ms": 139,
-      "type": "vmess"
-    },
-    {
-      "name": "🧿🇨🇦CA",
-      "delay_ms": 141,
-      "type": "vmess"
-    },
-    {
-      "name": "🇨🇦-4",
-      "delay_ms": 146,
-      "type": "vmess"
-    },
-    {
-      "name": "node-1698",
-      "delay_ms": 148,
-      "type": "vmess"
-    },
-    {
-      "name": "@VConfing-3",
-      "delay_ms": 150,
+      "name": "🇺🇸210148",
+      "delay_ms": 208,
       "type": "ss"
     },
     {
-      "name": "🇺🇸-33",
-      "delay_ms": 150,
-      "type": "vmess"
-    },
-    {
-      "name": ">>@freeland8::US",
-      "delay_ms": 153,
+      "name": "🇺🇸162054",
+      "delay_ms": 211,
       "type": "ss"
     },
     {
-      "name": "node-1693",
-      "delay_ms": 160,
+      "name": "@tootffarangi🍓-10",
+      "delay_ms": 216,
+      "type": "ss"
+    },
+    {
+      "name": "@V2rayNGVPN-4",
+      "delay_ms": 217,
+      "type": "ss"
+    },
+    {
+      "name": "@V2ray_Alpha🐭2",
+      "delay_ms": 217,
+      "type": "ss"
+    },
+    {
+      "name": "🇺🇸@FreakConfig",
+      "delay_ms": 219,
+      "type": "ss"
+    },
+    {
+      "name": "@V2rayNPVTConfig-6",
+      "delay_ms": 223,
       "type": "vmess"
     },
     {
-      "name": "🇺🇸-32",
-      "delay_ms": 172,
+      "name": "13178@proxy_online_net",
+      "delay_ms": 228,
+      "type": "vmess"
+    },
+    {
+      "name": "@V2rayNPVTConfig-5",
+      "delay_ms": 232,
       "type": "vmess"
     }
   ]
