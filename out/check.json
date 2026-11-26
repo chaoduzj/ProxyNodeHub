@@ -1,68 +1,69 @@
 {
-  "generated_at": "2026-11-25T01:44:41Z",
+  "generated_at": "2026-11-26T01:25:33Z",
   "test_url": "http://www.gstatic.com/generate_204",
   "test_url_ok": true,
   "timeout_ms": 5000,
-  "total": 3142,
-  "working": 149,
-  "failed": 2993,
+  "total": 10290,
+  "working": 1646,
+  "failed": 8644,
   "by_type": {
-    "vless": 39,
-    "vmess": 37,
-    "trojan": 3,
-    "ss": 67,
-    "hy2": 3
+    "ss": 1122,
+    "vmess": 91,
+    "trojan": 265,
+    "vless": 160,
+    "hy2": 7,
+    "ssr": 1
   },
   "fastest": [
     {
-      "name": "Tel-@ProxyMtAlpha🫚",
-      "delay_ms": 207,
+      "name": "🇺🇸 | تلگرام: @IRJetConfig #RK-6",
+      "delay_ms": 423,
       "type": "ss"
     },
     {
-      "name": "🇺🇸210148",
-      "delay_ms": 208,
+      "name": "🇬🇧 Join+Telegram:@Farah_VPN 🇬🇧-6",
+      "delay_ms": 510,
       "type": "ss"
     },
     {
-      "name": "🇺🇸162054",
-      "delay_ms": 211,
+      "name": "@vpnbaZ-2",
+      "delay_ms": 529,
       "type": "ss"
     },
     {
-      "name": "@tootffarangi🍓-10",
-      "delay_ms": 216,
+      "name": "Tel-@ProxyMtAlpha🐽 3",
+      "delay_ms": 529,
       "type": "ss"
     },
     {
-      "name": "@V2rayNGVPN-4",
-      "delay_ms": 217,
+      "name": "Tel-@ProxyMtAlpha🫚 8",
+      "delay_ms": 532,
       "type": "ss"
     },
     {
-      "name": "@V2ray_Alpha🐭2",
-      "delay_ms": 217,
+      "name": "تو کانال نتورلد نباشید قطع میشن@networld_vpn-16",
+      "delay_ms": 532,
       "type": "ss"
     },
     {
-      "name": "🇺🇸@FreakConfig",
-      "delay_ms": 219,
+      "name": "🇺🇸 Join+Telegram:@Farah_VPN 🇺🇸-4",
+      "delay_ms": 532,
       "type": "ss"
     },
     {
-      "name": "@V2rayNPVTConfig-6",
-      "delay_ms": 223,
-      "type": "vmess"
+      "name": "IRAN_V2PING@-15",
+      "delay_ms": 533,
+      "type": "ss"
     },
     {
-      "name": "13178@proxy_online_net",
-      "delay_ms": 228,
-      "type": "vmess"
+      "name": "@vasl_bashim-10",
+      "delay_ms": 534,
+      "type": "ss"
     },
     {
-      "name": "@V2rayNPVTConfig-5",
-      "delay_ms": 232,
-      "type": "vmess"
+      "name": "@VConfing-12",
+      "delay_ms": 535,
+      "type": "ss"
     }
   ]
 }
