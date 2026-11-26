@@ -1,68 +1,68 @@
 {
-  "generated_at": "2026-11-26T01:25:33Z",
+  "generated_at": "2026-11-26T16:09:19Z",
   "test_url": "http://www.gstatic.com/generate_204",
   "test_url_ok": true,
   "timeout_ms": 5000,
-  "total": 10290,
-  "working": 1646,
-  "failed": 8644,
+  "total": 10818,
+  "working": 1756,
+  "failed": 9062,
   "by_type": {
-    "ss": 1122,
-    "vmess": 91,
-    "trojan": 265,
-    "vless": 160,
-    "hy2": 7,
-    "ssr": 1
+    "ss": 1173,
+    "vmess": 106,
+    "trojan": 339,
+    "vless": 129,
+    "ssr": 1,
+    "hy2": 8
   },
   "fastest": [
     {
-      "name": "🇺🇸 | تلگرام: @IRJetConfig #RK-6",
-      "delay_ms": 423,
+      "name": "VEGAAS_VPN",
+      "delay_ms": 410,
       "type": "ss"
     },
     {
-      "name": "🇬🇧 Join+Telegram:@Farah_VPN 🇬🇧-6",
-      "delay_ms": 510,
+      "name": "@i10VPN⁶-2",
+      "delay_ms": 490,
       "type": "ss"
     },
     {
-      "name": "@vpnbaZ-2",
-      "delay_ms": 529,
+      "name": "@Nexus_Panell چنل تلگرام-8",
+      "delay_ms": 491,
       "type": "ss"
     },
     {
-      "name": "Tel-@ProxyMtAlpha🐽 3",
-      "delay_ms": 529,
+      "name": "@ghand_sheken-12",
+      "delay_ms": 524,
       "type": "ss"
     },
     {
-      "name": "Tel-@ProxyMtAlpha🫚 8",
-      "delay_ms": 532,
+      "name": "@i10VPN⁴-3",
+      "delay_ms": 524,
       "type": "ss"
     },
     {
-      "name": "تو کانال نتورلد نباشید قطع میشن@networld_vpn-16",
-      "delay_ms": 532,
+      "name": "@i10VPN⁸-2",
+      "delay_ms": 537,
       "type": "ss"
     },
     {
-      "name": "🇺🇸 Join+Telegram:@Farah_VPN 🇺🇸-4",
-      "delay_ms": 532,
+      "name": "@i10VPN⁶-3",
+      "delay_ms": 538,
       "type": "ss"
     },
     {
-      "name": "IRAN_V2PING@-15",
-      "delay_ms": 533,
+      "name": "@i10VPN²-3",
+      "delay_ms": 541,
       "type": "ss"
     },
     {
-      "name": "@vasl_bashim-10",
-      "delay_ms": 534,
+      "name": "🇺🇸 Join+Telegram:@Farah_VPN 🇺🇸-8",
+      "delay_ms": 544,
       "type": "ss"
     },
     {
-      "name": "@VConfing-12",
-      "delay_ms": 535,
+      "name": "@V2raySamanbot-12",
+      "delay_ms": 545,
       "type": "ss"
     }
   ]
