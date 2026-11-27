@@ -1,68 +1,67 @@
 {
-  "generated_at": "2026-11-26T16:09:19Z",
+  "generated_at": "2026-11-27T01:23:09Z",
   "test_url": "http://www.gstatic.com/generate_204",
   "test_url_ok": true,
   "timeout_ms": 5000,
-  "total": 10818,
-  "working": 1756,
-  "failed": 9062,
+  "total": 10516,
+  "working": 1781,
+  "failed": 8735,
   "by_type": {
-    "ss": 1173,
-    "vmess": 106,
-    "trojan": 339,
-    "vless": 129,
-    "ssr": 1,
-    "hy2": 8
+    "ss": 1187,
+    "trojan": 337,
+    "vless": 159,
+    "vmess": 87,
+    "hy2": 11
   },
   "fastest": [
     {
-      "name": "VEGAAS_VPN",
-      "delay_ms": 410,
+      "name": "@ConfigV2RayNG 🇺🇸-4",
+      "delay_ms": 335,
       "type": "ss"
     },
     {
-      "name": "@i10VPN⁶-2",
-      "delay_ms": 490,
+      "name": "@i10VPN⁴-5",
+      "delay_ms": 393,
       "type": "ss"
     },
     {
-      "name": "@Nexus_Panell چنل تلگرام-8",
-      "delay_ms": 491,
+      "name": "@V2ray_Alpha🐭 5",
+      "delay_ms": 394,
       "type": "ss"
     },
     {
-      "name": "@ghand_sheken-12",
-      "delay_ms": 524,
+      "name": "@appsooner کانال تلگرام 🕊️-14",
+      "delay_ms": 405,
       "type": "ss"
     },
     {
-      "name": "@i10VPN⁴-3",
-      "delay_ms": 524,
+      "name": "@meliproxyy-28",
+      "delay_ms": 421,
       "type": "ss"
     },
     {
-      "name": "@i10VPN⁸-2",
-      "delay_ms": 537,
+      "name": "Tel-@ProxyMtAlpha🐽 2",
+      "delay_ms": 426,
       "type": "ss"
     },
     {
-      "name": "@i10VPN⁶-3",
-      "delay_ms": 538,
+      "name": "@v2ray_phoenix-33",
+      "delay_ms": 427,
       "type": "ss"
     },
     {
-      "name": "@i10VPN²-3",
-      "delay_ms": 541,
+      "name": "🇨🇦 ⚜️𝗝𝗼𝗶𝗻 ➠[Telegram:tik7net_vpn]-2",
+      "delay_ms": 427,
       "type": "ss"
     },
     {
-      "name": "🇺🇸 Join+Telegram:@Farah_VPN 🇺🇸-8",
-      "delay_ms": 544,
+      "name": "@V2ray_Alpha🎱 14",
+      "delay_ms": 428,
       "type": "ss"
     },
     {
-      "name": "@V2raySamanbot-12",
-      "delay_ms": 545,
+      "name": "@V2ray_Alpha🎱 11",
+      "delay_ms": 430,
       "type": "ss"
     }
   ]
