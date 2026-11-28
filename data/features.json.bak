@@ -24,9 +24,9 @@
       "subscriptions/mix-base64.txt",
       "subscriptions/mix-normal.txt"
     ],
-    "TotalNodes": 9184,
-    "LastAnalyzed": "2026-11-27T15:56:11.7273701+00:00",
-    "AnalysisCount": 35,
+    "TotalNodes": 8979,
+    "LastAnalyzed": "2026-11-28T00:55:57.7927106+00:00",
+    "AnalysisCount": 36,
     "IsReliable": true
   },
   "chengaopan/AutoMergePublicNodes": {
@@ -176,8 +176,8 @@
     "Category": 0,
     "KnownSubPaths": [],
     "TotalNodes": 0,
-    "LastAnalyzed": "2026-11-27T15:56:12.0527516+00:00",
-    "AnalysisCount": 28,
+    "LastAnalyzed": "2026-11-28T00:55:58.073691+00:00",
+    "AnalysisCount": 29,
     "IsReliable": false
   },
   "nodesradar/nodesradar-my": {
@@ -185,8 +185,8 @@
     "Category": 0,
     "KnownSubPaths": [],
     "TotalNodes": 0,
-    "LastAnalyzed": "2026-11-27T15:56:12.3465569+00:00",
-    "AnalysisCount": 28,
+    "LastAnalyzed": "2026-11-28T00:55:58.2910801+00:00",
+    "AnalysisCount": 29,
     "IsReliable": false
   },
   "nodesradar/nodesradar-id": {
@@ -194,8 +194,8 @@
     "Category": 0,
     "KnownSubPaths": [],
     "TotalNodes": 0,
-    "LastAnalyzed": "2026-11-27T15:56:12.6708792+00:00",
-    "AnalysisCount": 26,
+    "LastAnalyzed": "2026-11-28T00:55:58.6146198+00:00",
+    "AnalysisCount": 27,
     "IsReliable": false
   },
   "nodesradar/nodesradar-vi": {
@@ -203,8 +203,8 @@
     "Category": 0,
     "KnownSubPaths": [],
     "TotalNodes": 0,
-    "LastAnalyzed": "2026-11-27T15:56:12.6733432+00:00",
-    "AnalysisCount": 25,
+    "LastAnalyzed": "2026-11-28T00:55:59.0632545+00:00",
+    "AnalysisCount": 26,
     "IsReliable": false
   },
   "nodesradar/nodesradar-ar": {
@@ -221,8 +221,8 @@
     "Category": 0,
     "KnownSubPaths": [],
     "TotalNodes": 0,
-    "LastAnalyzed": "2026-11-27T01:22:59.6897606+00:00",
-    "AnalysisCount": 22,
+    "LastAnalyzed": "2026-11-27T15:56:13.0724953+00:00",
+    "AnalysisCount": 23,
     "IsReliable": false
   },
   "zhangdunlong/free-v2ray-nodes": {
@@ -266,8 +266,8 @@
       "2025/8/clash.yaml"
     ],
     "TotalNodes": 169,
-    "LastAnalyzed": "2026-11-25T01:44:30.2665645+00:00",
-    "AnalysisCount": 2,
+    "LastAnalyzed": "2026-11-28T00:55:57.5313971+00:00",
+    "AnalysisCount": 3,
     "IsReliable": true
   },
   "nodesfree/nodesfree.github.io": {
@@ -275,8 +275,8 @@
     "Category": 0,
     "KnownSubPaths": [],
     "TotalNodes": 0,
-    "LastAnalyzed": "2026-11-20T06:07:37.1770619+00:00",
-    "AnalysisCount": 2,
+    "LastAnalyzed": "2026-11-28T00:55:58.0242634+00:00",
+    "AnalysisCount": 3,
     "IsReliable": false
   },
   "TG-NAV/nodeshare": {
@@ -431,9 +431,9 @@
     "KnownSubPaths": [
       "sub"
     ],
-    "TotalNodes": 3,
-    "LastAnalyzed": "2026-11-20T19:23:47.1926017+00:00",
-    "AnalysisCount": 1,
+    "TotalNodes": 5,
+    "LastAnalyzed": "2026-11-28T00:55:57.6005851+00:00",
+    "AnalysisCount": 2,
     "IsReliable": true
   },
   "bubu629/free-aiptv-global-channels-solana-vpn--nodes-tv-tv6868-v2ray-vless-shadow": {
@@ -550,9 +550,9 @@
     "KnownSubPaths": [
       "sub.txt"
     ],
-    "TotalNodes": 8955,
-    "LastAnalyzed": "2026-11-27T15:56:11.4279446+00:00",
-    "AnalysisCount": 5,
+    "TotalNodes": 8865,
+    "LastAnalyzed": "2026-11-28T00:55:57.4399151+00:00",
+    "AnalysisCount": 6,
     "IsReliable": true
   },
   "zs350235495-ui/tuijian": {

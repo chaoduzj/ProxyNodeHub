@@ -1,69 +1,68 @@
 {
-  "generated_at": "2026-11-27T15:56:23Z",
+  "generated_at": "2026-11-28T00:56:08Z",
   "test_url": "http://www.gstatic.com/generate_204",
   "test_url_ok": true,
   "timeout_ms": 5000,
-  "total": 10450,
-  "working": 1557,
-  "failed": 8893,
+  "total": 10774,
+  "working": 1865,
+  "failed": 8909,
   "by_type": {
-    "ss": 1030,
-    "trojan": 349,
-    "vless": 101,
-    "vmess": 75,
-    "ssr": 1,
-    "hy2": 1
+    "ss": 1224,
+    "trojan": 335,
+    "vless": 172,
+    "vmess": 127,
+    "hy2": 7
   },
   "fastest": [
     {
-      "name": "🇺🇸 | تلگرام: @IRJetConfig #RK-7",
-      "delay_ms": 307,
+      "name": "@FarazV2ray-40",
+      "delay_ms": 163,
       "type": "ss"
     },
     {
-      "name": "Tel-@ProxyMtAlpha🐽 1",
-      "delay_ms": 408,
+      "name": "@ConfigV2RayNG-20",
+      "delay_ms": 234,
       "type": "ss"
     },
     {
-      "name": "@i10VPN¹⁰-3",
-      "delay_ms": 453,
+      "name": "تو کانال نتورلد نباشید قطع میشن@networld_vpn-17",
+      "delay_ms": 236,
       "type": "ss"
     },
     {
-      "name": "@Tarkshodeh 🇧🇲-4",
-      "delay_ms": 458,
+      "name": "@i10VPN⁵-3",
+      "delay_ms": 239,
       "type": "ss"
     },
     {
-      "name": "@i10VPN⁴-3",
-      "delay_ms": 459,
+      "name": "ᴛᴇʟᴇɢʀᴀᴍ ɪᴅ = @ꜰxxɴᴇᴛ🍋",
+      "delay_ms": 242,
       "type": "ss"
     },
     {
-      "name": "@AZARBAYJB1",
-      "delay_ms": 467,
+      "name": "🇺🇸232249 | ⚡️Telegram = t.me/SOSkeyNET",
+      "delay_ms": 242,
       "type": "ss"
     },
     {
-      "name": "🇺🇸 | تلگرام: @IRJetConfig #RK-3",
-      "delay_ms": 492,
+      "name": "@meliproxyy-43",
+      "delay_ms": 246,
       "type": "ss"
     },
     {
-      "name": "@i10VPN²",
-      "delay_ms": 493,
+      "name": "تو کانال نتورلد نباشید قطع میشن@networld_vpn-14",
+      "delay_ms": 247,
       "type": "ss"
     },
     {
-      "name": "@i10VPN⁵-8",
-      "delay_ms": 530,
-      "type": "trojan"
+      "name": "🇺🇸@FreakConfig-2",
+      "delay_ms": 247,
+      "type": "ss"
     },
     {
-      "name": "@i10VPN⁷-8",
-      "delay_ms": 530,
-      "type": "trojan"
+      "name": "@V2ray_Alpha🐂 5",
+      "delay_ms": 248,
+      "type": "ss"
     }
   ]
 }
