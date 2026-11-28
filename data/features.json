@@ -24,9 +24,9 @@
       "subscriptions/mix-base64.txt",
       "subscriptions/mix-normal.txt"
     ],
-    "TotalNodes": 8979,
-    "LastAnalyzed": "2026-11-28T00:55:57.7927106+00:00",
-    "AnalysisCount": 36,
+    "TotalNodes": 8927,
+    "LastAnalyzed": "2026-11-28T14:52:29.4101754+00:00",
+    "AnalysisCount": 37,
     "IsReliable": true
   },
   "chengaopan/AutoMergePublicNodes": {
@@ -62,9 +62,9 @@
     "KnownSubPaths": [
       "sub"
     ],
-    "TotalNodes": 8,
-    "LastAnalyzed": "2026-11-27T15:56:11.427941+00:00",
-    "AnalysisCount": 25,
+    "TotalNodes": 9,
+    "LastAnalyzed": "2026-11-28T14:52:29.0869918+00:00",
+    "AnalysisCount": 26,
     "IsReliable": true
   },
   "4q4r/assay": {
@@ -94,8 +94,8 @@
       "sub.txt"
     ],
     "TotalNodes": 20,
-    "LastAnalyzed": "2026-11-27T15:56:11.7746548+00:00",
-    "AnalysisCount": 19,
+    "LastAnalyzed": "2026-11-28T14:52:29.8442096+00:00",
+    "AnalysisCount": 20,
     "IsReliable": true
   },
   "VoroninaYanina/free-nodes": {
@@ -176,8 +176,8 @@
     "Category": 0,
     "KnownSubPaths": [],
     "TotalNodes": 0,
-    "LastAnalyzed": "2026-11-28T00:55:58.073691+00:00",
-    "AnalysisCount": 29,
+    "LastAnalyzed": "2026-11-28T14:52:30.1457364+00:00",
+    "AnalysisCount": 30,
     "IsReliable": false
   },
   "nodesradar/nodesradar-my": {
@@ -185,8 +185,8 @@
     "Category": 0,
     "KnownSubPaths": [],
     "TotalNodes": 0,
-    "LastAnalyzed": "2026-11-28T00:55:58.2910801+00:00",
-    "AnalysisCount": 29,
+    "LastAnalyzed": "2026-11-28T14:52:30.1738525+00:00",
+    "AnalysisCount": 30,
     "IsReliable": false
   },
   "nodesradar/nodesradar-id": {
@@ -194,8 +194,8 @@
     "Category": 0,
     "KnownSubPaths": [],
     "TotalNodes": 0,
-    "LastAnalyzed": "2026-11-28T00:55:58.6146198+00:00",
-    "AnalysisCount": 27,
+    "LastAnalyzed": "2026-11-28T14:52:30.5303856+00:00",
+    "AnalysisCount": 28,
     "IsReliable": false
   },
   "nodesradar/nodesradar-vi": {
@@ -321,9 +321,9 @@
     "KnownSubPaths": [
       "mixed_iran.txt"
     ],
-    "TotalNodes": 450,
-    "LastAnalyzed": "2026-11-26T16:09:09.9773849+00:00",
-    "AnalysisCount": 4,
+    "TotalNodes": 438,
+    "LastAnalyzed": "2026-11-28T14:52:29.7751196+00:00",
+    "AnalysisCount": 5,
     "IsReliable": true
   },
   "Reconss/free-clash-nodes": {
@@ -392,17 +392,17 @@
   },
   "rtwo2/FastNodes": {
     "FullName": "rtwo2/FastNodes",
-    "Category": 0,
+    "Category": 1,
     "KnownSubPaths": [
       "sub/top.txt",
       "sub/top_ipv6.txt",
       "sub/verified.txt",
       "sub/ipv6_only.txt"
     ],
-    "TotalNodes": 7069,
-    "LastAnalyzed": "2026-11-24T16:41:31.2801798+00:00",
-    "AnalysisCount": 3,
-    "IsReliable": true
+    "TotalNodes": 1061,
+    "LastAnalyzed": "2026-11-28T14:52:30.0301564+00:00",
+    "AnalysisCount": 4,
+    "IsReliable": false
   },
   "liuarui/komari-plugin-kns": {
     "FullName": "liuarui/komari-plugin-kns",
@@ -550,9 +550,9 @@
     "KnownSubPaths": [
       "sub.txt"
     ],
-    "TotalNodes": 8865,
-    "LastAnalyzed": "2026-11-28T00:55:57.4399151+00:00",
-    "AnalysisCount": 6,
+    "TotalNodes": 8817,
+    "LastAnalyzed": "2026-11-28T14:52:29.0869882+00:00",
+    "AnalysisCount": 7,
     "IsReliable": true
   },
   "zs350235495-ui/tuijian": {
@@ -561,6 +561,15 @@
     "KnownSubPaths": [],
     "TotalNodes": 0,
     "LastAnalyzed": "2026-11-26T16:09:10.4043778+00:00",
+    "AnalysisCount": 1,
+    "IsReliable": false
+  },
+  "huzgnm/oxray": {
+    "FullName": "huzgnm/oxray",
+    "Category": 0,
+    "KnownSubPaths": [],
+    "TotalNodes": 0,
+    "LastAnalyzed": "2026-11-28T14:52:29.1308843+00:00",
     "AnalysisCount": 1,
     "IsReliable": false
   }
